@@ -40,8 +40,8 @@
 - 🔍 Extraction of key data points and correlations from change logs, incident history, and trace logs  
 
 ## 🎥 Demo
-🔗 [Live Demo - Part1](#artifacts/Videos/Video1.mov) 
-   [Live Demo - Part2](#artifacts/Videos/Video2.mov) 
+🔗 [Live Demo - Part1-Sigma-AI APP](#artifacts/Videos/Video1.mov) 
+   [Live Demo - Part2-Underthehood](#artifacts/Videos/Video2.mov) 
 
 ## 🖥️ User-Interface Overview
 
