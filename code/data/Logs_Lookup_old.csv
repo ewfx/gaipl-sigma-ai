@@ -1,0 +1,2019 @@
+trace_id,log
+3444ff98-3df2-42da-856c-d025ba8ba483,System resources exhausted: CPU at 95%.
+3444ff98-3df2-42da-856c-d025ba8ba483,Patch deployment in progress - system running in degraded mode.
+3444ff98-3df2-42da-856c-d025ba8ba483,"Request received by gateway, processing started."
+0172220e-317e-461e-a0ba-6016ff73e29b,Retrying the request due to transient error.
+0172220e-317e-461e-a0ba-6016ff73e29b,Malformed JSON received in response payload.
+0172220e-317e-461e-a0ba-6016ff73e29b,Patch deployment in progress - system running in degraded mode.
+3ac7a61d-52c5-47ce-a130-f9603bd7a100,Timeout occurred while waiting for response.
+3ac7a61d-52c5-47ce-a130-f9603bd7a100,Trace completed with status code 500.
+3ac7a61d-52c5-47ce-a130-f9603bd7a100,Malformed JSON received in response payload.
+15f3c88f-89b6-468b-a02c-678d3405f045,Retrying the request due to transient error.
+15f3c88f-89b6-468b-a02c-678d3405f045,SGA encountered a technical error at stage 2.
+15f3c88f-89b6-468b-a02c-678d3405f045,Request forwarded to backend service.
+b1351c0f-40ef-4698-a757-ab2a8fc7ce84,Error: Authentication token expired.
+b1351c0f-40ef-4698-a757-ab2a8fc7ce84,Patch deployment in progress - system running in degraded mode.
+b1351c0f-40ef-4698-a757-ab2a8fc7ce84,Request forwarded to backend service.
+b1351c0f-40ef-4698-a757-ab2a8fc7ce84,Timeout occurred while waiting for response.
+16112d1a-f1dd-47c0-9c2b-4d0cf189f0ae,Request forwarded to backend service.
+16112d1a-f1dd-47c0-9c2b-4d0cf189f0ae,Retrying the request due to transient error.
+16112d1a-f1dd-47c0-9c2b-4d0cf189f0ae,"Request received by gateway, processing started."
+16112d1a-f1dd-47c0-9c2b-4d0cf189f0ae,Validation failed due to missing headers.
+78deb577-30aa-456e-baf7-874e9a58eaab,Request forwarded to backend service.
+78deb577-30aa-456e-baf7-874e9a58eaab,Trace completed with status code 500.
+78deb577-30aa-456e-baf7-874e9a58eaab,"Request received by gateway, processing started."
+78deb577-30aa-456e-baf7-874e9a58eaab,Patch deployment in progress - system running in degraded mode.
+3b1544f7-2961-4a53-b661-7f34a38de19c,Retrying the request due to transient error.
+3b1544f7-2961-4a53-b661-7f34a38de19c,"Request received by gateway, processing started."
+54ce02a3-fa14-4c66-bd4f-e164ce1972bb,Timeout occurred while waiting for response.
+54ce02a3-fa14-4c66-bd4f-e164ce1972bb,Retrying the request due to transient error.
+54ce02a3-fa14-4c66-bd4f-e164ce1972bb,Error: Authentication token expired.
+54ce02a3-fa14-4c66-bd4f-e164ce1972bb,"Request received by gateway, processing started."
+54ce02a3-fa14-4c66-bd4f-e164ce1972bb,Trace completed with status code 500.
+0d6c84fc-c9be-43d0-96bd-05cdd0339737,"Request received by gateway, processing started."
+0d6c84fc-c9be-43d0-96bd-05cdd0339737,SGA encountered a technical error at stage 2.
+2d990d74-7bda-4cc7-b9ce-e90a33e31a5a,Validation failed due to missing headers.
+2d990d74-7bda-4cc7-b9ce-e90a33e31a5a,Patch deployment in progress - system running in degraded mode.
+2d990d74-7bda-4cc7-b9ce-e90a33e31a5a,Timeout occurred while waiting for response.
+2d990d74-7bda-4cc7-b9ce-e90a33e31a5a,Trace completed with status code 500.
+e1be253b-dfbb-442f-82b5-0b9c64fd51b6,Malformed JSON received in response payload.
+e1be253b-dfbb-442f-82b5-0b9c64fd51b6,Timeout occurred while waiting for response.
+e1be253b-dfbb-442f-82b5-0b9c64fd51b6,"Request received by gateway, processing started."
+52422ef4-f7a3-4cf3-ad27-c1f7d07fd6b2,Request forwarded to backend service.
+52422ef4-f7a3-4cf3-ad27-c1f7d07fd6b2,Validation failed due to missing headers.
+52422ef4-f7a3-4cf3-ad27-c1f7d07fd6b2,Retrying the request due to transient error.
+52422ef4-f7a3-4cf3-ad27-c1f7d07fd6b2,Malformed JSON received in response payload.
+746c6fba-71f8-4689-a4cf-bc09430c27c2,Timeout occurred while waiting for response.
+746c6fba-71f8-4689-a4cf-bc09430c27c2,Retrying the request due to transient error.
+746c6fba-71f8-4689-a4cf-bc09430c27c2,Patch deployment in progress - system running in degraded mode.
+746c6fba-71f8-4689-a4cf-bc09430c27c2,"Request received by gateway, processing started."
+746c6fba-71f8-4689-a4cf-bc09430c27c2,Malformed JSON received in response payload.
+91616527-82fd-4801-a47b-de9608f2b3dd,Malformed JSON received in response payload.
+91616527-82fd-4801-a47b-de9608f2b3dd,Validation failed due to missing headers.
+91616527-82fd-4801-a47b-de9608f2b3dd,Error: Authentication token expired.
+91616527-82fd-4801-a47b-de9608f2b3dd,Request forwarded to backend service.
+91616527-82fd-4801-a47b-de9608f2b3dd,System resources exhausted: CPU at 95%.
+f707cc59-01ed-4b25-8dba-9381949cda21,Error: Authentication token expired.
+f707cc59-01ed-4b25-8dba-9381949cda21,System resources exhausted: CPU at 95%.
+f707cc59-01ed-4b25-8dba-9381949cda21,"Request received by gateway, processing started."
+f707cc59-01ed-4b25-8dba-9381949cda21,Patch deployment in progress - system running in degraded mode.
+f707cc59-01ed-4b25-8dba-9381949cda21,Validation failed due to missing headers.
+74b039f3-ba57-41f9-bcc4-d0499fea145d,Timeout occurred while waiting for response.
+74b039f3-ba57-41f9-bcc4-d0499fea145d,Malformed JSON received in response payload.
+74b039f3-ba57-41f9-bcc4-d0499fea145d,Patch deployment in progress - system running in degraded mode.
+74b039f3-ba57-41f9-bcc4-d0499fea145d,Retrying the request due to transient error.
+74b039f3-ba57-41f9-bcc4-d0499fea145d,System resources exhausted: CPU at 95%.
+f27a4420-bb89-4e65-9ff3-b00f95247304,System resources exhausted: CPU at 95%.
+f27a4420-bb89-4e65-9ff3-b00f95247304,Malformed JSON received in response payload.
+b4cb398b-5d4a-4c9a-ba28-c3065c97e432,Error: Authentication token expired.
+b4cb398b-5d4a-4c9a-ba28-c3065c97e432,Trace completed with status code 500.
+b4cb398b-5d4a-4c9a-ba28-c3065c97e432,Timeout occurred while waiting for response.
+110a0eae-309e-434e-8a7d-8c57871f15f4,Trace completed with status code 500.
+110a0eae-309e-434e-8a7d-8c57871f15f4,Malformed JSON received in response payload.
+0fa27930-a106-4c36-89a6-b8f2c766b4d5,Retrying the request due to transient error.
+0fa27930-a106-4c36-89a6-b8f2c766b4d5,Validation failed due to missing headers.
+4e7b33a6-3783-41a5-a806-d30659ea74ba,Request forwarded to backend service.
+4e7b33a6-3783-41a5-a806-d30659ea74ba,System resources exhausted: CPU at 95%.
+4e7b33a6-3783-41a5-a806-d30659ea74ba,Error: Authentication token expired.
+4e7b33a6-3783-41a5-a806-d30659ea74ba,Validation failed due to missing headers.
+b901ef2c-c197-414f-adac-b9e890283752,Patch deployment in progress - system running in degraded mode.
+b901ef2c-c197-414f-adac-b9e890283752,Retrying the request due to transient error.
+b901ef2c-c197-414f-adac-b9e890283752,Error: Authentication token expired.
+70b1b820-d9ec-4668-a8e9-31688c267f56,Request forwarded to backend service.
+70b1b820-d9ec-4668-a8e9-31688c267f56,Validation failed due to missing headers.
+d86279eb-35c2-4063-8453-8fa23c75171a,Retrying the request due to transient error.
+d86279eb-35c2-4063-8453-8fa23c75171a,Validation failed due to missing headers.
+d86279eb-35c2-4063-8453-8fa23c75171a,Malformed JSON received in response payload.
+d86279eb-35c2-4063-8453-8fa23c75171a,Patch deployment in progress - system running in degraded mode.
+d86279eb-35c2-4063-8453-8fa23c75171a,Request forwarded to backend service.
+a4b3af83-f059-47d7-8735-5bb2eafac25a,"Request received by gateway, processing started."
+a4b3af83-f059-47d7-8735-5bb2eafac25a,Malformed JSON received in response payload.
+a4b3af83-f059-47d7-8735-5bb2eafac25a,Validation failed due to missing headers.
+314df669-d1fb-435a-9057-de297741c409,Malformed JSON received in response payload.
+314df669-d1fb-435a-9057-de297741c409,Trace completed with status code 500.
+314df669-d1fb-435a-9057-de297741c409,Error: Authentication token expired.
+314df669-d1fb-435a-9057-de297741c409,Timeout occurred while waiting for response.
+1472459a-b860-49d5-8396-571b37adf8ac,Trace completed with status code 500.
+1472459a-b860-49d5-8396-571b37adf8ac,Error: Authentication token expired.
+1472459a-b860-49d5-8396-571b37adf8ac,System resources exhausted: CPU at 95%.
+1472459a-b860-49d5-8396-571b37adf8ac,Request forwarded to backend service.
+1472459a-b860-49d5-8396-571b37adf8ac,Patch deployment in progress - system running in degraded mode.
+337417d3-d5f4-47ba-9994-e5f8cf54a212,Trace completed with status code 500.
+337417d3-d5f4-47ba-9994-e5f8cf54a212,Timeout occurred while waiting for response.
+94719cfc-39c4-4074-b484-9e9ef15d4fb1,Request forwarded to backend service.
+94719cfc-39c4-4074-b484-9e9ef15d4fb1,Malformed JSON received in response payload.
+94719cfc-39c4-4074-b484-9e9ef15d4fb1,"Request received by gateway, processing started."
+31ff23c6-92c0-4cf4-91da-d04bb4941297,System resources exhausted: CPU at 95%.
+31ff23c6-92c0-4cf4-91da-d04bb4941297,Trace completed with status code 500.
+31ff23c6-92c0-4cf4-91da-d04bb4941297,Validation failed due to missing headers.
+52c2eccc-aea2-483a-8eba-bfa844ddd59d,Retrying the request due to transient error.
+52c2eccc-aea2-483a-8eba-bfa844ddd59d,"Request received by gateway, processing started."
+806a4350-950a-4ad2-ac78-42f13d98302d,Retrying the request due to transient error.
+806a4350-950a-4ad2-ac78-42f13d98302d,System resources exhausted: CPU at 95%.
+806a4350-950a-4ad2-ac78-42f13d98302d,Request forwarded to backend service.
+806a4350-950a-4ad2-ac78-42f13d98302d,Patch deployment in progress - system running in degraded mode.
+05b25837-efc1-4fba-8259-a1187249caac,Request forwarded to backend service.
+05b25837-efc1-4fba-8259-a1187249caac,SGA encountered a technical error at stage 2.
+05b25837-efc1-4fba-8259-a1187249caac,Timeout occurred while waiting for response.
+05b25837-efc1-4fba-8259-a1187249caac,Patch deployment in progress - system running in degraded mode.
+05b25837-efc1-4fba-8259-a1187249caac,"Request received by gateway, processing started."
+8cb85f55-922c-44c1-9c1a-efb814f95946,Timeout occurred while waiting for response.
+8cb85f55-922c-44c1-9c1a-efb814f95946,Validation failed due to missing headers.
+164afe6e-6926-4e54-9fef-fc90ce2dfe32,Error: Authentication token expired.
+164afe6e-6926-4e54-9fef-fc90ce2dfe32,System resources exhausted: CPU at 95%.
+164afe6e-6926-4e54-9fef-fc90ce2dfe32,Request forwarded to backend service.
+164afe6e-6926-4e54-9fef-fc90ce2dfe32,Retrying the request due to transient error.
+164afe6e-6926-4e54-9fef-fc90ce2dfe32,"Request received by gateway, processing started."
+505e2656-3b69-4d64-a1e2-cfd1fed95c70,"Request received by gateway, processing started."
+505e2656-3b69-4d64-a1e2-cfd1fed95c70,Request forwarded to backend service.
+505e2656-3b69-4d64-a1e2-cfd1fed95c70,Error: Authentication token expired.
+bfe964c9-3920-4169-b76d-a4e69b2b0e46,SGA encountered a technical error at stage 2.
+bfe964c9-3920-4169-b76d-a4e69b2b0e46,Malformed JSON received in response payload.
+bfe964c9-3920-4169-b76d-a4e69b2b0e46,System resources exhausted: CPU at 95%.
+bfe964c9-3920-4169-b76d-a4e69b2b0e46,Trace completed with status code 500.
+bfe964c9-3920-4169-b76d-a4e69b2b0e46,"Request received by gateway, processing started."
+1ac3f3d6-0773-43e6-a5de-4189455985f1,Validation failed due to missing headers.
+1ac3f3d6-0773-43e6-a5de-4189455985f1,Timeout occurred while waiting for response.
+bb82a4c8-c0d0-4c3f-b32c-4d2575900444,SGA encountered a technical error at stage 2.
+bb82a4c8-c0d0-4c3f-b32c-4d2575900444,Timeout occurred while waiting for response.
+bb82a4c8-c0d0-4c3f-b32c-4d2575900444,Malformed JSON received in response payload.
+b6ad1ef1-60ee-4e2f-9a49-18f6bcd4014a,SGA encountered a technical error at stage 2.
+b6ad1ef1-60ee-4e2f-9a49-18f6bcd4014a,Timeout occurred while waiting for response.
+b6ad1ef1-60ee-4e2f-9a49-18f6bcd4014a,Error: Authentication token expired.
+b6ad1ef1-60ee-4e2f-9a49-18f6bcd4014a,Patch deployment in progress - system running in degraded mode.
+b6ad1ef1-60ee-4e2f-9a49-18f6bcd4014a,Trace completed with status code 500.
+70482317-30f0-432b-b63f-0350fe7829d9,Malformed JSON received in response payload.
+70482317-30f0-432b-b63f-0350fe7829d9,SGA encountered a technical error at stage 2.
+70482317-30f0-432b-b63f-0350fe7829d9,Error: Authentication token expired.
+70482317-30f0-432b-b63f-0350fe7829d9,Request forwarded to backend service.
+99b6625d-5a88-4bd1-9d8d-b7c0a86fbb62,System resources exhausted: CPU at 95%.
+99b6625d-5a88-4bd1-9d8d-b7c0a86fbb62,"Request received by gateway, processing started."
+99b6625d-5a88-4bd1-9d8d-b7c0a86fbb62,Validation failed due to missing headers.
+2aa813f1-c1ae-4b00-9258-c7598c625416,"Request received by gateway, processing started."
+2aa813f1-c1ae-4b00-9258-c7598c625416,Error: Authentication token expired.
+2aa813f1-c1ae-4b00-9258-c7598c625416,Patch deployment in progress - system running in degraded mode.
+2aa813f1-c1ae-4b00-9258-c7598c625416,SGA encountered a technical error at stage 2.
+2aa813f1-c1ae-4b00-9258-c7598c625416,Validation failed due to missing headers.
+6989c43d-afb6-407a-baec-c83a86a0437f,Validation failed due to missing headers.
+6989c43d-afb6-407a-baec-c83a86a0437f,"Request received by gateway, processing started."
+6989c43d-afb6-407a-baec-c83a86a0437f,SGA encountered a technical error at stage 2.
+6989c43d-afb6-407a-baec-c83a86a0437f,System resources exhausted: CPU at 95%.
+bfe83896-95a3-42ce-8830-7d18e87f90cb,Retrying the request due to transient error.
+bfe83896-95a3-42ce-8830-7d18e87f90cb,"Request received by gateway, processing started."
+bfe83896-95a3-42ce-8830-7d18e87f90cb,SGA encountered a technical error at stage 2.
+bfe83896-95a3-42ce-8830-7d18e87f90cb,Validation failed due to missing headers.
+b426515e-66eb-43a5-95ad-216871de122b,Patch deployment in progress - system running in degraded mode.
+b426515e-66eb-43a5-95ad-216871de122b,Trace completed with status code 500.
+b426515e-66eb-43a5-95ad-216871de122b,Error: Authentication token expired.
+b426515e-66eb-43a5-95ad-216871de122b,Timeout occurred while waiting for response.
+51c0bd68-c79e-479f-9317-7e9fed3523ab,Retrying the request due to transient error.
+51c0bd68-c79e-479f-9317-7e9fed3523ab,"Request received by gateway, processing started."
+51c0bd68-c79e-479f-9317-7e9fed3523ab,Trace completed with status code 500.
+51c0bd68-c79e-479f-9317-7e9fed3523ab,Request forwarded to backend service.
+51c0bd68-c79e-479f-9317-7e9fed3523ab,System resources exhausted: CPU at 95%.
+aeb9ae96-34fe-40eb-b0b8-7075e24a88ad,System resources exhausted: CPU at 95%.
+aeb9ae96-34fe-40eb-b0b8-7075e24a88ad,SGA encountered a technical error at stage 2.
+aeb9ae96-34fe-40eb-b0b8-7075e24a88ad,Validation failed due to missing headers.
+aeb9ae96-34fe-40eb-b0b8-7075e24a88ad,Timeout occurred while waiting for response.
+aeb9ae96-34fe-40eb-b0b8-7075e24a88ad,Error: Authentication token expired.
+748510e7-2d67-4a7c-ac47-4aa58e22e9bf,SGA encountered a technical error at stage 2.
+748510e7-2d67-4a7c-ac47-4aa58e22e9bf,"Request received by gateway, processing started."
+748510e7-2d67-4a7c-ac47-4aa58e22e9bf,Malformed JSON received in response payload.
+75f9d96c-16e1-4ccb-abed-9eb55bae73b3,Retrying the request due to transient error.
+75f9d96c-16e1-4ccb-abed-9eb55bae73b3,Error: Authentication token expired.
+75f9d96c-16e1-4ccb-abed-9eb55bae73b3,SGA encountered a technical error at stage 2.
+ebe8c840-7379-4633-b55a-87552b73464f,Retrying the request due to transient error.
+ebe8c840-7379-4633-b55a-87552b73464f,Trace completed with status code 500.
+ebe8c840-7379-4633-b55a-87552b73464f,Error: Authentication token expired.
+0a706489-eb00-410a-bf85-fbca10d50ab7,Retrying the request due to transient error.
+0a706489-eb00-410a-bf85-fbca10d50ab7,Malformed JSON received in response payload.
+0a706489-eb00-410a-bf85-fbca10d50ab7,Error: Authentication token expired.
+0a706489-eb00-410a-bf85-fbca10d50ab7,Trace completed with status code 500.
+0a706489-eb00-410a-bf85-fbca10d50ab7,"Request received by gateway, processing started."
+3e9fe8e0-d9e0-48da-9ee7-228cb990eb76,"Request received by gateway, processing started."
+3e9fe8e0-d9e0-48da-9ee7-228cb990eb76,Request forwarded to backend service.
+3e9fe8e0-d9e0-48da-9ee7-228cb990eb76,System resources exhausted: CPU at 95%.
+3e9fe8e0-d9e0-48da-9ee7-228cb990eb76,Trace completed with status code 500.
+f87879fb-3f78-43b7-9bed-5cea5e6efcf5,SGA encountered a technical error at stage 2.
+f87879fb-3f78-43b7-9bed-5cea5e6efcf5,Malformed JSON received in response payload.
+f87879fb-3f78-43b7-9bed-5cea5e6efcf5,Trace completed with status code 500.
+f87879fb-3f78-43b7-9bed-5cea5e6efcf5,Request forwarded to backend service.
+6272f061-fc16-4a44-9328-99969d54b488,Patch deployment in progress - system running in degraded mode.
+6272f061-fc16-4a44-9328-99969d54b488,Retrying the request due to transient error.
+6272f061-fc16-4a44-9328-99969d54b488,SGA encountered a technical error at stage 2.
+6272f061-fc16-4a44-9328-99969d54b488,Error: Authentication token expired.
+3e669534-c559-4102-900d-7c4cbfa47d19,Validation failed due to missing headers.
+3e669534-c559-4102-900d-7c4cbfa47d19,SGA encountered a technical error at stage 2.
+d8392c45-1d62-4142-a83d-888e4479a5c0,Retrying the request due to transient error.
+d8392c45-1d62-4142-a83d-888e4479a5c0,SGA encountered a technical error at stage 2.
+d8392c45-1d62-4142-a83d-888e4479a5c0,"Request received by gateway, processing started."
+d8392c45-1d62-4142-a83d-888e4479a5c0,Patch deployment in progress - system running in degraded mode.
+d8392c45-1d62-4142-a83d-888e4479a5c0,Trace completed with status code 500.
+9af8c9a0-c4a1-4c4d-8b10-7657cae94feb,Request forwarded to backend service.
+9af8c9a0-c4a1-4c4d-8b10-7657cae94feb,Retrying the request due to transient error.
+731a06da-46f0-4fc5-a011-4c1ecc6088ca,Retrying the request due to transient error.
+731a06da-46f0-4fc5-a011-4c1ecc6088ca,Request forwarded to backend service.
+de3ee810-6df4-4aba-824d-abd61393811c,"Request received by gateway, processing started."
+de3ee810-6df4-4aba-824d-abd61393811c,System resources exhausted: CPU at 95%.
+de3ee810-6df4-4aba-824d-abd61393811c,SGA encountered a technical error at stage 2.
+de3ee810-6df4-4aba-824d-abd61393811c,Trace completed with status code 500.
+6a9a13e8-8092-471b-9ec1-f6c0174f91e3,Malformed JSON received in response payload.
+6a9a13e8-8092-471b-9ec1-f6c0174f91e3,"Request received by gateway, processing started."
+6a9a13e8-8092-471b-9ec1-f6c0174f91e3,Trace completed with status code 500.
+3201a624-f3e3-49d7-8c9f-401e893c18f5,"Request received by gateway, processing started."
+3201a624-f3e3-49d7-8c9f-401e893c18f5,Validation failed due to missing headers.
+3201a624-f3e3-49d7-8c9f-401e893c18f5,Error: Authentication token expired.
+50fe03bf-d26d-4ea6-bf40-9762146e3c04,SGA encountered a technical error at stage 2.
+50fe03bf-d26d-4ea6-bf40-9762146e3c04,Request forwarded to backend service.
+50fe03bf-d26d-4ea6-bf40-9762146e3c04,Retrying the request due to transient error.
+9c8d4767-0133-45d7-8cfe-c9f1c3680637,Malformed JSON received in response payload.
+9c8d4767-0133-45d7-8cfe-c9f1c3680637,Timeout occurred while waiting for response.
+9c8d4767-0133-45d7-8cfe-c9f1c3680637,Patch deployment in progress - system running in degraded mode.
+3a9b49e5-577f-4091-a22c-61c0895252f7,Malformed JSON received in response payload.
+3a9b49e5-577f-4091-a22c-61c0895252f7,Patch deployment in progress - system running in degraded mode.
+3a9b49e5-577f-4091-a22c-61c0895252f7,Timeout occurred while waiting for response.
+1a6faf5d-8d7c-487a-b3cb-3f44fe9fe50a,Trace completed with status code 500.
+1a6faf5d-8d7c-487a-b3cb-3f44fe9fe50a,Timeout occurred while waiting for response.
+7e742ff2-4233-46c5-bba1-e390e813edf7,Validation failed due to missing headers.
+7e742ff2-4233-46c5-bba1-e390e813edf7,Trace completed with status code 500.
+7e742ff2-4233-46c5-bba1-e390e813edf7,Timeout occurred while waiting for response.
+7e742ff2-4233-46c5-bba1-e390e813edf7,Patch deployment in progress - system running in degraded mode.
+bc218c51-5490-488b-8188-630c85aa74cb,Trace completed with status code 500.
+bc218c51-5490-488b-8188-630c85aa74cb,Retrying the request due to transient error.
+01e22d25-a7a1-4463-a214-aecc2bad2b3a,System resources exhausted: CPU at 95%.
+01e22d25-a7a1-4463-a214-aecc2bad2b3a,Request forwarded to backend service.
+01e22d25-a7a1-4463-a214-aecc2bad2b3a,"Request received by gateway, processing started."
+01e22d25-a7a1-4463-a214-aecc2bad2b3a,SGA encountered a technical error at stage 2.
+01e22d25-a7a1-4463-a214-aecc2bad2b3a,Error: Authentication token expired.
+f9356371-7099-4f1a-9109-ff6ce980124b,"Request received by gateway, processing started."
+f9356371-7099-4f1a-9109-ff6ce980124b,SGA encountered a technical error at stage 2.
+f9356371-7099-4f1a-9109-ff6ce980124b,Validation failed due to missing headers.
+45518091-73ef-4b96-a5d1-9019aaa6e99c,Malformed JSON received in response payload.
+45518091-73ef-4b96-a5d1-9019aaa6e99c,Validation failed due to missing headers.
+45518091-73ef-4b96-a5d1-9019aaa6e99c,"Request received by gateway, processing started."
+2f640f9e-bba1-4327-8aec-f0e26b583047,Validation failed due to missing headers.
+2f640f9e-bba1-4327-8aec-f0e26b583047,Request forwarded to backend service.
+2f640f9e-bba1-4327-8aec-f0e26b583047,"Request received by gateway, processing started."
+b3ebd737-f2fd-4668-87f5-967797f82c73,"Request received by gateway, processing started."
+b3ebd737-f2fd-4668-87f5-967797f82c73,Malformed JSON received in response payload.
+b3ebd737-f2fd-4668-87f5-967797f82c73,Patch deployment in progress - system running in degraded mode.
+d4532a4d-1cd4-4643-9c1e-52fa3b48e09a,Request forwarded to backend service.
+d4532a4d-1cd4-4643-9c1e-52fa3b48e09a,SGA encountered a technical error at stage 2.
+d4532a4d-1cd4-4643-9c1e-52fa3b48e09a,System resources exhausted: CPU at 95%.
+0f7b34c5-7e2f-412c-8830-0ae9f84f5893,Timeout occurred while waiting for response.
+0f7b34c5-7e2f-412c-8830-0ae9f84f5893,Retrying the request due to transient error.
+0f7b34c5-7e2f-412c-8830-0ae9f84f5893,"Request received by gateway, processing started."
+0f4d72a1-7f3f-4b61-9cc5-3672664160ac,Timeout occurred while waiting for response.
+0f4d72a1-7f3f-4b61-9cc5-3672664160ac,Error: Authentication token expired.
+c78edb85-3a60-40de-9798-e89c4a787c69,Malformed JSON received in response payload.
+c78edb85-3a60-40de-9798-e89c4a787c69,Timeout occurred while waiting for response.
+c78edb85-3a60-40de-9798-e89c4a787c69,Trace completed with status code 500.
+c78edb85-3a60-40de-9798-e89c4a787c69,Validation failed due to missing headers.
+8d8237ff-e161-4ad6-9870-958ed3940dc6,SGA encountered a technical error at stage 2.
+8d8237ff-e161-4ad6-9870-958ed3940dc6,"Request received by gateway, processing started."
+8d8237ff-e161-4ad6-9870-958ed3940dc6,Validation failed due to missing headers.
+8d8237ff-e161-4ad6-9870-958ed3940dc6,Request forwarded to backend service.
+336c1e9e-dda7-47b8-bfab-afa9a536115f,Retrying the request due to transient error.
+336c1e9e-dda7-47b8-bfab-afa9a536115f,SGA encountered a technical error at stage 2.
+336c1e9e-dda7-47b8-bfab-afa9a536115f,Trace completed with status code 500.
+45cc1853-2c0f-4ca7-8e0d-5f8235d5e3b5,Trace completed with status code 500.
+45cc1853-2c0f-4ca7-8e0d-5f8235d5e3b5,Malformed JSON received in response payload.
+27f72e8c-67be-411f-a4ee-4bf3f5f97de8,"Request received by gateway, processing started."
+27f72e8c-67be-411f-a4ee-4bf3f5f97de8,System resources exhausted: CPU at 95%.
+9e5a6749-4cf0-42df-a074-64a64fc00ac7,Patch deployment in progress - system running in degraded mode.
+9e5a6749-4cf0-42df-a074-64a64fc00ac7,Timeout occurred while waiting for response.
+9e5a6749-4cf0-42df-a074-64a64fc00ac7,Request forwarded to backend service.
+6ed8024d-f79b-4ff6-a13e-ea373f7f6499,Request forwarded to backend service.
+6ed8024d-f79b-4ff6-a13e-ea373f7f6499,SGA encountered a technical error at stage 2.
+6ed8024d-f79b-4ff6-a13e-ea373f7f6499,"Request received by gateway, processing started."
+6ed8024d-f79b-4ff6-a13e-ea373f7f6499,Timeout occurred while waiting for response.
+9ca66d05-6d5f-4909-98b9-b9e97afb5314,Validation failed due to missing headers.
+9ca66d05-6d5f-4909-98b9-b9e97afb5314,System resources exhausted: CPU at 95%.
+9ca66d05-6d5f-4909-98b9-b9e97afb5314,Retrying the request due to transient error.
+b893053e-9f31-43fc-83ac-c49ff157f1f1,Error: Authentication token expired.
+b893053e-9f31-43fc-83ac-c49ff157f1f1,Trace completed with status code 500.
+b893053e-9f31-43fc-83ac-c49ff157f1f1,Request forwarded to backend service.
+dddbd191-d92c-480e-9e11-5972fd24e120,System resources exhausted: CPU at 95%.
+dddbd191-d92c-480e-9e11-5972fd24e120,Error: Authentication token expired.
+0ddc3b5d-39e0-4d3f-85de-942fc2881aaf,System resources exhausted: CPU at 95%.
+0ddc3b5d-39e0-4d3f-85de-942fc2881aaf,Request forwarded to backend service.
+0ddc3b5d-39e0-4d3f-85de-942fc2881aaf,SGA encountered a technical error at stage 2.
+0ddc3b5d-39e0-4d3f-85de-942fc2881aaf,Patch deployment in progress - system running in degraded mode.
+0ddc3b5d-39e0-4d3f-85de-942fc2881aaf,Timeout occurred while waiting for response.
+f526c139-b1c4-4f8c-81d4-eb87afce3f66,Retrying the request due to transient error.
+f526c139-b1c4-4f8c-81d4-eb87afce3f66,System resources exhausted: CPU at 95%.
+f526c139-b1c4-4f8c-81d4-eb87afce3f66,SGA encountered a technical error at stage 2.
+f526c139-b1c4-4f8c-81d4-eb87afce3f66,"Request received by gateway, processing started."
+c4984db9-2a64-44f8-a5c4-f438a71ee8c7,"Request received by gateway, processing started."
+c4984db9-2a64-44f8-a5c4-f438a71ee8c7,SGA encountered a technical error at stage 2.
+c4984db9-2a64-44f8-a5c4-f438a71ee8c7,Trace completed with status code 500.
+c4984db9-2a64-44f8-a5c4-f438a71ee8c7,Timeout occurred while waiting for response.
+4290cf4b-ae14-4e33-892d-27c046f141a6,System resources exhausted: CPU at 95%.
+4290cf4b-ae14-4e33-892d-27c046f141a6,Validation failed due to missing headers.
+4290cf4b-ae14-4e33-892d-27c046f141a6,"Request received by gateway, processing started."
+4290cf4b-ae14-4e33-892d-27c046f141a6,Malformed JSON received in response payload.
+4290cf4b-ae14-4e33-892d-27c046f141a6,SGA encountered a technical error at stage 2.
+9c60dd7e-b786-44d6-96a9-413830e31d91,"Request received by gateway, processing started."
+9c60dd7e-b786-44d6-96a9-413830e31d91,Retrying the request due to transient error.
+9c60dd7e-b786-44d6-96a9-413830e31d91,Validation failed due to missing headers.
+9c60dd7e-b786-44d6-96a9-413830e31d91,Malformed JSON received in response payload.
+82edcc8d-91c6-4b90-9f04-ac4f1e76b554,Validation failed due to missing headers.
+82edcc8d-91c6-4b90-9f04-ac4f1e76b554,Malformed JSON received in response payload.
+82edcc8d-91c6-4b90-9f04-ac4f1e76b554,System resources exhausted: CPU at 95%.
+82edcc8d-91c6-4b90-9f04-ac4f1e76b554,SGA encountered a technical error at stage 2.
+82edcc8d-91c6-4b90-9f04-ac4f1e76b554,Error: Authentication token expired.
+1241b11b-e909-483e-9910-bbe4344e938d,Trace completed with status code 500.
+1241b11b-e909-483e-9910-bbe4344e938d,Patch deployment in progress - system running in degraded mode.
+a7e9ea54-5902-4e6a-913f-41eea77c8508,"Request received by gateway, processing started."
+a7e9ea54-5902-4e6a-913f-41eea77c8508,Trace completed with status code 500.
+a7e9ea54-5902-4e6a-913f-41eea77c8508,Request forwarded to backend service.
+a7e9ea54-5902-4e6a-913f-41eea77c8508,Patch deployment in progress - system running in degraded mode.
+a7e9ea54-5902-4e6a-913f-41eea77c8508,Malformed JSON received in response payload.
+5adbe7b2-4492-4ed1-8343-fbfea698b175,Request forwarded to backend service.
+5adbe7b2-4492-4ed1-8343-fbfea698b175,System resources exhausted: CPU at 95%.
+02e4061a-896e-4355-944b-1f28473693db,Timeout occurred while waiting for response.
+02e4061a-896e-4355-944b-1f28473693db,System resources exhausted: CPU at 95%.
+02e4061a-896e-4355-944b-1f28473693db,Request forwarded to backend service.
+cbe45fa8-6a1b-4b75-a287-014bea91bfcd,"Request received by gateway, processing started."
+cbe45fa8-6a1b-4b75-a287-014bea91bfcd,System resources exhausted: CPU at 95%.
+cbe45fa8-6a1b-4b75-a287-014bea91bfcd,Retrying the request due to transient error.
+1248a2c8-38db-474d-826e-f36eae0c7dc3,Patch deployment in progress - system running in degraded mode.
+1248a2c8-38db-474d-826e-f36eae0c7dc3,System resources exhausted: CPU at 95%.
+1248a2c8-38db-474d-826e-f36eae0c7dc3,Retrying the request due to transient error.
+1248a2c8-38db-474d-826e-f36eae0c7dc3,Request forwarded to backend service.
+83d88e19-c0bd-46d0-abf2-2e96a4c7f485,Retrying the request due to transient error.
+83d88e19-c0bd-46d0-abf2-2e96a4c7f485,Timeout occurred while waiting for response.
+83d88e19-c0bd-46d0-abf2-2e96a4c7f485,Patch deployment in progress - system running in degraded mode.
+83d88e19-c0bd-46d0-abf2-2e96a4c7f485,Error: Authentication token expired.
+83d88e19-c0bd-46d0-abf2-2e96a4c7f485,Trace completed with status code 500.
+25e66122-2669-4826-a7f6-b33c81a0d14c,Timeout occurred while waiting for response.
+25e66122-2669-4826-a7f6-b33c81a0d14c,System resources exhausted: CPU at 95%.
+83f6b993-f2da-424f-841b-cce78f42bf4b,SGA encountered a technical error at stage 2.
+83f6b993-f2da-424f-841b-cce78f42bf4b,Retrying the request due to transient error.
+83f6b993-f2da-424f-841b-cce78f42bf4b,Timeout occurred while waiting for response.
+83f6b993-f2da-424f-841b-cce78f42bf4b,"Request received by gateway, processing started."
+83f6b993-f2da-424f-841b-cce78f42bf4b,Validation failed due to missing headers.
+f40ae610-ef2b-40b5-8fee-311b05cd3a73,SGA encountered a technical error at stage 2.
+f40ae610-ef2b-40b5-8fee-311b05cd3a73,Retrying the request due to transient error.
+f40ae610-ef2b-40b5-8fee-311b05cd3a73,Malformed JSON received in response payload.
+fc329f87-7938-4169-9044-257ac7aa8207,System resources exhausted: CPU at 95%.
+fc329f87-7938-4169-9044-257ac7aa8207,Error: Authentication token expired.
+fc329f87-7938-4169-9044-257ac7aa8207,Timeout occurred while waiting for response.
+fc329f87-7938-4169-9044-257ac7aa8207,SGA encountered a technical error at stage 2.
+774c28e5-9950-4ae8-bbae-7baf82d966ef,Trace completed with status code 500.
+774c28e5-9950-4ae8-bbae-7baf82d966ef,Validation failed due to missing headers.
+774c28e5-9950-4ae8-bbae-7baf82d966ef,"Request received by gateway, processing started."
+774c28e5-9950-4ae8-bbae-7baf82d966ef,Request forwarded to backend service.
+9180d4b0-8812-441d-9316-2fdecdffc805,Error: Authentication token expired.
+9180d4b0-8812-441d-9316-2fdecdffc805,Trace completed with status code 500.
+9180d4b0-8812-441d-9316-2fdecdffc805,Timeout occurred while waiting for response.
+9180d4b0-8812-441d-9316-2fdecdffc805,Request forwarded to backend service.
+9180d4b0-8812-441d-9316-2fdecdffc805,"Request received by gateway, processing started."
+a4188eaa-240a-4324-9cb0-416ea205aee4,System resources exhausted: CPU at 95%.
+a4188eaa-240a-4324-9cb0-416ea205aee4,Malformed JSON received in response payload.
+d1ea1dc4-749f-4f6a-8cdf-6c02438bdd11,Request forwarded to backend service.
+d1ea1dc4-749f-4f6a-8cdf-6c02438bdd11,Validation failed due to missing headers.
+d1ea1dc4-749f-4f6a-8cdf-6c02438bdd11,Trace completed with status code 500.
+d1ea1dc4-749f-4f6a-8cdf-6c02438bdd11,Timeout occurred while waiting for response.
+d1ea1dc4-749f-4f6a-8cdf-6c02438bdd11,"Request received by gateway, processing started."
+04fdfe73-d011-4adb-934e-dbcdb8fccafb,Request forwarded to backend service.
+04fdfe73-d011-4adb-934e-dbcdb8fccafb,Patch deployment in progress - system running in degraded mode.
+27c442a5-4228-4956-af17-7b6dfeffdfc4,SGA encountered a technical error at stage 2.
+27c442a5-4228-4956-af17-7b6dfeffdfc4,Request forwarded to backend service.
+27c442a5-4228-4956-af17-7b6dfeffdfc4,Timeout occurred while waiting for response.
+27c442a5-4228-4956-af17-7b6dfeffdfc4,Validation failed due to missing headers.
+27c442a5-4228-4956-af17-7b6dfeffdfc4,Trace completed with status code 500.
+47dbdba1-0ad9-4280-9d38-7b7277cb735d,Patch deployment in progress - system running in degraded mode.
+47dbdba1-0ad9-4280-9d38-7b7277cb735d,Validation failed due to missing headers.
+47dbdba1-0ad9-4280-9d38-7b7277cb735d,Retrying the request due to transient error.
+47dbdba1-0ad9-4280-9d38-7b7277cb735d,Request forwarded to backend service.
+8d666c98-c9c2-423f-8d72-36d885b19426,"Request received by gateway, processing started."
+8d666c98-c9c2-423f-8d72-36d885b19426,Validation failed due to missing headers.
+8d666c98-c9c2-423f-8d72-36d885b19426,Malformed JSON received in response payload.
+d63594d3-043f-4560-9abd-b85f37894bfd,"Request received by gateway, processing started."
+d63594d3-043f-4560-9abd-b85f37894bfd,Error: Authentication token expired.
+d63594d3-043f-4560-9abd-b85f37894bfd,Retrying the request due to transient error.
+d63594d3-043f-4560-9abd-b85f37894bfd,System resources exhausted: CPU at 95%.
+c6471577-78c7-492b-a62e-2b695d959305,"Request received by gateway, processing started."
+c6471577-78c7-492b-a62e-2b695d959305,SGA encountered a technical error at stage 2.
+c6471577-78c7-492b-a62e-2b695d959305,Error: Authentication token expired.
+c6471577-78c7-492b-a62e-2b695d959305,Patch deployment in progress - system running in degraded mode.
+f262ef35-e396-4826-9304-5be3565957bc,Patch deployment in progress - system running in degraded mode.
+f262ef35-e396-4826-9304-5be3565957bc,Malformed JSON received in response payload.
+6b07ea79-cc70-4a5d-9d82-03db8942a6a4,"Request received by gateway, processing started."
+6b07ea79-cc70-4a5d-9d82-03db8942a6a4,Error: Authentication token expired.
+a45668e8-61ec-43db-964b-15c8cff70e7f,Patch deployment in progress - system running in degraded mode.
+a45668e8-61ec-43db-964b-15c8cff70e7f,Error: Authentication token expired.
+a45668e8-61ec-43db-964b-15c8cff70e7f,Validation failed due to missing headers.
+a45668e8-61ec-43db-964b-15c8cff70e7f,Malformed JSON received in response payload.
+a45668e8-61ec-43db-964b-15c8cff70e7f,Timeout occurred while waiting for response.
+ba330497-d282-438e-9472-c0f9c6e703f8,System resources exhausted: CPU at 95%.
+ba330497-d282-438e-9472-c0f9c6e703f8,Validation failed due to missing headers.
+ba330497-d282-438e-9472-c0f9c6e703f8,Error: Authentication token expired.
+6cecf45b-2162-4c1d-a929-0f34e076a2ba,Trace completed with status code 500.
+6cecf45b-2162-4c1d-a929-0f34e076a2ba,"Request received by gateway, processing started."
+70b255b5-0d61-4efe-9527-5e8cb8268a00,Validation failed due to missing headers.
+70b255b5-0d61-4efe-9527-5e8cb8268a00,System resources exhausted: CPU at 95%.
+70b255b5-0d61-4efe-9527-5e8cb8268a00,Error: Authentication token expired.
+70b255b5-0d61-4efe-9527-5e8cb8268a00,Timeout occurred while waiting for response.
+867339b8-3fe6-4732-8c24-923d600e345a,"Request received by gateway, processing started."
+867339b8-3fe6-4732-8c24-923d600e345a,Error: Authentication token expired.
+867339b8-3fe6-4732-8c24-923d600e345a,Request forwarded to backend service.
+867339b8-3fe6-4732-8c24-923d600e345a,SGA encountered a technical error at stage 2.
+00d095ef-a7ae-45d1-adc0-d8873843253c,"Request received by gateway, processing started."
+00d095ef-a7ae-45d1-adc0-d8873843253c,Malformed JSON received in response payload.
+a7284c68-f65a-4c1f-bc37-6ff3c6bd2460,SGA encountered a technical error at stage 2.
+a7284c68-f65a-4c1f-bc37-6ff3c6bd2460,Malformed JSON received in response payload.
+98dcdd3f-8f55-49f8-b07d-fdb6faaf7a9b,Trace completed with status code 500.
+98dcdd3f-8f55-49f8-b07d-fdb6faaf7a9b,"Request received by gateway, processing started."
+8304f422-32ca-4455-af56-cc56ed1ffa9e,Error: Authentication token expired.
+8304f422-32ca-4455-af56-cc56ed1ffa9e,SGA encountered a technical error at stage 2.
+8304f422-32ca-4455-af56-cc56ed1ffa9e,Request forwarded to backend service.
+8304f422-32ca-4455-af56-cc56ed1ffa9e,Retrying the request due to transient error.
+8304f422-32ca-4455-af56-cc56ed1ffa9e,Trace completed with status code 500.
+0ab864a8-cb9c-405a-8b93-172ef66e2c3a,Validation failed due to missing headers.
+0ab864a8-cb9c-405a-8b93-172ef66e2c3a,Timeout occurred while waiting for response.
+0ab864a8-cb9c-405a-8b93-172ef66e2c3a,Trace completed with status code 500.
+bf7fafc2-dd6b-4478-afcc-37e01ed714c7,SGA encountered a technical error at stage 2.
+bf7fafc2-dd6b-4478-afcc-37e01ed714c7,Retrying the request due to transient error.
+bf7fafc2-dd6b-4478-afcc-37e01ed714c7,Validation failed due to missing headers.
+294128cc-ac1e-4045-87c6-b94e1352cc85,Retrying the request due to transient error.
+294128cc-ac1e-4045-87c6-b94e1352cc85,Timeout occurred while waiting for response.
+294128cc-ac1e-4045-87c6-b94e1352cc85,Error: Authentication token expired.
+38cade25-1609-4308-b73d-3161b06fbb55,"Request received by gateway, processing started."
+38cade25-1609-4308-b73d-3161b06fbb55,Retrying the request due to transient error.
+38cade25-1609-4308-b73d-3161b06fbb55,Request forwarded to backend service.
+38cade25-1609-4308-b73d-3161b06fbb55,System resources exhausted: CPU at 95%.
+52e258e8-a7bf-402d-b09f-11e772415873,Patch deployment in progress - system running in degraded mode.
+52e258e8-a7bf-402d-b09f-11e772415873,"Request received by gateway, processing started."
+0046378f-5054-4ab3-9b50-f9df0af41d22,SGA encountered a technical error at stage 2.
+0046378f-5054-4ab3-9b50-f9df0af41d22,Retrying the request due to transient error.
+b7eba80b-0749-40a6-bfcb-56fa13ae0de2,"Request received by gateway, processing started."
+b7eba80b-0749-40a6-bfcb-56fa13ae0de2,Trace completed with status code 500.
+b7eba80b-0749-40a6-bfcb-56fa13ae0de2,Request forwarded to backend service.
+b7eba80b-0749-40a6-bfcb-56fa13ae0de2,Timeout occurred while waiting for response.
+b7eba80b-0749-40a6-bfcb-56fa13ae0de2,Validation failed due to missing headers.
+6753010b-d532-4a31-acec-75d24f7af20c,Validation failed due to missing headers.
+6753010b-d532-4a31-acec-75d24f7af20c,Timeout occurred while waiting for response.
+6753010b-d532-4a31-acec-75d24f7af20c,Error: Authentication token expired.
+6753010b-d532-4a31-acec-75d24f7af20c,SGA encountered a technical error at stage 2.
+e6ecd71e-7fbe-4eb2-be86-983c596ae846,Request forwarded to backend service.
+e6ecd71e-7fbe-4eb2-be86-983c596ae846,Malformed JSON received in response payload.
+e6ecd71e-7fbe-4eb2-be86-983c596ae846,Error: Authentication token expired.
+e6ecd71e-7fbe-4eb2-be86-983c596ae846,Trace completed with status code 500.
+e6ecd71e-7fbe-4eb2-be86-983c596ae846,Patch deployment in progress - system running in degraded mode.
+1dd0a4d7-f0e3-43a5-ab30-2c5bc45915ac,Retrying the request due to transient error.
+1dd0a4d7-f0e3-43a5-ab30-2c5bc45915ac,"Request received by gateway, processing started."
+1dd0a4d7-f0e3-43a5-ab30-2c5bc45915ac,Trace completed with status code 500.
+1dd0a4d7-f0e3-43a5-ab30-2c5bc45915ac,Validation failed due to missing headers.
+1dd0a4d7-f0e3-43a5-ab30-2c5bc45915ac,Malformed JSON received in response payload.
+8dbcef79-d4dd-4605-9890-926c91bb2b0e,Validation failed due to missing headers.
+8dbcef79-d4dd-4605-9890-926c91bb2b0e,Malformed JSON received in response payload.
+8dbcef79-d4dd-4605-9890-926c91bb2b0e,"Request received by gateway, processing started."
+964645b1-c46b-49e7-aad2-bab8f7514185,System resources exhausted: CPU at 95%.
+964645b1-c46b-49e7-aad2-bab8f7514185,"Request received by gateway, processing started."
+964645b1-c46b-49e7-aad2-bab8f7514185,SGA encountered a technical error at stage 2.
+964645b1-c46b-49e7-aad2-bab8f7514185,Retrying the request due to transient error.
+964645b1-c46b-49e7-aad2-bab8f7514185,Request forwarded to backend service.
+a2a21a06-a482-4e43-b958-ceede70d2922,Malformed JSON received in response payload.
+a2a21a06-a482-4e43-b958-ceede70d2922,Request forwarded to backend service.
+a2e7fc19-37d2-4713-9c39-fe812132eb96,Error: Authentication token expired.
+a2e7fc19-37d2-4713-9c39-fe812132eb96,SGA encountered a technical error at stage 2.
+a2e7fc19-37d2-4713-9c39-fe812132eb96,Timeout occurred while waiting for response.
+a2e7fc19-37d2-4713-9c39-fe812132eb96,Request forwarded to backend service.
+a2e7fc19-37d2-4713-9c39-fe812132eb96,Trace completed with status code 500.
+5519fb27-9dbd-473c-b94f-fe0d6d62cde7,Malformed JSON received in response payload.
+5519fb27-9dbd-473c-b94f-fe0d6d62cde7,"Request received by gateway, processing started."
+b5a579c7-8497-49fd-84d5-a57f0546e676,Validation failed due to missing headers.
+b5a579c7-8497-49fd-84d5-a57f0546e676,SGA encountered a technical error at stage 2.
+253e45b8-4bdb-405b-b1b8-a877438158f0,System resources exhausted: CPU at 95%.
+253e45b8-4bdb-405b-b1b8-a877438158f0,Validation failed due to missing headers.
+253e45b8-4bdb-405b-b1b8-a877438158f0,Error: Authentication token expired.
+253e45b8-4bdb-405b-b1b8-a877438158f0,Patch deployment in progress - system running in degraded mode.
+138a386c-8b79-4e8e-876e-cf914aaabd4b,Trace completed with status code 500.
+138a386c-8b79-4e8e-876e-cf914aaabd4b,"Request received by gateway, processing started."
+138a386c-8b79-4e8e-876e-cf914aaabd4b,Timeout occurred while waiting for response.
+138a386c-8b79-4e8e-876e-cf914aaabd4b,Patch deployment in progress - system running in degraded mode.
+94d0742f-fa13-4f94-9101-90bc61ab875b,System resources exhausted: CPU at 95%.
+94d0742f-fa13-4f94-9101-90bc61ab875b,Retrying the request due to transient error.
+94d0742f-fa13-4f94-9101-90bc61ab875b,Validation failed due to missing headers.
+d6519a24-9061-4a3b-9baf-0e99cfded92b,Timeout occurred while waiting for response.
+d6519a24-9061-4a3b-9baf-0e99cfded92b,Retrying the request due to transient error.
+d03eaea0-30e0-4920-bf83-92a363b0922f,Request forwarded to backend service.
+d03eaea0-30e0-4920-bf83-92a363b0922f,Retrying the request due to transient error.
+d03eaea0-30e0-4920-bf83-92a363b0922f,Patch deployment in progress - system running in degraded mode.
+d03eaea0-30e0-4920-bf83-92a363b0922f,Timeout occurred while waiting for response.
+d03eaea0-30e0-4920-bf83-92a363b0922f,SGA encountered a technical error at stage 2.
+e8336ab0-9029-4a7c-96ed-209a2b54166b,Patch deployment in progress - system running in degraded mode.
+e8336ab0-9029-4a7c-96ed-209a2b54166b,Trace completed with status code 500.
+e8336ab0-9029-4a7c-96ed-209a2b54166b,Timeout occurred while waiting for response.
+8782137d-dcb8-427e-a5f9-d9024905ffd6,Malformed JSON received in response payload.
+8782137d-dcb8-427e-a5f9-d9024905ffd6,Retrying the request due to transient error.
+8782137d-dcb8-427e-a5f9-d9024905ffd6,Validation failed due to missing headers.
+b5bbb28e-59c4-4105-b80e-b3b5629485f2,Validation failed due to missing headers.
+b5bbb28e-59c4-4105-b80e-b3b5629485f2,Malformed JSON received in response payload.
+e60fb7cd-9146-4a98-99c3-f16a975d72df,Validation failed due to missing headers.
+e60fb7cd-9146-4a98-99c3-f16a975d72df,Malformed JSON received in response payload.
+e60fb7cd-9146-4a98-99c3-f16a975d72df,Timeout occurred while waiting for response.
+e60fb7cd-9146-4a98-99c3-f16a975d72df,System resources exhausted: CPU at 95%.
+2d51585d-65bb-40ef-8da5-33d4eedecf42,Malformed JSON received in response payload.
+2d51585d-65bb-40ef-8da5-33d4eedecf42,SGA encountered a technical error at stage 2.
+2d51585d-65bb-40ef-8da5-33d4eedecf42,Retrying the request due to transient error.
+2d51585d-65bb-40ef-8da5-33d4eedecf42,System resources exhausted: CPU at 95%.
+87432765-1f36-4f92-a079-18866eea7555,Trace completed with status code 500.
+87432765-1f36-4f92-a079-18866eea7555,Request forwarded to backend service.
+87432765-1f36-4f92-a079-18866eea7555,Timeout occurred while waiting for response.
+87432765-1f36-4f92-a079-18866eea7555,System resources exhausted: CPU at 95%.
+87432765-1f36-4f92-a079-18866eea7555,SGA encountered a technical error at stage 2.
+f15f796f-2fe1-4e7c-9c80-e29868eb1357,Error: Authentication token expired.
+f15f796f-2fe1-4e7c-9c80-e29868eb1357,Trace completed with status code 500.
+f15f796f-2fe1-4e7c-9c80-e29868eb1357,System resources exhausted: CPU at 95%.
+f15f796f-2fe1-4e7c-9c80-e29868eb1357,Timeout occurred while waiting for response.
+5167aa54-3140-4734-900c-9cea3b21ef60,System resources exhausted: CPU at 95%.
+5167aa54-3140-4734-900c-9cea3b21ef60,Retrying the request due to transient error.
+5167aa54-3140-4734-900c-9cea3b21ef60,Request forwarded to backend service.
+57accad2-3ea0-4139-8540-9001c9494360,Patch deployment in progress - system running in degraded mode.
+57accad2-3ea0-4139-8540-9001c9494360,Trace completed with status code 500.
+57accad2-3ea0-4139-8540-9001c9494360,SGA encountered a technical error at stage 2.
+57accad2-3ea0-4139-8540-9001c9494360,Retrying the request due to transient error.
+57accad2-3ea0-4139-8540-9001c9494360,Request forwarded to backend service.
+d95a5adb-1aa7-45e2-aacc-b2215f06b061,"Request received by gateway, processing started."
+d95a5adb-1aa7-45e2-aacc-b2215f06b061,Error: Authentication token expired.
+d95a5adb-1aa7-45e2-aacc-b2215f06b061,Timeout occurred while waiting for response.
+41410c36-63c1-4b00-8302-10b80491f9cf,Malformed JSON received in response payload.
+41410c36-63c1-4b00-8302-10b80491f9cf,Timeout occurred while waiting for response.
+41410c36-63c1-4b00-8302-10b80491f9cf,System resources exhausted: CPU at 95%.
+41410c36-63c1-4b00-8302-10b80491f9cf,"Request received by gateway, processing started."
+41410c36-63c1-4b00-8302-10b80491f9cf,Retrying the request due to transient error.
+e4e94735-3eb1-4bf8-afbe-3e3069d9d228,Request forwarded to backend service.
+e4e94735-3eb1-4bf8-afbe-3e3069d9d228,System resources exhausted: CPU at 95%.
+b37fe3f5-9352-483e-b8b7-395021c11acd,Timeout occurred while waiting for response.
+b37fe3f5-9352-483e-b8b7-395021c11acd,Malformed JSON received in response payload.
+b37fe3f5-9352-483e-b8b7-395021c11acd,Request forwarded to backend service.
+b37fe3f5-9352-483e-b8b7-395021c11acd,Retrying the request due to transient error.
+78f42cdd-a2e8-4b2e-a94c-d24c1f70402f,Error: Authentication token expired.
+78f42cdd-a2e8-4b2e-a94c-d24c1f70402f,"Request received by gateway, processing started."
+78f42cdd-a2e8-4b2e-a94c-d24c1f70402f,SGA encountered a technical error at stage 2.
+78f42cdd-a2e8-4b2e-a94c-d24c1f70402f,Timeout occurred while waiting for response.
+78f42cdd-a2e8-4b2e-a94c-d24c1f70402f,Retrying the request due to transient error.
+de30cf02-72be-41f9-ab43-6e319f20651a,Malformed JSON received in response payload.
+de30cf02-72be-41f9-ab43-6e319f20651a,Patch deployment in progress - system running in degraded mode.
+de30cf02-72be-41f9-ab43-6e319f20651a,Validation failed due to missing headers.
+de30cf02-72be-41f9-ab43-6e319f20651a,Trace completed with status code 500.
+30439d81-9e06-4e66-8efa-2fd4562bfd7c,Validation failed due to missing headers.
+30439d81-9e06-4e66-8efa-2fd4562bfd7c,"Request received by gateway, processing started."
+30439d81-9e06-4e66-8efa-2fd4562bfd7c,SGA encountered a technical error at stage 2.
+30439d81-9e06-4e66-8efa-2fd4562bfd7c,Trace completed with status code 500.
+30439d81-9e06-4e66-8efa-2fd4562bfd7c,Malformed JSON received in response payload.
+24ad429d-a672-4841-abac-1e590cd8c76e,Validation failed due to missing headers.
+24ad429d-a672-4841-abac-1e590cd8c76e,Malformed JSON received in response payload.
+24ad429d-a672-4841-abac-1e590cd8c76e,"Request received by gateway, processing started."
+78a17db6-ae6e-49c2-87d9-44e7d006cc34,Malformed JSON received in response payload.
+78a17db6-ae6e-49c2-87d9-44e7d006cc34,Trace completed with status code 500.
+698d3eb7-fc43-45e7-b163-cebd71c1ee8a,"Request received by gateway, processing started."
+698d3eb7-fc43-45e7-b163-cebd71c1ee8a,Error: Authentication token expired.
+698d3eb7-fc43-45e7-b163-cebd71c1ee8a,Malformed JSON received in response payload.
+698d3eb7-fc43-45e7-b163-cebd71c1ee8a,SGA encountered a technical error at stage 2.
+49f622b8-b301-4a9d-9941-f4679a5c4f8d,Request forwarded to backend service.
+49f622b8-b301-4a9d-9941-f4679a5c4f8d,Patch deployment in progress - system running in degraded mode.
+49f622b8-b301-4a9d-9941-f4679a5c4f8d,Malformed JSON received in response payload.
+49f622b8-b301-4a9d-9941-f4679a5c4f8d,Validation failed due to missing headers.
+b178aa7d-cc81-4c10-b63c-50373aa7ceac,Trace completed with status code 500.
+b178aa7d-cc81-4c10-b63c-50373aa7ceac,SGA encountered a technical error at stage 2.
+5dccfa6b-1fab-4aa7-816c-b8c9730eac4c,System resources exhausted: CPU at 95%.
+5dccfa6b-1fab-4aa7-816c-b8c9730eac4c,Request forwarded to backend service.
+63878e4d-1e40-4d48-afb5-c588a659a3e7,"Request received by gateway, processing started."
+63878e4d-1e40-4d48-afb5-c588a659a3e7,Trace completed with status code 500.
+63878e4d-1e40-4d48-afb5-c588a659a3e7,System resources exhausted: CPU at 95%.
+63878e4d-1e40-4d48-afb5-c588a659a3e7,Malformed JSON received in response payload.
+7aac7d69-d955-4db5-8cfa-d80066e8f513,Request forwarded to backend service.
+7aac7d69-d955-4db5-8cfa-d80066e8f513,Timeout occurred while waiting for response.
+7aac7d69-d955-4db5-8cfa-d80066e8f513,Error: Authentication token expired.
+b1363ba1-fb15-42a3-87ac-a15dcc17a908,System resources exhausted: CPU at 95%.
+b1363ba1-fb15-42a3-87ac-a15dcc17a908,Retrying the request due to transient error.
+b1363ba1-fb15-42a3-87ac-a15dcc17a908,"Request received by gateway, processing started."
+b1363ba1-fb15-42a3-87ac-a15dcc17a908,SGA encountered a technical error at stage 2.
+a6ae8629-e1c8-4497-ab84-32b78635f444,Retrying the request due to transient error.
+a6ae8629-e1c8-4497-ab84-32b78635f444,Error: Authentication token expired.
+a6ae8629-e1c8-4497-ab84-32b78635f444,SGA encountered a technical error at stage 2.
+a6ae8629-e1c8-4497-ab84-32b78635f444,Trace completed with status code 500.
+2418ec28-9593-431a-a398-3b230746c83b,Request forwarded to backend service.
+2418ec28-9593-431a-a398-3b230746c83b,SGA encountered a technical error at stage 2.
+6e1a8d07-a67e-409d-8d80-7a385417241b,Validation failed due to missing headers.
+6e1a8d07-a67e-409d-8d80-7a385417241b,System resources exhausted: CPU at 95%.
+6e1a8d07-a67e-409d-8d80-7a385417241b,Request forwarded to backend service.
+6e1a8d07-a67e-409d-8d80-7a385417241b,Trace completed with status code 500.
+6e1a8d07-a67e-409d-8d80-7a385417241b,Error: Authentication token expired.
+4719ffd6-24ff-454e-9c62-da2bfca8bd05,"Request received by gateway, processing started."
+4719ffd6-24ff-454e-9c62-da2bfca8bd05,Patch deployment in progress - system running in degraded mode.
+4719ffd6-24ff-454e-9c62-da2bfca8bd05,Trace completed with status code 500.
+2992085c-2157-4f6f-856d-e75d95f4adac,"Request received by gateway, processing started."
+2992085c-2157-4f6f-856d-e75d95f4adac,Malformed JSON received in response payload.
+246afb56-298d-45d6-8cde-e4107ad36371,SGA encountered a technical error at stage 2.
+246afb56-298d-45d6-8cde-e4107ad36371,Error: Authentication token expired.
+246afb56-298d-45d6-8cde-e4107ad36371,Trace completed with status code 500.
+246afb56-298d-45d6-8cde-e4107ad36371,"Request received by gateway, processing started."
+246afb56-298d-45d6-8cde-e4107ad36371,Timeout occurred while waiting for response.
+fe62f3e8-9a21-4e7e-8e44-6191179ff789,Timeout occurred while waiting for response.
+fe62f3e8-9a21-4e7e-8e44-6191179ff789,Trace completed with status code 500.
+fe62f3e8-9a21-4e7e-8e44-6191179ff789,SGA encountered a technical error at stage 2.
+fe62f3e8-9a21-4e7e-8e44-6191179ff789,System resources exhausted: CPU at 95%.
+fe62f3e8-9a21-4e7e-8e44-6191179ff789,"Request received by gateway, processing started."
+bff7789f-3c4c-4f3c-954c-a73d3c7812b2,Patch deployment in progress - system running in degraded mode.
+bff7789f-3c4c-4f3c-954c-a73d3c7812b2,Error: Authentication token expired.
+bff7789f-3c4c-4f3c-954c-a73d3c7812b2,Trace completed with status code 500.
+bff7789f-3c4c-4f3c-954c-a73d3c7812b2,"Request received by gateway, processing started."
+3f20b8a5-8519-43f4-b1ff-e7ec00f7b237,System resources exhausted: CPU at 95%.
+3f20b8a5-8519-43f4-b1ff-e7ec00f7b237,Request forwarded to backend service.
+3f20b8a5-8519-43f4-b1ff-e7ec00f7b237,Validation failed due to missing headers.
+3f20b8a5-8519-43f4-b1ff-e7ec00f7b237,Trace completed with status code 500.
+beb812d1-fbf3-4129-b1f6-581479174846,Error: Authentication token expired.
+beb812d1-fbf3-4129-b1f6-581479174846,SGA encountered a technical error at stage 2.
+beb812d1-fbf3-4129-b1f6-581479174846,Patch deployment in progress - system running in degraded mode.
+beb812d1-fbf3-4129-b1f6-581479174846,"Request received by gateway, processing started."
+beb812d1-fbf3-4129-b1f6-581479174846,Trace completed with status code 500.
+16e2d694-3f8b-4c82-9b3b-e2556dadc799,Request forwarded to backend service.
+16e2d694-3f8b-4c82-9b3b-e2556dadc799,Error: Authentication token expired.
+16e2d694-3f8b-4c82-9b3b-e2556dadc799,Timeout occurred while waiting for response.
+c8076b79-f9d8-4ab4-a3dc-0e9c06513009,"Request received by gateway, processing started."
+c8076b79-f9d8-4ab4-a3dc-0e9c06513009,System resources exhausted: CPU at 95%.
+c8076b79-f9d8-4ab4-a3dc-0e9c06513009,Trace completed with status code 500.
+c8076b79-f9d8-4ab4-a3dc-0e9c06513009,Patch deployment in progress - system running in degraded mode.
+40782495-54a1-43d5-883e-94c4018e6502,Error: Authentication token expired.
+40782495-54a1-43d5-883e-94c4018e6502,Malformed JSON received in response payload.
+283a0767-9e43-4554-a9e5-0856ce31b8d1,Malformed JSON received in response payload.
+283a0767-9e43-4554-a9e5-0856ce31b8d1,Retrying the request due to transient error.
+283a0767-9e43-4554-a9e5-0856ce31b8d1,System resources exhausted: CPU at 95%.
+283a0767-9e43-4554-a9e5-0856ce31b8d1,"Request received by gateway, processing started."
+84db1970-5f4e-4df8-a652-c3bd1a78118c,Error: Authentication token expired.
+84db1970-5f4e-4df8-a652-c3bd1a78118c,Patch deployment in progress - system running in degraded mode.
+84db1970-5f4e-4df8-a652-c3bd1a78118c,"Request received by gateway, processing started."
+84db1970-5f4e-4df8-a652-c3bd1a78118c,Retrying the request due to transient error.
+84db1970-5f4e-4df8-a652-c3bd1a78118c,System resources exhausted: CPU at 95%.
+ba1939d3-cb84-4caf-b325-f77cda0b2696,SGA encountered a technical error at stage 2.
+ba1939d3-cb84-4caf-b325-f77cda0b2696,Patch deployment in progress - system running in degraded mode.
+ba1939d3-cb84-4caf-b325-f77cda0b2696,Retrying the request due to transient error.
+ba1939d3-cb84-4caf-b325-f77cda0b2696,Validation failed due to missing headers.
+ba1939d3-cb84-4caf-b325-f77cda0b2696,Error: Authentication token expired.
+43b1bc3c-799e-4cb0-b7d8-c5ddaac54dbb,SGA encountered a technical error at stage 2.
+43b1bc3c-799e-4cb0-b7d8-c5ddaac54dbb,"Request received by gateway, processing started."
+43b1bc3c-799e-4cb0-b7d8-c5ddaac54dbb,Patch deployment in progress - system running in degraded mode.
+43b1bc3c-799e-4cb0-b7d8-c5ddaac54dbb,Validation failed due to missing headers.
+f06cc3ea-8ae2-4a32-bb8b-93e2ec924932,Error: Authentication token expired.
+f06cc3ea-8ae2-4a32-bb8b-93e2ec924932,SGA encountered a technical error at stage 2.
+f06cc3ea-8ae2-4a32-bb8b-93e2ec924932,Validation failed due to missing headers.
+f06cc3ea-8ae2-4a32-bb8b-93e2ec924932,Trace completed with status code 500.
+215b1bd1-2a22-42ff-b376-9dab6b42c556,"Request received by gateway, processing started."
+215b1bd1-2a22-42ff-b376-9dab6b42c556,Error: Authentication token expired.
+215b1bd1-2a22-42ff-b376-9dab6b42c556,Request forwarded to backend service.
+215b1bd1-2a22-42ff-b376-9dab6b42c556,Trace completed with status code 500.
+215b1bd1-2a22-42ff-b376-9dab6b42c556,Patch deployment in progress - system running in degraded mode.
+39c924cc-7e15-42ac-8eb5-83b2250fcba0,SGA encountered a technical error at stage 2.
+39c924cc-7e15-42ac-8eb5-83b2250fcba0,Patch deployment in progress - system running in degraded mode.
+39c924cc-7e15-42ac-8eb5-83b2250fcba0,Request forwarded to backend service.
+39c924cc-7e15-42ac-8eb5-83b2250fcba0,Trace completed with status code 500.
+0c93c2ed-ca2b-47d6-87d4-e05be3d18784,"Request received by gateway, processing started."
+0c93c2ed-ca2b-47d6-87d4-e05be3d18784,System resources exhausted: CPU at 95%.
+0f0b87c8-3f05-4d14-a205-9efea6a2672c,Trace completed with status code 500.
+0f0b87c8-3f05-4d14-a205-9efea6a2672c,Patch deployment in progress - system running in degraded mode.
+0f0b87c8-3f05-4d14-a205-9efea6a2672c,Malformed JSON received in response payload.
+0f0b87c8-3f05-4d14-a205-9efea6a2672c,Timeout occurred while waiting for response.
+0f0b87c8-3f05-4d14-a205-9efea6a2672c,Request forwarded to backend service.
+65439a1a-a9d7-44b2-8c61-63474cde9fea,Retrying the request due to transient error.
+65439a1a-a9d7-44b2-8c61-63474cde9fea,SGA encountered a technical error at stage 2.
+65439a1a-a9d7-44b2-8c61-63474cde9fea,Patch deployment in progress - system running in degraded mode.
+65439a1a-a9d7-44b2-8c61-63474cde9fea,Validation failed due to missing headers.
+9f39fbeb-b58f-4f5d-b94f-d1bb4abe8116,Request forwarded to backend service.
+9f39fbeb-b58f-4f5d-b94f-d1bb4abe8116,System resources exhausted: CPU at 95%.
+9f39fbeb-b58f-4f5d-b94f-d1bb4abe8116,Patch deployment in progress - system running in degraded mode.
+05b60ad8-c7e2-4b12-87bb-628722bb617c,Request forwarded to backend service.
+05b60ad8-c7e2-4b12-87bb-628722bb617c,Malformed JSON received in response payload.
+05b60ad8-c7e2-4b12-87bb-628722bb617c,"Request received by gateway, processing started."
+05b60ad8-c7e2-4b12-87bb-628722bb617c,System resources exhausted: CPU at 95%.
+ffd283dd-adf4-497a-ac61-a2583f1dcd81,Retrying the request due to transient error.
+ffd283dd-adf4-497a-ac61-a2583f1dcd81,SGA encountered a technical error at stage 2.
+ffd283dd-adf4-497a-ac61-a2583f1dcd81,Malformed JSON received in response payload.
+ffd283dd-adf4-497a-ac61-a2583f1dcd81,Request forwarded to backend service.
+ffd283dd-adf4-497a-ac61-a2583f1dcd81,"Request received by gateway, processing started."
+3fa8d689-7f07-4e79-8dc8-1a526ac7d3d0,Error: Authentication token expired.
+3fa8d689-7f07-4e79-8dc8-1a526ac7d3d0,"Request received by gateway, processing started."
+3fa8d689-7f07-4e79-8dc8-1a526ac7d3d0,System resources exhausted: CPU at 95%.
+3fa8d689-7f07-4e79-8dc8-1a526ac7d3d0,Patch deployment in progress - system running in degraded mode.
+85524c5c-5dc0-423e-a6e8-f524ff9e71f6,Timeout occurred while waiting for response.
+85524c5c-5dc0-423e-a6e8-f524ff9e71f6,Patch deployment in progress - system running in degraded mode.
+85524c5c-5dc0-423e-a6e8-f524ff9e71f6,Malformed JSON received in response payload.
+85524c5c-5dc0-423e-a6e8-f524ff9e71f6,Validation failed due to missing headers.
+85524c5c-5dc0-423e-a6e8-f524ff9e71f6,Retrying the request due to transient error.
+de342bcb-b859-4ee1-b913-f39516fecbf4,Retrying the request due to transient error.
+de342bcb-b859-4ee1-b913-f39516fecbf4,Validation failed due to missing headers.
+4719477c-f1cf-42f9-b924-075bcaada2ec,Validation failed due to missing headers.
+4719477c-f1cf-42f9-b924-075bcaada2ec,Error: Authentication token expired.
+4719477c-f1cf-42f9-b924-075bcaada2ec,Retrying the request due to transient error.
+30bd6150-5e11-4e46-9450-29caf2464520,Patch deployment in progress - system running in degraded mode.
+30bd6150-5e11-4e46-9450-29caf2464520,Validation failed due to missing headers.
+30bd6150-5e11-4e46-9450-29caf2464520,Error: Authentication token expired.
+484f69e7-a21f-4b7b-898e-c565b60eb110,Patch deployment in progress - system running in degraded mode.
+484f69e7-a21f-4b7b-898e-c565b60eb110,Retrying the request due to transient error.
+484f69e7-a21f-4b7b-898e-c565b60eb110,SGA encountered a technical error at stage 2.
+484f69e7-a21f-4b7b-898e-c565b60eb110,Validation failed due to missing headers.
+484f69e7-a21f-4b7b-898e-c565b60eb110,Request forwarded to backend service.
+f1b7d7e8-53bd-4fcc-b618-859d802b5dc9,Malformed JSON received in response payload.
+f1b7d7e8-53bd-4fcc-b618-859d802b5dc9,Validation failed due to missing headers.
+f1b7d7e8-53bd-4fcc-b618-859d802b5dc9,Timeout occurred while waiting for response.
+f1b7d7e8-53bd-4fcc-b618-859d802b5dc9,"Request received by gateway, processing started."
+8ce5b196-f54c-4822-9a40-c2e9ee7cf4c1,Trace completed with status code 500.
+8ce5b196-f54c-4822-9a40-c2e9ee7cf4c1,Validation failed due to missing headers.
+8ce5b196-f54c-4822-9a40-c2e9ee7cf4c1,Malformed JSON received in response payload.
+8ce5b196-f54c-4822-9a40-c2e9ee7cf4c1,Timeout occurred while waiting for response.
+8ce5b196-f54c-4822-9a40-c2e9ee7cf4c1,Patch deployment in progress - system running in degraded mode.
+979f0341-9da4-4c0a-bc11-1332bf39342d,Request forwarded to backend service.
+979f0341-9da4-4c0a-bc11-1332bf39342d,Trace completed with status code 500.
+979f0341-9da4-4c0a-bc11-1332bf39342d,"Request received by gateway, processing started."
+979f0341-9da4-4c0a-bc11-1332bf39342d,System resources exhausted: CPU at 95%.
+7702ec80-d8f5-4b9a-8f52-b92d975eecb6,Request forwarded to backend service.
+7702ec80-d8f5-4b9a-8f52-b92d975eecb6,Retrying the request due to transient error.
+7702ec80-d8f5-4b9a-8f52-b92d975eecb6,System resources exhausted: CPU at 95%.
+7702ec80-d8f5-4b9a-8f52-b92d975eecb6,"Request received by gateway, processing started."
+8a3a9eef-5a05-4aa1-9797-fcac13d5ed21,Error: Authentication token expired.
+8a3a9eef-5a05-4aa1-9797-fcac13d5ed21,Patch deployment in progress - system running in degraded mode.
+8a3a9eef-5a05-4aa1-9797-fcac13d5ed21,"Request received by gateway, processing started."
+d2ba9030-06f8-4db3-a616-7653f472633d,"Request received by gateway, processing started."
+d2ba9030-06f8-4db3-a616-7653f472633d,Patch deployment in progress - system running in degraded mode.
+d2ba9030-06f8-4db3-a616-7653f472633d,Validation failed due to missing headers.
+d2ba9030-06f8-4db3-a616-7653f472633d,Retrying the request due to transient error.
+43f778d7-2e3d-46e6-89af-208813e005a9,Error: Authentication token expired.
+43f778d7-2e3d-46e6-89af-208813e005a9,Retrying the request due to transient error.
+43f778d7-2e3d-46e6-89af-208813e005a9,Timeout occurred while waiting for response.
+43f778d7-2e3d-46e6-89af-208813e005a9,SGA encountered a technical error at stage 2.
+2be1a52c-b4ac-46f5-a06e-62beee43f23e,System resources exhausted: CPU at 95%.
+2be1a52c-b4ac-46f5-a06e-62beee43f23e,"Request received by gateway, processing started."
+2be1a52c-b4ac-46f5-a06e-62beee43f23e,Request forwarded to backend service.
+2be1a52c-b4ac-46f5-a06e-62beee43f23e,Error: Authentication token expired.
+2be1a52c-b4ac-46f5-a06e-62beee43f23e,Retrying the request due to transient error.
+7b40b22a-7053-4d54-8d0f-7356a2855d59,Retrying the request due to transient error.
+7b40b22a-7053-4d54-8d0f-7356a2855d59,Timeout occurred while waiting for response.
+7b40b22a-7053-4d54-8d0f-7356a2855d59,"Request received by gateway, processing started."
+7b40b22a-7053-4d54-8d0f-7356a2855d59,Trace completed with status code 500.
+b84a10af-f6c9-444f-afc9-7a18cae5b26a,Validation failed due to missing headers.
+b84a10af-f6c9-444f-afc9-7a18cae5b26a,System resources exhausted: CPU at 95%.
+2662bed5-c073-4bf1-bacd-90a29eb8688a,Error: Authentication token expired.
+2662bed5-c073-4bf1-bacd-90a29eb8688a,Request forwarded to backend service.
+2662bed5-c073-4bf1-bacd-90a29eb8688a,Trace completed with status code 500.
+2662bed5-c073-4bf1-bacd-90a29eb8688a,Patch deployment in progress - system running in degraded mode.
+2662bed5-c073-4bf1-bacd-90a29eb8688a,"Request received by gateway, processing started."
+da9be930-3e6e-4919-8471-fdb4319d3ec2,System resources exhausted: CPU at 95%.
+da9be930-3e6e-4919-8471-fdb4319d3ec2,Request forwarded to backend service.
+da9be930-3e6e-4919-8471-fdb4319d3ec2,Patch deployment in progress - system running in degraded mode.
+c0c87614-9206-4ba6-9241-cb20abaa44fc,Validation failed due to missing headers.
+c0c87614-9206-4ba6-9241-cb20abaa44fc,Request forwarded to backend service.
+5edd39b3-6dda-4874-8180-881ed00fc508,System resources exhausted: CPU at 95%.
+5edd39b3-6dda-4874-8180-881ed00fc508,"Request received by gateway, processing started."
+998d6602-f221-4d6e-a026-5b04227798ce,Request forwarded to backend service.
+998d6602-f221-4d6e-a026-5b04227798ce,SGA encountered a technical error at stage 2.
+998d6602-f221-4d6e-a026-5b04227798ce,"Request received by gateway, processing started."
+998d6602-f221-4d6e-a026-5b04227798ce,Malformed JSON received in response payload.
+998d6602-f221-4d6e-a026-5b04227798ce,Error: Authentication token expired.
+60b8c8d6-7bf4-4a59-b2a0-3375d91c17de,Retrying the request due to transient error.
+60b8c8d6-7bf4-4a59-b2a0-3375d91c17de,Validation failed due to missing headers.
+720fec0d-5a0d-4b74-a0d3-1313ad682071,SGA encountered a technical error at stage 2.
+720fec0d-5a0d-4b74-a0d3-1313ad682071,"Request received by gateway, processing started."
+720fec0d-5a0d-4b74-a0d3-1313ad682071,Request forwarded to backend service.
+720fec0d-5a0d-4b74-a0d3-1313ad682071,Error: Authentication token expired.
+043e3ca5-5095-40f8-8ba4-5ea8fafd1fa2,Trace completed with status code 500.
+043e3ca5-5095-40f8-8ba4-5ea8fafd1fa2,Error: Authentication token expired.
+060c4ea9-f908-484c-88c5-84052e886404,Retrying the request due to transient error.
+060c4ea9-f908-484c-88c5-84052e886404,Request forwarded to backend service.
+060c4ea9-f908-484c-88c5-84052e886404,Error: Authentication token expired.
+44ac07bf-4801-44d4-abf8-e0f410aae3ba,Request forwarded to backend service.
+44ac07bf-4801-44d4-abf8-e0f410aae3ba,Error: Authentication token expired.
+1a1119a9-c12f-4700-9f09-42d204d073fb,Timeout occurred while waiting for response.
+1a1119a9-c12f-4700-9f09-42d204d073fb,Request forwarded to backend service.
+1a1119a9-c12f-4700-9f09-42d204d073fb,"Request received by gateway, processing started."
+1a1119a9-c12f-4700-9f09-42d204d073fb,Patch deployment in progress - system running in degraded mode.
+1a1119a9-c12f-4700-9f09-42d204d073fb,Malformed JSON received in response payload.
+79238ff7-d2e7-491a-bfff-d178666e0122,Timeout occurred while waiting for response.
+79238ff7-d2e7-491a-bfff-d178666e0122,"Request received by gateway, processing started."
+79238ff7-d2e7-491a-bfff-d178666e0122,SGA encountered a technical error at stage 2.
+77ad6419-553c-4198-a6e0-c88148b443d7,Error: Authentication token expired.
+77ad6419-553c-4198-a6e0-c88148b443d7,SGA encountered a technical error at stage 2.
+e8d90509-0b0f-46c0-af6e-29501144725f,Malformed JSON received in response payload.
+e8d90509-0b0f-46c0-af6e-29501144725f,System resources exhausted: CPU at 95%.
+e8d90509-0b0f-46c0-af6e-29501144725f,Validation failed due to missing headers.
+ea85e185-71a4-4e42-b862-514ff5841934,Timeout occurred while waiting for response.
+ea85e185-71a4-4e42-b862-514ff5841934,Malformed JSON received in response payload.
+ea85e185-71a4-4e42-b862-514ff5841934,Trace completed with status code 500.
+ea85e185-71a4-4e42-b862-514ff5841934,Validation failed due to missing headers.
+216ef6bb-f69e-444b-8fab-c848025e64a2,Patch deployment in progress - system running in degraded mode.
+216ef6bb-f69e-444b-8fab-c848025e64a2,Request forwarded to backend service.
+b9bbc933-cb3a-4b1c-bd42-aeb6d660930e,Timeout occurred while waiting for response.
+b9bbc933-cb3a-4b1c-bd42-aeb6d660930e,Trace completed with status code 500.
+b9bbc933-cb3a-4b1c-bd42-aeb6d660930e,Error: Authentication token expired.
+b9bbc933-cb3a-4b1c-bd42-aeb6d660930e,Malformed JSON received in response payload.
+9abc86bd-8d62-4fbe-bc28-da850ba160d4,Trace completed with status code 500.
+9abc86bd-8d62-4fbe-bc28-da850ba160d4,Retrying the request due to transient error.
+9abc86bd-8d62-4fbe-bc28-da850ba160d4,Error: Authentication token expired.
+9abc86bd-8d62-4fbe-bc28-da850ba160d4,Malformed JSON received in response payload.
+9abc86bd-8d62-4fbe-bc28-da850ba160d4,System resources exhausted: CPU at 95%.
+d0df893b-638a-4be4-b3a3-0a69f57d419f,"Request received by gateway, processing started."
+d0df893b-638a-4be4-b3a3-0a69f57d419f,Retrying the request due to transient error.
+d0df893b-638a-4be4-b3a3-0a69f57d419f,Validation failed due to missing headers.
+d0df893b-638a-4be4-b3a3-0a69f57d419f,Error: Authentication token expired.
+d0df893b-638a-4be4-b3a3-0a69f57d419f,Request forwarded to backend service.
+830926d6-d9f9-44a0-8edf-87e7b37a67dc,System resources exhausted: CPU at 95%.
+830926d6-d9f9-44a0-8edf-87e7b37a67dc,Trace completed with status code 500.
+8e60a5f1-9ab5-44c7-b861-5e56e48014bc,Retrying the request due to transient error.
+8e60a5f1-9ab5-44c7-b861-5e56e48014bc,Patch deployment in progress - system running in degraded mode.
+8e60a5f1-9ab5-44c7-b861-5e56e48014bc,Timeout occurred while waiting for response.
+8e60a5f1-9ab5-44c7-b861-5e56e48014bc,Malformed JSON received in response payload.
+b47b3e7b-1ced-484b-9fe7-027617cc9d42,Patch deployment in progress - system running in degraded mode.
+b47b3e7b-1ced-484b-9fe7-027617cc9d42,Trace completed with status code 500.
+b47b3e7b-1ced-484b-9fe7-027617cc9d42,System resources exhausted: CPU at 95%.
+b47b3e7b-1ced-484b-9fe7-027617cc9d42,Timeout occurred while waiting for response.
+b47b3e7b-1ced-484b-9fe7-027617cc9d42,SGA encountered a technical error at stage 2.
+a6c7a18a-49e4-42f0-ad09-11b7f5ee6953,Validation failed due to missing headers.
+a6c7a18a-49e4-42f0-ad09-11b7f5ee6953,Timeout occurred while waiting for response.
+f739b0e3-ca8a-4277-833a-2801fccb6fbb,Timeout occurred while waiting for response.
+f739b0e3-ca8a-4277-833a-2801fccb6fbb,SGA encountered a technical error at stage 2.
+86bca64e-d3ce-438b-ab1b-dbc425596ed6,Request forwarded to backend service.
+86bca64e-d3ce-438b-ab1b-dbc425596ed6,Timeout occurred while waiting for response.
+86bca64e-d3ce-438b-ab1b-dbc425596ed6,SGA encountered a technical error at stage 2.
+86bca64e-d3ce-438b-ab1b-dbc425596ed6,Trace completed with status code 500.
+d9475a7f-6f73-4c79-94ca-7827d7de5fd9,Trace completed with status code 500.
+d9475a7f-6f73-4c79-94ca-7827d7de5fd9,Request forwarded to backend service.
+1dee7bf2-0c59-4729-9718-3c8b42195ef4,System resources exhausted: CPU at 95%.
+1dee7bf2-0c59-4729-9718-3c8b42195ef4,SGA encountered a technical error at stage 2.
+1dee7bf2-0c59-4729-9718-3c8b42195ef4,"Request received by gateway, processing started."
+1dee7bf2-0c59-4729-9718-3c8b42195ef4,Timeout occurred while waiting for response.
+1dee7bf2-0c59-4729-9718-3c8b42195ef4,Patch deployment in progress - system running in degraded mode.
+0767ae4b-2897-4750-ba48-ef633a54b561,Malformed JSON received in response payload.
+0767ae4b-2897-4750-ba48-ef633a54b561,Error: Authentication token expired.
+0767ae4b-2897-4750-ba48-ef633a54b561,"Request received by gateway, processing started."
+0767ae4b-2897-4750-ba48-ef633a54b561,SGA encountered a technical error at stage 2.
+0767ae4b-2897-4750-ba48-ef633a54b561,Patch deployment in progress - system running in degraded mode.
+64455003-72f8-4dc0-ab3a-8c3a20679d77,Retrying the request due to transient error.
+64455003-72f8-4dc0-ab3a-8c3a20679d77,SGA encountered a technical error at stage 2.
+64455003-72f8-4dc0-ab3a-8c3a20679d77,Patch deployment in progress - system running in degraded mode.
+64455003-72f8-4dc0-ab3a-8c3a20679d77,"Request received by gateway, processing started."
+64455003-72f8-4dc0-ab3a-8c3a20679d77,Validation failed due to missing headers.
+5e03ff59-ec11-488d-b049-de2468416666,Malformed JSON received in response payload.
+5e03ff59-ec11-488d-b049-de2468416666,Retrying the request due to transient error.
+5e03ff59-ec11-488d-b049-de2468416666,System resources exhausted: CPU at 95%.
+5e03ff59-ec11-488d-b049-de2468416666,SGA encountered a technical error at stage 2.
+4843f108-974e-48ac-9a39-c4c8e2da091b,Trace completed with status code 500.
+4843f108-974e-48ac-9a39-c4c8e2da091b,Error: Authentication token expired.
+4843f108-974e-48ac-9a39-c4c8e2da091b,SGA encountered a technical error at stage 2.
+4843f108-974e-48ac-9a39-c4c8e2da091b,Request forwarded to backend service.
+4843f108-974e-48ac-9a39-c4c8e2da091b,Patch deployment in progress - system running in degraded mode.
+3f96cda5-2839-4e12-abe7-4b2b65f4efe5,Error: Authentication token expired.
+3f96cda5-2839-4e12-abe7-4b2b65f4efe5,Retrying the request due to transient error.
+3f96cda5-2839-4e12-abe7-4b2b65f4efe5,SGA encountered a technical error at stage 2.
+3f96cda5-2839-4e12-abe7-4b2b65f4efe5,Request forwarded to backend service.
+3f96cda5-2839-4e12-abe7-4b2b65f4efe5,System resources exhausted: CPU at 95%.
+7708f67b-b96e-4dec-bf83-21265f2154e9,Trace completed with status code 500.
+7708f67b-b96e-4dec-bf83-21265f2154e9,SGA encountered a technical error at stage 2.
+7708f67b-b96e-4dec-bf83-21265f2154e9,Malformed JSON received in response payload.
+d120df37-5274-431a-b094-247bdb700847,Validation failed due to missing headers.
+d120df37-5274-431a-b094-247bdb700847,Error: Authentication token expired.
+d120df37-5274-431a-b094-247bdb700847,Trace completed with status code 500.
+8313ca29-ee42-494d-b05d-41c089e061c5,Error: Authentication token expired.
+8313ca29-ee42-494d-b05d-41c089e061c5,Retrying the request due to transient error.
+8313ca29-ee42-494d-b05d-41c089e061c5,Validation failed due to missing headers.
+8313ca29-ee42-494d-b05d-41c089e061c5,Trace completed with status code 500.
+478360c8-9972-41c7-8025-30ffa8ca389c,"Request received by gateway, processing started."
+478360c8-9972-41c7-8025-30ffa8ca389c,Retrying the request due to transient error.
+478360c8-9972-41c7-8025-30ffa8ca389c,Error: Authentication token expired.
+478360c8-9972-41c7-8025-30ffa8ca389c,System resources exhausted: CPU at 95%.
+478360c8-9972-41c7-8025-30ffa8ca389c,Validation failed due to missing headers.
+d9543ded-b406-424e-b827-08024ef8767d,Trace completed with status code 500.
+d9543ded-b406-424e-b827-08024ef8767d,Timeout occurred while waiting for response.
+d9543ded-b406-424e-b827-08024ef8767d,Validation failed due to missing headers.
+c2a6ad00-6ff3-4047-944c-41854fa761d5,Error: Authentication token expired.
+c2a6ad00-6ff3-4047-944c-41854fa761d5,Request forwarded to backend service.
+c2a6ad00-6ff3-4047-944c-41854fa761d5,SGA encountered a technical error at stage 2.
+c2a6ad00-6ff3-4047-944c-41854fa761d5,Patch deployment in progress - system running in degraded mode.
+c2a6ad00-6ff3-4047-944c-41854fa761d5,Timeout occurred while waiting for response.
+5e947b40-76e4-4831-86c6-1134622b685b,SGA encountered a technical error at stage 2.
+5e947b40-76e4-4831-86c6-1134622b685b,"Request received by gateway, processing started."
+636236de-5a02-4416-a81e-bfa2461afb5e,Validation failed due to missing headers.
+636236de-5a02-4416-a81e-bfa2461afb5e,System resources exhausted: CPU at 95%.
+636236de-5a02-4416-a81e-bfa2461afb5e,Retrying the request due to transient error.
+06d0d9a2-a937-475e-9bd0-3628db8dca08,Error: Authentication token expired.
+06d0d9a2-a937-475e-9bd0-3628db8dca08,Validation failed due to missing headers.
+63ab335b-0dd9-44b0-9697-a4f1ecd7f71d,SGA encountered a technical error at stage 2.
+63ab335b-0dd9-44b0-9697-a4f1ecd7f71d,Retrying the request due to transient error.
+63ab335b-0dd9-44b0-9697-a4f1ecd7f71d,"Request received by gateway, processing started."
+81ad73a9-30a1-4816-a421-2eed3cfeee32,Patch deployment in progress - system running in degraded mode.
+81ad73a9-30a1-4816-a421-2eed3cfeee32,System resources exhausted: CPU at 95%.
+81ad73a9-30a1-4816-a421-2eed3cfeee32,Retrying the request due to transient error.
+496d320c-ef0e-4bae-a933-fe95a3dfced1,Error: Authentication token expired.
+496d320c-ef0e-4bae-a933-fe95a3dfced1,Request forwarded to backend service.
+496d320c-ef0e-4bae-a933-fe95a3dfced1,SGA encountered a technical error at stage 2.
+496d320c-ef0e-4bae-a933-fe95a3dfced1,"Request received by gateway, processing started."
+5a47d776-5010-40d1-9c40-f9a472940a26,SGA encountered a technical error at stage 2.
+5a47d776-5010-40d1-9c40-f9a472940a26,System resources exhausted: CPU at 95%.
+89068e70-3cb9-4926-adf8-aaec01a073ce,Patch deployment in progress - system running in degraded mode.
+89068e70-3cb9-4926-adf8-aaec01a073ce,"Request received by gateway, processing started."
+17fc4a6c-a9d6-4539-90cf-f5476e678f0b,Validation failed due to missing headers.
+17fc4a6c-a9d6-4539-90cf-f5476e678f0b,Timeout occurred while waiting for response.
+17fc4a6c-a9d6-4539-90cf-f5476e678f0b,Retrying the request due to transient error.
+77f9797e-91a9-402f-b714-e011d5fc7e1a,Retrying the request due to transient error.
+77f9797e-91a9-402f-b714-e011d5fc7e1a,Validation failed due to missing headers.
+77f9797e-91a9-402f-b714-e011d5fc7e1a,Request forwarded to backend service.
+77f9797e-91a9-402f-b714-e011d5fc7e1a,System resources exhausted: CPU at 95%.
+77f9797e-91a9-402f-b714-e011d5fc7e1a,Patch deployment in progress - system running in degraded mode.
+809aaba4-55cf-484d-b4ef-53ed4cafc54d,Validation failed due to missing headers.
+809aaba4-55cf-484d-b4ef-53ed4cafc54d,Trace completed with status code 500.
+98b6ca25-86a8-428d-997d-892b7cbfb7da,Timeout occurred while waiting for response.
+98b6ca25-86a8-428d-997d-892b7cbfb7da,Trace completed with status code 500.
+98b6ca25-86a8-428d-997d-892b7cbfb7da,Validation failed due to missing headers.
+98b6ca25-86a8-428d-997d-892b7cbfb7da,Malformed JSON received in response payload.
+ef7d365b-8c13-4c6c-a767-429446487166,Retrying the request due to transient error.
+ef7d365b-8c13-4c6c-a767-429446487166,Request forwarded to backend service.
+ef7d365b-8c13-4c6c-a767-429446487166,Error: Authentication token expired.
+07aca73e-8081-4c9b-aa65-7ef8fc18b30a,"Request received by gateway, processing started."
+07aca73e-8081-4c9b-aa65-7ef8fc18b30a,Error: Authentication token expired.
+07aca73e-8081-4c9b-aa65-7ef8fc18b30a,Validation failed due to missing headers.
+67730135-fd08-4206-86c0-8cada6eb2917,Validation failed due to missing headers.
+67730135-fd08-4206-86c0-8cada6eb2917,Error: Authentication token expired.
+69108e76-708b-43ef-8c60-97d462f12954,System resources exhausted: CPU at 95%.
+69108e76-708b-43ef-8c60-97d462f12954,Trace completed with status code 500.
+69108e76-708b-43ef-8c60-97d462f12954,Malformed JSON received in response payload.
+d32bc312-36e4-458e-b7f7-22fdd020a011,Request forwarded to backend service.
+d32bc312-36e4-458e-b7f7-22fdd020a011,Trace completed with status code 500.
+d32bc312-36e4-458e-b7f7-22fdd020a011,Validation failed due to missing headers.
+d32bc312-36e4-458e-b7f7-22fdd020a011,SGA encountered a technical error at stage 2.
+d32bc312-36e4-458e-b7f7-22fdd020a011,Malformed JSON received in response payload.
+12c19e5a-f1bb-4b9e-952e-858976466de1,Retrying the request due to transient error.
+12c19e5a-f1bb-4b9e-952e-858976466de1,"Request received by gateway, processing started."
+12c19e5a-f1bb-4b9e-952e-858976466de1,Timeout occurred while waiting for response.
+e9af5a51-c00e-4ea9-be59-bcac650801fd,Trace completed with status code 500.
+e9af5a51-c00e-4ea9-be59-bcac650801fd,Request forwarded to backend service.
+e9af5a51-c00e-4ea9-be59-bcac650801fd,Error: Authentication token expired.
+e9af5a51-c00e-4ea9-be59-bcac650801fd,Validation failed due to missing headers.
+e9af5a51-c00e-4ea9-be59-bcac650801fd,"Request received by gateway, processing started."
+7c94f3d0-42c9-43c8-be6b-d5ea87587ac5,Error: Authentication token expired.
+7c94f3d0-42c9-43c8-be6b-d5ea87587ac5,"Request received by gateway, processing started."
+6172c362-9454-44d8-bae4-3765fa14e802,Trace completed with status code 500.
+6172c362-9454-44d8-bae4-3765fa14e802,Timeout occurred while waiting for response.
+6172c362-9454-44d8-bae4-3765fa14e802,Retrying the request due to transient error.
+6172c362-9454-44d8-bae4-3765fa14e802,Malformed JSON received in response payload.
+6172c362-9454-44d8-bae4-3765fa14e802,Validation failed due to missing headers.
+005fcf6d-d992-4032-b492-1ffb2b3084b9,System resources exhausted: CPU at 95%.
+005fcf6d-d992-4032-b492-1ffb2b3084b9,Error: Authentication token expired.
+005fcf6d-d992-4032-b492-1ffb2b3084b9,Retrying the request due to transient error.
+005fcf6d-d992-4032-b492-1ffb2b3084b9,Patch deployment in progress - system running in degraded mode.
+005fcf6d-d992-4032-b492-1ffb2b3084b9,Malformed JSON received in response payload.
+76ddf43f-45cd-4978-8895-3451ff323485,"Request received by gateway, processing started."
+76ddf43f-45cd-4978-8895-3451ff323485,Patch deployment in progress - system running in degraded mode.
+76ddf43f-45cd-4978-8895-3451ff323485,Validation failed due to missing headers.
+783c1db8-79f4-4f08-8462-670f55bae792,Validation failed due to missing headers.
+783c1db8-79f4-4f08-8462-670f55bae792,Request forwarded to backend service.
+783c1db8-79f4-4f08-8462-670f55bae792,Timeout occurred while waiting for response.
+783c1db8-79f4-4f08-8462-670f55bae792,Error: Authentication token expired.
+783c1db8-79f4-4f08-8462-670f55bae792,"Request received by gateway, processing started."
+45126223-3d96-4c11-a95b-4afaf50a4604,Timeout occurred while waiting for response.
+45126223-3d96-4c11-a95b-4afaf50a4604,Malformed JSON received in response payload.
+eac7fc68-c8dc-4523-8f62-e812cb289b10,Timeout occurred while waiting for response.
+eac7fc68-c8dc-4523-8f62-e812cb289b10,Malformed JSON received in response payload.
+eac7fc68-c8dc-4523-8f62-e812cb289b10,"Request received by gateway, processing started."
+8f816dda-d882-4149-b1fc-a59fe485f020,Trace completed with status code 500.
+8f816dda-d882-4149-b1fc-a59fe485f020,Request forwarded to backend service.
+bce3ac10-b83c-4a84-97c4-becfa407cb7a,System resources exhausted: CPU at 95%.
+bce3ac10-b83c-4a84-97c4-becfa407cb7a,Trace completed with status code 500.
+bce3ac10-b83c-4a84-97c4-becfa407cb7a,Retrying the request due to transient error.
+bce3ac10-b83c-4a84-97c4-becfa407cb7a,Validation failed due to missing headers.
+5577e17f-07ad-4e31-b730-01ad989c3b71,Error: Authentication token expired.
+5577e17f-07ad-4e31-b730-01ad989c3b71,Validation failed due to missing headers.
+5577e17f-07ad-4e31-b730-01ad989c3b71,Timeout occurred while waiting for response.
+6c4cbc2e-9061-4855-ab53-23d997f3bb6f,Malformed JSON received in response payload.
+6c4cbc2e-9061-4855-ab53-23d997f3bb6f,SGA encountered a technical error at stage 2.
+6c4cbc2e-9061-4855-ab53-23d997f3bb6f,Trace completed with status code 500.
+6c4cbc2e-9061-4855-ab53-23d997f3bb6f,Error: Authentication token expired.
+6c4cbc2e-9061-4855-ab53-23d997f3bb6f,Retrying the request due to transient error.
+f70c1229-7492-4eb4-ad19-ef368253bd56,System resources exhausted: CPU at 95%.
+f70c1229-7492-4eb4-ad19-ef368253bd56,Trace completed with status code 500.
+f70c1229-7492-4eb4-ad19-ef368253bd56,SGA encountered a technical error at stage 2.
+f70c1229-7492-4eb4-ad19-ef368253bd56,Request forwarded to backend service.
+c9c8dca6-c288-461e-b6c6-18796a652422,Retrying the request due to transient error.
+c9c8dca6-c288-461e-b6c6-18796a652422,Timeout occurred while waiting for response.
+b1cd5d1f-15a4-4fa7-8c12-7ee4dfe4ec4e,Error: Authentication token expired.
+b1cd5d1f-15a4-4fa7-8c12-7ee4dfe4ec4e,Request forwarded to backend service.
+b1cd5d1f-15a4-4fa7-8c12-7ee4dfe4ec4e,Trace completed with status code 500.
+1cc363de-1573-4998-9ace-3f39defd67fd,Trace completed with status code 500.
+1cc363de-1573-4998-9ace-3f39defd67fd,Retrying the request due to transient error.
+21ae706e-f878-4b4e-9269-75fdebd3c9a8,Error: Authentication token expired.
+21ae706e-f878-4b4e-9269-75fdebd3c9a8,Malformed JSON received in response payload.
+21ae706e-f878-4b4e-9269-75fdebd3c9a8,Retrying the request due to transient error.
+21ae706e-f878-4b4e-9269-75fdebd3c9a8,Trace completed with status code 500.
+93d74c25-34a0-42c1-9b82-d6576021734b,Retrying the request due to transient error.
+93d74c25-34a0-42c1-9b82-d6576021734b,Patch deployment in progress - system running in degraded mode.
+49920190-cf6e-4275-8ac4-96c32ebeb400,Validation failed due to missing headers.
+49920190-cf6e-4275-8ac4-96c32ebeb400,Retrying the request due to transient error.
+9c9a035c-94a4-461a-8282-2af4a2ead716,Malformed JSON received in response payload.
+9c9a035c-94a4-461a-8282-2af4a2ead716,Trace completed with status code 500.
+9c9a035c-94a4-461a-8282-2af4a2ead716,Patch deployment in progress - system running in degraded mode.
+0f3df282-5ab3-4246-9e10-04d6e3058d49,System resources exhausted: CPU at 95%.
+0f3df282-5ab3-4246-9e10-04d6e3058d49,Malformed JSON received in response payload.
+0f3df282-5ab3-4246-9e10-04d6e3058d49,Trace completed with status code 500.
+0f3df282-5ab3-4246-9e10-04d6e3058d49,Timeout occurred while waiting for response.
+302b2ab1-dcf7-4ae7-983f-eb67c0df4b6a,Malformed JSON received in response payload.
+302b2ab1-dcf7-4ae7-983f-eb67c0df4b6a,Timeout occurred while waiting for response.
+302b2ab1-dcf7-4ae7-983f-eb67c0df4b6a,SGA encountered a technical error at stage 2.
+302b2ab1-dcf7-4ae7-983f-eb67c0df4b6a,System resources exhausted: CPU at 95%.
+302b2ab1-dcf7-4ae7-983f-eb67c0df4b6a,Trace completed with status code 500.
+f89ab094-d603-45e3-93f0-cefc22a586db,Request forwarded to backend service.
+f89ab094-d603-45e3-93f0-cefc22a586db,Validation failed due to missing headers.
+f89ab094-d603-45e3-93f0-cefc22a586db,"Request received by gateway, processing started."
+f89ab094-d603-45e3-93f0-cefc22a586db,Retrying the request due to transient error.
+29a6fb5a-79a8-4519-ab98-a5ce1cb00fd7,"Request received by gateway, processing started."
+29a6fb5a-79a8-4519-ab98-a5ce1cb00fd7,Request forwarded to backend service.
+29a6fb5a-79a8-4519-ab98-a5ce1cb00fd7,Error: Authentication token expired.
+29a6fb5a-79a8-4519-ab98-a5ce1cb00fd7,Retrying the request due to transient error.
+29a6fb5a-79a8-4519-ab98-a5ce1cb00fd7,System resources exhausted: CPU at 95%.
+d55e30ab-6244-48a6-aadb-d4ff52e97bb1,Request forwarded to backend service.
+d55e30ab-6244-48a6-aadb-d4ff52e97bb1,Patch deployment in progress - system running in degraded mode.
+d55e30ab-6244-48a6-aadb-d4ff52e97bb1,System resources exhausted: CPU at 95%.
+5536d1f6-5025-4bad-8df0-8f18d0bc5f59,Timeout occurred while waiting for response.
+5536d1f6-5025-4bad-8df0-8f18d0bc5f59,SGA encountered a technical error at stage 2.
+5536d1f6-5025-4bad-8df0-8f18d0bc5f59,Request forwarded to backend service.
+a74707c9-598f-4060-87a4-a1c0084689ad,System resources exhausted: CPU at 95%.
+a74707c9-598f-4060-87a4-a1c0084689ad,Request forwarded to backend service.
+a74707c9-598f-4060-87a4-a1c0084689ad,Malformed JSON received in response payload.
+a74707c9-598f-4060-87a4-a1c0084689ad,Timeout occurred while waiting for response.
+a74707c9-598f-4060-87a4-a1c0084689ad,Error: Authentication token expired.
+76974707-04b8-40ff-9550-9d27b2a9fa3e,"Request received by gateway, processing started."
+76974707-04b8-40ff-9550-9d27b2a9fa3e,System resources exhausted: CPU at 95%.
+1d10bf12-d52e-4d59-bf73-116472b9d608,System resources exhausted: CPU at 95%.
+1d10bf12-d52e-4d59-bf73-116472b9d608,Patch deployment in progress - system running in degraded mode.
+1d10bf12-d52e-4d59-bf73-116472b9d608,Malformed JSON received in response payload.
+1d10bf12-d52e-4d59-bf73-116472b9d608,Retrying the request due to transient error.
+1d10bf12-d52e-4d59-bf73-116472b9d608,"Request received by gateway, processing started."
+a5ac469b-c165-4684-ae36-97f80a55c243,Trace completed with status code 500.
+a5ac469b-c165-4684-ae36-97f80a55c243,Timeout occurred while waiting for response.
+4c4419d3-da83-4cc4-894f-47967041da80,Error: Authentication token expired.
+4c4419d3-da83-4cc4-894f-47967041da80,Retrying the request due to transient error.
+4c4419d3-da83-4cc4-894f-47967041da80,Validation failed due to missing headers.
+4c4419d3-da83-4cc4-894f-47967041da80,Request forwarded to backend service.
+162a2d25-06ec-4cd5-a178-898d1cf068fb,Retrying the request due to transient error.
+162a2d25-06ec-4cd5-a178-898d1cf068fb,System resources exhausted: CPU at 95%.
+162a2d25-06ec-4cd5-a178-898d1cf068fb,"Request received by gateway, processing started."
+162a2d25-06ec-4cd5-a178-898d1cf068fb,Timeout occurred while waiting for response.
+162a2d25-06ec-4cd5-a178-898d1cf068fb,Validation failed due to missing headers.
+f012a0e3-ac93-4422-879d-502167a314cd,SGA encountered a technical error at stage 2.
+f012a0e3-ac93-4422-879d-502167a314cd,Error: Authentication token expired.
+f012a0e3-ac93-4422-879d-502167a314cd,Trace completed with status code 500.
+f012a0e3-ac93-4422-879d-502167a314cd,Timeout occurred while waiting for response.
+f012a0e3-ac93-4422-879d-502167a314cd,Patch deployment in progress - system running in degraded mode.
+91fbd687-e12c-4b4e-ad9f-c1b0ce1adc61,Retrying the request due to transient error.
+91fbd687-e12c-4b4e-ad9f-c1b0ce1adc61,Validation failed due to missing headers.
+91fbd687-e12c-4b4e-ad9f-c1b0ce1adc61,Malformed JSON received in response payload.
+91fbd687-e12c-4b4e-ad9f-c1b0ce1adc61,Patch deployment in progress - system running in degraded mode.
+6c802629-3ab1-4e22-aed1-b86dfdd77e10,Request forwarded to backend service.
+6c802629-3ab1-4e22-aed1-b86dfdd77e10,SGA encountered a technical error at stage 2.
+6c802629-3ab1-4e22-aed1-b86dfdd77e10,Malformed JSON received in response payload.
+6c802629-3ab1-4e22-aed1-b86dfdd77e10,Retrying the request due to transient error.
+782434fe-1564-4bf0-b014-f37e121f52e1,Trace completed with status code 500.
+782434fe-1564-4bf0-b014-f37e121f52e1,"Request received by gateway, processing started."
+782434fe-1564-4bf0-b014-f37e121f52e1,Timeout occurred while waiting for response.
+782434fe-1564-4bf0-b014-f37e121f52e1,Error: Authentication token expired.
+782434fe-1564-4bf0-b014-f37e121f52e1,Validation failed due to missing headers.
+02dc9814-1708-4d7c-9f80-5917911224b1,"Request received by gateway, processing started."
+02dc9814-1708-4d7c-9f80-5917911224b1,Validation failed due to missing headers.
+02dc9814-1708-4d7c-9f80-5917911224b1,Patch deployment in progress - system running in degraded mode.
+02dc9814-1708-4d7c-9f80-5917911224b1,Error: Authentication token expired.
+02dc9814-1708-4d7c-9f80-5917911224b1,Retrying the request due to transient error.
+59d33ccb-62dd-4fef-bb2d-dd3cd6158d8a,"Request received by gateway, processing started."
+59d33ccb-62dd-4fef-bb2d-dd3cd6158d8a,SGA encountered a technical error at stage 2.
+59d33ccb-62dd-4fef-bb2d-dd3cd6158d8a,Trace completed with status code 500.
+59d33ccb-62dd-4fef-bb2d-dd3cd6158d8a,Patch deployment in progress - system running in degraded mode.
+1298ca59-0be4-4e8c-8ce9-3b0323779d36,Error: Authentication token expired.
+1298ca59-0be4-4e8c-8ce9-3b0323779d36,Retrying the request due to transient error.
+1298ca59-0be4-4e8c-8ce9-3b0323779d36,Patch deployment in progress - system running in degraded mode.
+ec083b2d-da93-4afc-98d2-d79fd7b77748,"Request received by gateway, processing started."
+ec083b2d-da93-4afc-98d2-d79fd7b77748,System resources exhausted: CPU at 95%.
+ec083b2d-da93-4afc-98d2-d79fd7b77748,Retrying the request due to transient error.
+ec083b2d-da93-4afc-98d2-d79fd7b77748,Request forwarded to backend service.
+ec083b2d-da93-4afc-98d2-d79fd7b77748,SGA encountered a technical error at stage 2.
+4a55d18c-a2c2-4818-8c3d-f7603b64a1f2,System resources exhausted: CPU at 95%.
+4a55d18c-a2c2-4818-8c3d-f7603b64a1f2,Retrying the request due to transient error.
+4a55d18c-a2c2-4818-8c3d-f7603b64a1f2,Timeout occurred while waiting for response.
+276583ed-e756-4b9a-a1f1-d0b3b7532c16,Validation failed due to missing headers.
+276583ed-e756-4b9a-a1f1-d0b3b7532c16,Timeout occurred while waiting for response.
+276583ed-e756-4b9a-a1f1-d0b3b7532c16,Error: Authentication token expired.
+276583ed-e756-4b9a-a1f1-d0b3b7532c16,System resources exhausted: CPU at 95%.
+2140582e-bb0c-467a-8663-74990df697cc,Retrying the request due to transient error.
+2140582e-bb0c-467a-8663-74990df697cc,"Request received by gateway, processing started."
+2140582e-bb0c-467a-8663-74990df697cc,Trace completed with status code 500.
+2140582e-bb0c-467a-8663-74990df697cc,Patch deployment in progress - system running in degraded mode.
+2140582e-bb0c-467a-8663-74990df697cc,Request forwarded to backend service.
+4fac774a-d528-443b-9715-9c1666e73ccd,Request forwarded to backend service.
+4fac774a-d528-443b-9715-9c1666e73ccd,Malformed JSON received in response payload.
+4fac774a-d528-443b-9715-9c1666e73ccd,SGA encountered a technical error at stage 2.
+4fac774a-d528-443b-9715-9c1666e73ccd,Timeout occurred while waiting for response.
+4fac774a-d528-443b-9715-9c1666e73ccd,Validation failed due to missing headers.
+43c93b60-375e-4d8e-a065-129ba4969b10,Retrying the request due to transient error.
+43c93b60-375e-4d8e-a065-129ba4969b10,Malformed JSON received in response payload.
+a15bbc27-05f9-4587-8e8e-4388550d561e,Retrying the request due to transient error.
+a15bbc27-05f9-4587-8e8e-4388550d561e,System resources exhausted: CPU at 95%.
+a15bbc27-05f9-4587-8e8e-4388550d561e,Validation failed due to missing headers.
+3583d3aa-5867-4d0f-8655-662f7093ff3e,Validation failed due to missing headers.
+3583d3aa-5867-4d0f-8655-662f7093ff3e,"Request received by gateway, processing started."
+3583d3aa-5867-4d0f-8655-662f7093ff3e,SGA encountered a technical error at stage 2.
+9d208139-fa86-489d-839c-c20a6c67db8c,Malformed JSON received in response payload.
+9d208139-fa86-489d-839c-c20a6c67db8c,Error: Authentication token expired.
+9d208139-fa86-489d-839c-c20a6c67db8c,Patch deployment in progress - system running in degraded mode.
+9d208139-fa86-489d-839c-c20a6c67db8c,SGA encountered a technical error at stage 2.
+9d208139-fa86-489d-839c-c20a6c67db8c,Request forwarded to backend service.
+a7625490-932d-4d3d-aab3-4b484caf3093,Malformed JSON received in response payload.
+a7625490-932d-4d3d-aab3-4b484caf3093,System resources exhausted: CPU at 95%.
+a7625490-932d-4d3d-aab3-4b484caf3093,SGA encountered a technical error at stage 2.
+a7625490-932d-4d3d-aab3-4b484caf3093,Timeout occurred while waiting for response.
+a7625490-932d-4d3d-aab3-4b484caf3093,"Request received by gateway, processing started."
+67254092-6066-498b-815f-8a289f25e86a,Retrying the request due to transient error.
+67254092-6066-498b-815f-8a289f25e86a,Error: Authentication token expired.
+64d91a41-2527-48ac-a12c-1526533f4936,Retrying the request due to transient error.
+64d91a41-2527-48ac-a12c-1526533f4936,Request forwarded to backend service.
+64d91a41-2527-48ac-a12c-1526533f4936,SGA encountered a technical error at stage 2.
+196a888d-e1fb-4f11-ab13-be2e466adf0e,Request forwarded to backend service.
+196a888d-e1fb-4f11-ab13-be2e466adf0e,"Request received by gateway, processing started."
+196a888d-e1fb-4f11-ab13-be2e466adf0e,Trace completed with status code 500.
+e32b4585-a7d3-4b43-80e5-a9ee0626a379,Request forwarded to backend service.
+e32b4585-a7d3-4b43-80e5-a9ee0626a379,System resources exhausted: CPU at 95%.
+e32b4585-a7d3-4b43-80e5-a9ee0626a379,Trace completed with status code 500.
+e32b4585-a7d3-4b43-80e5-a9ee0626a379,Retrying the request due to transient error.
+f1ce9fbf-2928-4eda-a849-ab8e5095e6bc,Timeout occurred while waiting for response.
+f1ce9fbf-2928-4eda-a849-ab8e5095e6bc,Validation failed due to missing headers.
+f1ce9fbf-2928-4eda-a849-ab8e5095e6bc,Trace completed with status code 500.
+f1ce9fbf-2928-4eda-a849-ab8e5095e6bc,Patch deployment in progress - system running in degraded mode.
+60439f20-6fe9-4574-8b0d-55b143a7b440,Validation failed due to missing headers.
+60439f20-6fe9-4574-8b0d-55b143a7b440,System resources exhausted: CPU at 95%.
+60439f20-6fe9-4574-8b0d-55b143a7b440,Error: Authentication token expired.
+60439f20-6fe9-4574-8b0d-55b143a7b440,SGA encountered a technical error at stage 2.
+2f6f853d-e3f4-4cc0-9c7a-b7d161e0c397,Error: Authentication token expired.
+2f6f853d-e3f4-4cc0-9c7a-b7d161e0c397,Trace completed with status code 500.
+1c7b8b15-6c06-4ed6-b673-08cd77d561c6,Validation failed due to missing headers.
+1c7b8b15-6c06-4ed6-b673-08cd77d561c6,System resources exhausted: CPU at 95%.
+ca903226-5069-4db4-9aa3-26aa15f9efd5,Trace completed with status code 500.
+ca903226-5069-4db4-9aa3-26aa15f9efd5,System resources exhausted: CPU at 95%.
+ca903226-5069-4db4-9aa3-26aa15f9efd5,Timeout occurred while waiting for response.
+ca903226-5069-4db4-9aa3-26aa15f9efd5,Malformed JSON received in response payload.
+ca903226-5069-4db4-9aa3-26aa15f9efd5,Patch deployment in progress - system running in degraded mode.
+34721193-51b1-4b8f-b353-9ab719b6d59b,Timeout occurred while waiting for response.
+34721193-51b1-4b8f-b353-9ab719b6d59b,Trace completed with status code 500.
+34721193-51b1-4b8f-b353-9ab719b6d59b,Malformed JSON received in response payload.
+34721193-51b1-4b8f-b353-9ab719b6d59b,Patch deployment in progress - system running in degraded mode.
+d2f5bfef-e66b-4dee-8df5-e2ec1d16b6c4,Retrying the request due to transient error.
+d2f5bfef-e66b-4dee-8df5-e2ec1d16b6c4,System resources exhausted: CPU at 95%.
+d2f5bfef-e66b-4dee-8df5-e2ec1d16b6c4,Error: Authentication token expired.
+be814311-957a-4ddb-af3f-2b700c234ba6,Trace completed with status code 500.
+be814311-957a-4ddb-af3f-2b700c234ba6,Timeout occurred while waiting for response.
+be814311-957a-4ddb-af3f-2b700c234ba6,System resources exhausted: CPU at 95%.
+be814311-957a-4ddb-af3f-2b700c234ba6,Patch deployment in progress - system running in degraded mode.
+be814311-957a-4ddb-af3f-2b700c234ba6,Request forwarded to backend service.
+0d1696c5-5715-483a-9c6a-ffbc931e85c1,Request forwarded to backend service.
+0d1696c5-5715-483a-9c6a-ffbc931e85c1,Patch deployment in progress - system running in degraded mode.
+7c1fdc22-b497-4340-91bc-100a1c1b281f,"Request received by gateway, processing started."
+7c1fdc22-b497-4340-91bc-100a1c1b281f,Patch deployment in progress - system running in degraded mode.
+c84c71fe-1e3c-4095-8305-2687b1d19080,Retrying the request due to transient error.
+c84c71fe-1e3c-4095-8305-2687b1d19080,Error: Authentication token expired.
+c84c71fe-1e3c-4095-8305-2687b1d19080,Request forwarded to backend service.
+c84c71fe-1e3c-4095-8305-2687b1d19080,Patch deployment in progress - system running in degraded mode.
+4e4d4aca-ea39-47bf-9b8c-d9940c442f29,SGA encountered a technical error at stage 2.
+4e4d4aca-ea39-47bf-9b8c-d9940c442f29,Request forwarded to backend service.
+4e4d4aca-ea39-47bf-9b8c-d9940c442f29,Trace completed with status code 500.
+4e4d4aca-ea39-47bf-9b8c-d9940c442f29,Malformed JSON received in response payload.
+620c25da-f2c2-40a3-83cd-90828d6d9708,Retrying the request due to transient error.
+620c25da-f2c2-40a3-83cd-90828d6d9708,Request forwarded to backend service.
+620c25da-f2c2-40a3-83cd-90828d6d9708,Error: Authentication token expired.
+f42bc17b-31fd-4bf7-8c4e-65131e258a5d,Patch deployment in progress - system running in degraded mode.
+f42bc17b-31fd-4bf7-8c4e-65131e258a5d,Malformed JSON received in response payload.
+f42bc17b-31fd-4bf7-8c4e-65131e258a5d,Validation failed due to missing headers.
+f42bc17b-31fd-4bf7-8c4e-65131e258a5d,System resources exhausted: CPU at 95%.
+c67e2f0e-2ac3-4955-b1fd-4482d3688f19,SGA encountered a technical error at stage 2.
+c67e2f0e-2ac3-4955-b1fd-4482d3688f19,Request forwarded to backend service.
+c67e2f0e-2ac3-4955-b1fd-4482d3688f19,Timeout occurred while waiting for response.
+c67e2f0e-2ac3-4955-b1fd-4482d3688f19,Trace completed with status code 500.
+528abd53-cf17-4dd6-aa46-e23dbcca168c,"Request received by gateway, processing started."
+528abd53-cf17-4dd6-aa46-e23dbcca168c,SGA encountered a technical error at stage 2.
+c9562903-f30b-487d-8baa-f936cefe4094,SGA encountered a technical error at stage 2.
+c9562903-f30b-487d-8baa-f936cefe4094,Validation failed due to missing headers.
+c9562903-f30b-487d-8baa-f936cefe4094,Malformed JSON received in response payload.
+c9562903-f30b-487d-8baa-f936cefe4094,Trace completed with status code 500.
+2358f67a-b89e-4d81-ba57-ed2f821ea64e,Validation failed due to missing headers.
+2358f67a-b89e-4d81-ba57-ed2f821ea64e,Malformed JSON received in response payload.
+2358f67a-b89e-4d81-ba57-ed2f821ea64e,Retrying the request due to transient error.
+58507052-3db9-4380-920e-40d1e4786b6f,"Request received by gateway, processing started."
+58507052-3db9-4380-920e-40d1e4786b6f,Request forwarded to backend service.
+58507052-3db9-4380-920e-40d1e4786b6f,Timeout occurred while waiting for response.
+9052041b-ffd3-4c57-aaa9-75d618b77324,System resources exhausted: CPU at 95%.
+9052041b-ffd3-4c57-aaa9-75d618b77324,Timeout occurred while waiting for response.
+9052041b-ffd3-4c57-aaa9-75d618b77324,Validation failed due to missing headers.
+9052041b-ffd3-4c57-aaa9-75d618b77324,"Request received by gateway, processing started."
+de0d11cd-c7ec-4a88-b1af-4a906377d176,Request forwarded to backend service.
+de0d11cd-c7ec-4a88-b1af-4a906377d176,Validation failed due to missing headers.
+bbb7b220-9cbf-4ee4-b6f2-73cdde2baafe,Validation failed due to missing headers.
+bbb7b220-9cbf-4ee4-b6f2-73cdde2baafe,Malformed JSON received in response payload.
+2ae9be86-33a7-49c4-a5db-485db4f5bd7a,Malformed JSON received in response payload.
+2ae9be86-33a7-49c4-a5db-485db4f5bd7a,Retrying the request due to transient error.
+2ae9be86-33a7-49c4-a5db-485db4f5bd7a,Validation failed due to missing headers.
+2ae9be86-33a7-49c4-a5db-485db4f5bd7a,Trace completed with status code 500.
+2ae9be86-33a7-49c4-a5db-485db4f5bd7a,Timeout occurred while waiting for response.
+bd241a46-6966-4147-8a16-0fbc2b697e61,"Request received by gateway, processing started."
+bd241a46-6966-4147-8a16-0fbc2b697e61,Request forwarded to backend service.
+bd241a46-6966-4147-8a16-0fbc2b697e61,Error: Authentication token expired.
+bd241a46-6966-4147-8a16-0fbc2b697e61,System resources exhausted: CPU at 95%.
+28742dfc-d5f6-4e5a-874c-a5705bbbd6c2,Timeout occurred while waiting for response.
+28742dfc-d5f6-4e5a-874c-a5705bbbd6c2,Retrying the request due to transient error.
+28742dfc-d5f6-4e5a-874c-a5705bbbd6c2,SGA encountered a technical error at stage 2.
+28742dfc-d5f6-4e5a-874c-a5705bbbd6c2,Request forwarded to backend service.
+28742dfc-d5f6-4e5a-874c-a5705bbbd6c2,Validation failed due to missing headers.
+6949f57a-0fe2-4830-9ed6-94cfd53ecf1a,Malformed JSON received in response payload.
+6949f57a-0fe2-4830-9ed6-94cfd53ecf1a,"Request received by gateway, processing started."
+d641e833-a67c-4162-9d8f-c6793f66ef0d,Retrying the request due to transient error.
+d641e833-a67c-4162-9d8f-c6793f66ef0d,Patch deployment in progress - system running in degraded mode.
+d641e833-a67c-4162-9d8f-c6793f66ef0d,Trace completed with status code 500.
+d641e833-a67c-4162-9d8f-c6793f66ef0d,Request forwarded to backend service.
+69f51cba-d61f-48ad-9c55-ef1356ab4f56,System resources exhausted: CPU at 95%.
+69f51cba-d61f-48ad-9c55-ef1356ab4f56,Timeout occurred while waiting for response.
+69f51cba-d61f-48ad-9c55-ef1356ab4f56,Retrying the request due to transient error.
+69f51cba-d61f-48ad-9c55-ef1356ab4f56,"Request received by gateway, processing started."
+3d39e407-8c01-430d-8d0d-2a27211e36dc,Malformed JSON received in response payload.
+3d39e407-8c01-430d-8d0d-2a27211e36dc,Patch deployment in progress - system running in degraded mode.
+3c4e7199-1d71-484a-aa20-8d1bf7240032,SGA encountered a technical error at stage 2.
+3c4e7199-1d71-484a-aa20-8d1bf7240032,Timeout occurred while waiting for response.
+3c4e7199-1d71-484a-aa20-8d1bf7240032,Retrying the request due to transient error.
+3c4e7199-1d71-484a-aa20-8d1bf7240032,Malformed JSON received in response payload.
+5f476a88-3105-406f-ade0-07d4eb0fcc33,Retrying the request due to transient error.
+5f476a88-3105-406f-ade0-07d4eb0fcc33,Patch deployment in progress - system running in degraded mode.
+5f476a88-3105-406f-ade0-07d4eb0fcc33,Request forwarded to backend service.
+5f476a88-3105-406f-ade0-07d4eb0fcc33,Timeout occurred while waiting for response.
+e16e7060-3a88-4633-a338-01cdf2bd733c,Timeout occurred while waiting for response.
+e16e7060-3a88-4633-a338-01cdf2bd733c,Error: Authentication token expired.
+60e311d2-a88b-46c8-a87a-cd470b14e86a,Patch deployment in progress - system running in degraded mode.
+60e311d2-a88b-46c8-a87a-cd470b14e86a,Retrying the request due to transient error.
+60e311d2-a88b-46c8-a87a-cd470b14e86a,Trace completed with status code 500.
+60e311d2-a88b-46c8-a87a-cd470b14e86a,Request forwarded to backend service.
+60e311d2-a88b-46c8-a87a-cd470b14e86a,"Request received by gateway, processing started."
+0e915009-35a2-4d85-9066-5e6c0db10187,Request forwarded to backend service.
+0e915009-35a2-4d85-9066-5e6c0db10187,Validation failed due to missing headers.
+0e915009-35a2-4d85-9066-5e6c0db10187,Timeout occurred while waiting for response.
+0e915009-35a2-4d85-9066-5e6c0db10187,Trace completed with status code 500.
+0e915009-35a2-4d85-9066-5e6c0db10187,Retrying the request due to transient error.
+ea39e5cb-3aec-4526-a0db-1a98bebdbe39,System resources exhausted: CPU at 95%.
+ea39e5cb-3aec-4526-a0db-1a98bebdbe39,Validation failed due to missing headers.
+ea39e5cb-3aec-4526-a0db-1a98bebdbe39,SGA encountered a technical error at stage 2.
+ea39e5cb-3aec-4526-a0db-1a98bebdbe39,Error: Authentication token expired.
+ea39e5cb-3aec-4526-a0db-1a98bebdbe39,Timeout occurred while waiting for response.
+19d2227a-4934-4c9b-a680-b789e7464760,Error: Authentication token expired.
+19d2227a-4934-4c9b-a680-b789e7464760,System resources exhausted: CPU at 95%.
+cbc1bb9f-55df-4cd0-9fe0-8b07480b4bb5,SGA encountered a technical error at stage 2.
+cbc1bb9f-55df-4cd0-9fe0-8b07480b4bb5,Request forwarded to backend service.
+cec74b78-3a40-444e-816a-0d146bf1f61f,Timeout occurred while waiting for response.
+cec74b78-3a40-444e-816a-0d146bf1f61f,Validation failed due to missing headers.
+cec74b78-3a40-444e-816a-0d146bf1f61f,System resources exhausted: CPU at 95%.
+cec74b78-3a40-444e-816a-0d146bf1f61f,Trace completed with status code 500.
+cec74b78-3a40-444e-816a-0d146bf1f61f,Malformed JSON received in response payload.
+93a5ffc6-d2c3-4de8-8b88-80698d27cdec,System resources exhausted: CPU at 95%.
+93a5ffc6-d2c3-4de8-8b88-80698d27cdec,Error: Authentication token expired.
+93a5ffc6-d2c3-4de8-8b88-80698d27cdec,Retrying the request due to transient error.
+304c3987-926b-408d-ab58-458fc1e4288f,Trace completed with status code 500.
+304c3987-926b-408d-ab58-458fc1e4288f,Retrying the request due to transient error.
+7b5e8b54-f1ee-49c8-87d6-9fd3fd2055d2,Timeout occurred while waiting for response.
+7b5e8b54-f1ee-49c8-87d6-9fd3fd2055d2,Retrying the request due to transient error.
+7b5e8b54-f1ee-49c8-87d6-9fd3fd2055d2,"Request received by gateway, processing started."
+7b5e8b54-f1ee-49c8-87d6-9fd3fd2055d2,Request forwarded to backend service.
+7b5e8b54-f1ee-49c8-87d6-9fd3fd2055d2,System resources exhausted: CPU at 95%.
+7d33d563-2457-4d15-ba17-beb311ad27d5,Patch deployment in progress - system running in degraded mode.
+7d33d563-2457-4d15-ba17-beb311ad27d5,Request forwarded to backend service.
+67da6969-4cb2-4600-82e5-a8876da64b72,Trace completed with status code 500.
+67da6969-4cb2-4600-82e5-a8876da64b72,Validation failed due to missing headers.
+67da6969-4cb2-4600-82e5-a8876da64b72,Patch deployment in progress - system running in degraded mode.
+67da6969-4cb2-4600-82e5-a8876da64b72,Request forwarded to backend service.
+9360fb4a-ee03-4b89-95f4-947932856a14,SGA encountered a technical error at stage 2.
+9360fb4a-ee03-4b89-95f4-947932856a14,Timeout occurred while waiting for response.
+9360fb4a-ee03-4b89-95f4-947932856a14,Validation failed due to missing headers.
+c4b26d56-a5b4-4b85-921b-5381c2af7bb4,System resources exhausted: CPU at 95%.
+c4b26d56-a5b4-4b85-921b-5381c2af7bb4,Trace completed with status code 500.
+48435f0e-0d6e-4ec9-9a13-c7a1c0f64e68,Patch deployment in progress - system running in degraded mode.
+48435f0e-0d6e-4ec9-9a13-c7a1c0f64e68,SGA encountered a technical error at stage 2.
+48435f0e-0d6e-4ec9-9a13-c7a1c0f64e68,Trace completed with status code 500.
+16a6f2d0-79c1-4450-9ffc-2c6cc19fefca,Trace completed with status code 500.
+16a6f2d0-79c1-4450-9ffc-2c6cc19fefca,System resources exhausted: CPU at 95%.
+16a6f2d0-79c1-4450-9ffc-2c6cc19fefca,"Request received by gateway, processing started."
+da83ae79-1ce6-4bc6-a878-d76d518c5311,Patch deployment in progress - system running in degraded mode.
+da83ae79-1ce6-4bc6-a878-d76d518c5311,System resources exhausted: CPU at 95%.
+da83ae79-1ce6-4bc6-a878-d76d518c5311,Error: Authentication token expired.
+da83ae79-1ce6-4bc6-a878-d76d518c5311,Timeout occurred while waiting for response.
+da83ae79-1ce6-4bc6-a878-d76d518c5311,Validation failed due to missing headers.
+ce26fd81-6c1b-4ea7-b6d1-a38872ae3325,Malformed JSON received in response payload.
+ce26fd81-6c1b-4ea7-b6d1-a38872ae3325,System resources exhausted: CPU at 95%.
+ce26fd81-6c1b-4ea7-b6d1-a38872ae3325,Timeout occurred while waiting for response.
+ce26fd81-6c1b-4ea7-b6d1-a38872ae3325,Validation failed due to missing headers.
+ce26fd81-6c1b-4ea7-b6d1-a38872ae3325,Request forwarded to backend service.
+0e6da02a-6d55-4d96-867a-3fc090893c34,Validation failed due to missing headers.
+0e6da02a-6d55-4d96-867a-3fc090893c34,Error: Authentication token expired.
+0e6da02a-6d55-4d96-867a-3fc090893c34,Retrying the request due to transient error.
+0e6da02a-6d55-4d96-867a-3fc090893c34,System resources exhausted: CPU at 95%.
+0e6da02a-6d55-4d96-867a-3fc090893c34,Request forwarded to backend service.
+761846f0-e23e-4cd6-800e-6ab5ffa2bf3b,SGA encountered a technical error at stage 2.
+761846f0-e23e-4cd6-800e-6ab5ffa2bf3b,Error: Authentication token expired.
+761846f0-e23e-4cd6-800e-6ab5ffa2bf3b,Trace completed with status code 500.
+e160f5f9-5cfa-4ae4-8186-e30160059697,Retrying the request due to transient error.
+e160f5f9-5cfa-4ae4-8186-e30160059697,Validation failed due to missing headers.
+9269d98c-ad35-4f4f-83ed-6f612b5d4e54,Trace completed with status code 500.
+9269d98c-ad35-4f4f-83ed-6f612b5d4e54,System resources exhausted: CPU at 95%.
+9269d98c-ad35-4f4f-83ed-6f612b5d4e54,Error: Authentication token expired.
+9269d98c-ad35-4f4f-83ed-6f612b5d4e54,Patch deployment in progress - system running in degraded mode.
+86d5d009-1c77-4db8-9814-ef4eb717a961,Trace completed with status code 500.
+86d5d009-1c77-4db8-9814-ef4eb717a961,SGA encountered a technical error at stage 2.
+86d5d009-1c77-4db8-9814-ef4eb717a961,Malformed JSON received in response payload.
+86d5d009-1c77-4db8-9814-ef4eb717a961,"Request received by gateway, processing started."
+86d5d009-1c77-4db8-9814-ef4eb717a961,Error: Authentication token expired.
+2d0f2ece-dda4-4f2e-89b0-7f3654edef33,Timeout occurred while waiting for response.
+2d0f2ece-dda4-4f2e-89b0-7f3654edef33,System resources exhausted: CPU at 95%.
+2d0f2ece-dda4-4f2e-89b0-7f3654edef33,Patch deployment in progress - system running in degraded mode.
+afc665a5-5a92-4bb9-ac8f-8db3e9424118,SGA encountered a technical error at stage 2.
+afc665a5-5a92-4bb9-ac8f-8db3e9424118,Timeout occurred while waiting for response.
+afc665a5-5a92-4bb9-ac8f-8db3e9424118,Validation failed due to missing headers.
+8c59c5c5-b765-43bb-b5e9-aeaf7b1ec60e,Retrying the request due to transient error.
+8c59c5c5-b765-43bb-b5e9-aeaf7b1ec60e,Patch deployment in progress - system running in degraded mode.
+8c59c5c5-b765-43bb-b5e9-aeaf7b1ec60e,Trace completed with status code 500.
+8c59c5c5-b765-43bb-b5e9-aeaf7b1ec60e,Timeout occurred while waiting for response.
+b1527eb4-2550-4d76-86e3-42352da26542,Request forwarded to backend service.
+b1527eb4-2550-4d76-86e3-42352da26542,Error: Authentication token expired.
+b1527eb4-2550-4d76-86e3-42352da26542,Retrying the request due to transient error.
+b1527eb4-2550-4d76-86e3-42352da26542,Trace completed with status code 500.
+b1527eb4-2550-4d76-86e3-42352da26542,Validation failed due to missing headers.
+90a5240e-d3c0-48b6-98b6-17095873978d,Request forwarded to backend service.
+90a5240e-d3c0-48b6-98b6-17095873978d,Trace completed with status code 500.
+93cfb3ae-965a-4bc3-96ef-1bf173ae1715,Error: Authentication token expired.
+93cfb3ae-965a-4bc3-96ef-1bf173ae1715,System resources exhausted: CPU at 95%.
+93cfb3ae-965a-4bc3-96ef-1bf173ae1715,Trace completed with status code 500.
+93cfb3ae-965a-4bc3-96ef-1bf173ae1715,Patch deployment in progress - system running in degraded mode.
+93cfb3ae-965a-4bc3-96ef-1bf173ae1715,Validation failed due to missing headers.
+7aace5ba-12df-424e-9f3d-c0c248868184,System resources exhausted: CPU at 95%.
+7aace5ba-12df-424e-9f3d-c0c248868184,"Request received by gateway, processing started."
+7aace5ba-12df-424e-9f3d-c0c248868184,Patch deployment in progress - system running in degraded mode.
+7aace5ba-12df-424e-9f3d-c0c248868184,Malformed JSON received in response payload.
+7aace5ba-12df-424e-9f3d-c0c248868184,Error: Authentication token expired.
+e24edb55-7263-44c4-abf9-d006c6c77e38,Validation failed due to missing headers.
+e24edb55-7263-44c4-abf9-d006c6c77e38,Trace completed with status code 500.
+e24edb55-7263-44c4-abf9-d006c6c77e38,Timeout occurred while waiting for response.
+e24edb55-7263-44c4-abf9-d006c6c77e38,SGA encountered a technical error at stage 2.
+dad5f942-0774-4f2f-b05c-764710a18f8f,Error: Authentication token expired.
+dad5f942-0774-4f2f-b05c-764710a18f8f,Timeout occurred while waiting for response.
+1f65bca8-9745-46a2-9d6a-19d740203c8d,Trace completed with status code 500.
+1f65bca8-9745-46a2-9d6a-19d740203c8d,"Request received by gateway, processing started."
+1a05bb03-4354-4bee-82e4-7b192c1d94b3,Patch deployment in progress - system running in degraded mode.
+1a05bb03-4354-4bee-82e4-7b192c1d94b3,Malformed JSON received in response payload.
+1a05bb03-4354-4bee-82e4-7b192c1d94b3,Retrying the request due to transient error.
+1a05bb03-4354-4bee-82e4-7b192c1d94b3,Validation failed due to missing headers.
+a7b928f2-d277-4b20-8802-fb1982129460,System resources exhausted: CPU at 95%.
+a7b928f2-d277-4b20-8802-fb1982129460,Timeout occurred while waiting for response.
+a7b928f2-d277-4b20-8802-fb1982129460,Malformed JSON received in response payload.
+00cc4e4d-1587-4219-b6dc-ccca892b2271,Validation failed due to missing headers.
+00cc4e4d-1587-4219-b6dc-ccca892b2271,Error: Authentication token expired.
+00cc4e4d-1587-4219-b6dc-ccca892b2271,System resources exhausted: CPU at 95%.
+00cc4e4d-1587-4219-b6dc-ccca892b2271,Malformed JSON received in response payload.
+49dfabda-2fbd-4282-8c63-3f4faf1d5631,Trace completed with status code 500.
+49dfabda-2fbd-4282-8c63-3f4faf1d5631,SGA encountered a technical error at stage 2.
+49dfabda-2fbd-4282-8c63-3f4faf1d5631,Request forwarded to backend service.
+49dfabda-2fbd-4282-8c63-3f4faf1d5631,"Request received by gateway, processing started."
+49dfabda-2fbd-4282-8c63-3f4faf1d5631,System resources exhausted: CPU at 95%.
+2ddb0f5a-b2bb-4922-9b89-891698316794,Trace completed with status code 500.
+2ddb0f5a-b2bb-4922-9b89-891698316794,Error: Authentication token expired.
+2ddb0f5a-b2bb-4922-9b89-891698316794,Malformed JSON received in response payload.
+2ddb0f5a-b2bb-4922-9b89-891698316794,Patch deployment in progress - system running in degraded mode.
+2ddb0f5a-b2bb-4922-9b89-891698316794,Retrying the request due to transient error.
+578b1345-e3b9-419c-81a3-86c25bcc094b,System resources exhausted: CPU at 95%.
+578b1345-e3b9-419c-81a3-86c25bcc094b,Timeout occurred while waiting for response.
+578b1345-e3b9-419c-81a3-86c25bcc094b,Retrying the request due to transient error.
+578b1345-e3b9-419c-81a3-86c25bcc094b,Error: Authentication token expired.
+578b1345-e3b9-419c-81a3-86c25bcc094b,Trace completed with status code 500.
+ad6de3d8-abf8-493d-af77-d13d5aaf9f3d,"Request received by gateway, processing started."
+ad6de3d8-abf8-493d-af77-d13d5aaf9f3d,Patch deployment in progress - system running in degraded mode.
+47297a73-01c6-4a37-80cf-f3a8537d9989,Request forwarded to backend service.
+47297a73-01c6-4a37-80cf-f3a8537d9989,Trace completed with status code 500.
+47297a73-01c6-4a37-80cf-f3a8537d9989,"Request received by gateway, processing started."
+47297a73-01c6-4a37-80cf-f3a8537d9989,SGA encountered a technical error at stage 2.
+47297a73-01c6-4a37-80cf-f3a8537d9989,Malformed JSON received in response payload.
+6fb9daf1-a4f4-47d8-be92-19fe131f0ea8,Retrying the request due to transient error.
+6fb9daf1-a4f4-47d8-be92-19fe131f0ea8,Trace completed with status code 500.
+6fb9daf1-a4f4-47d8-be92-19fe131f0ea8,Timeout occurred while waiting for response.
+6fb9daf1-a4f4-47d8-be92-19fe131f0ea8,"Request received by gateway, processing started."
+9ada04da-7cab-40a4-a890-9ae714abe41e,Patch deployment in progress - system running in degraded mode.
+9ada04da-7cab-40a4-a890-9ae714abe41e,SGA encountered a technical error at stage 2.
+9ada04da-7cab-40a4-a890-9ae714abe41e,Malformed JSON received in response payload.
+dffed3a8-8497-42f7-a979-9c944abdd2d4,Trace completed with status code 500.
+dffed3a8-8497-42f7-a979-9c944abdd2d4,Validation failed due to missing headers.
+dffed3a8-8497-42f7-a979-9c944abdd2d4,Error: Authentication token expired.
+dffed3a8-8497-42f7-a979-9c944abdd2d4,Timeout occurred while waiting for response.
+dffed3a8-8497-42f7-a979-9c944abdd2d4,Patch deployment in progress - system running in degraded mode.
+71b984c1-f035-46ee-8ac5-4cee187cb3af,Trace completed with status code 500.
+71b984c1-f035-46ee-8ac5-4cee187cb3af,Error: Authentication token expired.
+71b984c1-f035-46ee-8ac5-4cee187cb3af,Patch deployment in progress - system running in degraded mode.
+71b984c1-f035-46ee-8ac5-4cee187cb3af,Timeout occurred while waiting for response.
+71b984c1-f035-46ee-8ac5-4cee187cb3af,"Request received by gateway, processing started."
+0fdfc5aa-aa3b-4305-be13-b7ee429a1c19,Request forwarded to backend service.
+0fdfc5aa-aa3b-4305-be13-b7ee429a1c19,Error: Authentication token expired.
+0fdfc5aa-aa3b-4305-be13-b7ee429a1c19,Timeout occurred while waiting for response.
+809906fe-95ab-44f5-8d67-b40d98323014,Trace completed with status code 500.
+809906fe-95ab-44f5-8d67-b40d98323014,SGA encountered a technical error at stage 2.
+809906fe-95ab-44f5-8d67-b40d98323014,"Request received by gateway, processing started."
+809906fe-95ab-44f5-8d67-b40d98323014,Patch deployment in progress - system running in degraded mode.
+05f2a5c6-20c5-4e54-8d2d-fd4776166708,Retrying the request due to transient error.
+05f2a5c6-20c5-4e54-8d2d-fd4776166708,"Request received by gateway, processing started."
+05f2a5c6-20c5-4e54-8d2d-fd4776166708,Timeout occurred while waiting for response.
+05f2a5c6-20c5-4e54-8d2d-fd4776166708,Validation failed due to missing headers.
+05f2a5c6-20c5-4e54-8d2d-fd4776166708,SGA encountered a technical error at stage 2.
+1c8634d9-a4ec-45c8-bfcc-043c9f113706,Retrying the request due to transient error.
+1c8634d9-a4ec-45c8-bfcc-043c9f113706,Timeout occurred while waiting for response.
+1c8634d9-a4ec-45c8-bfcc-043c9f113706,Validation failed due to missing headers.
+1c8634d9-a4ec-45c8-bfcc-043c9f113706,Patch deployment in progress - system running in degraded mode.
+ee2cc185-b69b-48c0-ba1e-059aa61cf511,Validation failed due to missing headers.
+ee2cc185-b69b-48c0-ba1e-059aa61cf511,"Request received by gateway, processing started."
+c3800a9d-41f4-475d-b0b4-291da89efb8c,SGA encountered a technical error at stage 2.
+c3800a9d-41f4-475d-b0b4-291da89efb8c,Request forwarded to backend service.
+c3800a9d-41f4-475d-b0b4-291da89efb8c,Validation failed due to missing headers.
+c3800a9d-41f4-475d-b0b4-291da89efb8c,"Request received by gateway, processing started."
+36f727a2-cbf9-4a38-b292-f047a906785d,SGA encountered a technical error at stage 2.
+36f727a2-cbf9-4a38-b292-f047a906785d,Request forwarded to backend service.
+36f727a2-cbf9-4a38-b292-f047a906785d,Error: Authentication token expired.
+36f727a2-cbf9-4a38-b292-f047a906785d,System resources exhausted: CPU at 95%.
+652abe56-ed42-49d9-9b19-00825ad0ea72,Error: Authentication token expired.
+652abe56-ed42-49d9-9b19-00825ad0ea72,"Request received by gateway, processing started."
+652abe56-ed42-49d9-9b19-00825ad0ea72,Malformed JSON received in response payload.
+c90959d8-202e-4547-96fa-a7b430827188,System resources exhausted: CPU at 95%.
+c90959d8-202e-4547-96fa-a7b430827188,"Request received by gateway, processing started."
+c90959d8-202e-4547-96fa-a7b430827188,SGA encountered a technical error at stage 2.
+c90959d8-202e-4547-96fa-a7b430827188,Request forwarded to backend service.
+c90959d8-202e-4547-96fa-a7b430827188,Error: Authentication token expired.
+a4ba9028-8430-457b-bc22-7ccd90724a3e,Malformed JSON received in response payload.
+a4ba9028-8430-457b-bc22-7ccd90724a3e,Retrying the request due to transient error.
+a4ba9028-8430-457b-bc22-7ccd90724a3e,Patch deployment in progress - system running in degraded mode.
+38254e60-21a6-4268-8470-2552bc5b7aed,Timeout occurred while waiting for response.
+38254e60-21a6-4268-8470-2552bc5b7aed,Trace completed with status code 500.
+38254e60-21a6-4268-8470-2552bc5b7aed,"Request received by gateway, processing started."
+94075917-2bbe-4234-a2aa-d42c38afbfc5,Timeout occurred while waiting for response.
+94075917-2bbe-4234-a2aa-d42c38afbfc5,System resources exhausted: CPU at 95%.
+18ce7056-601f-4093-be5e-8d5c6deb3793,"Request received by gateway, processing started."
+18ce7056-601f-4093-be5e-8d5c6deb3793,Error: Authentication token expired.
+18ce7056-601f-4093-be5e-8d5c6deb3793,Request forwarded to backend service.
+18ce7056-601f-4093-be5e-8d5c6deb3793,Trace completed with status code 500.
+22511825-92d6-4413-82cf-14fc499eadd7,Timeout occurred while waiting for response.
+22511825-92d6-4413-82cf-14fc499eadd7,Retrying the request due to transient error.
+189eacf5-f7ea-4842-a4d9-e2ec63ed4b37,Malformed JSON received in response payload.
+189eacf5-f7ea-4842-a4d9-e2ec63ed4b37,Validation failed due to missing headers.
+189eacf5-f7ea-4842-a4d9-e2ec63ed4b37,System resources exhausted: CPU at 95%.
+189eacf5-f7ea-4842-a4d9-e2ec63ed4b37,Request forwarded to backend service.
+189eacf5-f7ea-4842-a4d9-e2ec63ed4b37,Patch deployment in progress - system running in degraded mode.
+80b857b5-532d-4ffa-887b-f58479462b5c,Trace completed with status code 500.
+80b857b5-532d-4ffa-887b-f58479462b5c,Patch deployment in progress - system running in degraded mode.
+80b857b5-532d-4ffa-887b-f58479462b5c,Malformed JSON received in response payload.
+54976e1d-2398-47e5-aeb1-f6929f3b1fac,SGA encountered a technical error at stage 2.
+54976e1d-2398-47e5-aeb1-f6929f3b1fac,Request forwarded to backend service.
+54976e1d-2398-47e5-aeb1-f6929f3b1fac,Validation failed due to missing headers.
+4492936b-1a28-42c7-a693-f5291b52a9db,Retrying the request due to transient error.
+4492936b-1a28-42c7-a693-f5291b52a9db,SGA encountered a technical error at stage 2.
+9bd22b1d-bea4-473a-bb6b-c3677798171a,Malformed JSON received in response payload.
+9bd22b1d-bea4-473a-bb6b-c3677798171a,Patch deployment in progress - system running in degraded mode.
+9bd22b1d-bea4-473a-bb6b-c3677798171a,Retrying the request due to transient error.
+9bd22b1d-bea4-473a-bb6b-c3677798171a,System resources exhausted: CPU at 95%.
+9bd22b1d-bea4-473a-bb6b-c3677798171a,Error: Authentication token expired.
+63272492-9791-46f9-bcfb-4b70b3c89ed6,SGA encountered a technical error at stage 2.
+63272492-9791-46f9-bcfb-4b70b3c89ed6,Error: Authentication token expired.
+c9632f29-3681-4ac6-84fa-b35858e2bbd3,Request forwarded to backend service.
+c9632f29-3681-4ac6-84fa-b35858e2bbd3,Patch deployment in progress - system running in degraded mode.
+c9632f29-3681-4ac6-84fa-b35858e2bbd3,System resources exhausted: CPU at 95%.
+d2434cba-9b14-4b08-ae8d-abf76d1ee6d9,Trace completed with status code 500.
+d2434cba-9b14-4b08-ae8d-abf76d1ee6d9,SGA encountered a technical error at stage 2.
+d2434cba-9b14-4b08-ae8d-abf76d1ee6d9,Retrying the request due to transient error.
+d2434cba-9b14-4b08-ae8d-abf76d1ee6d9,Timeout occurred while waiting for response.
+d2434cba-9b14-4b08-ae8d-abf76d1ee6d9,System resources exhausted: CPU at 95%.
+14b41fe9-fb20-426b-bf65-3b248a5ed9af,System resources exhausted: CPU at 95%.
+14b41fe9-fb20-426b-bf65-3b248a5ed9af,Retrying the request due to transient error.
+14b41fe9-fb20-426b-bf65-3b248a5ed9af,Request forwarded to backend service.
+14b41fe9-fb20-426b-bf65-3b248a5ed9af,Malformed JSON received in response payload.
+14b41fe9-fb20-426b-bf65-3b248a5ed9af,Validation failed due to missing headers.
+d017eae3-4dd8-41ff-8ddc-cc087f10d509,System resources exhausted: CPU at 95%.
+d017eae3-4dd8-41ff-8ddc-cc087f10d509,SGA encountered a technical error at stage 2.
+63b443c3-fb2f-4902-b5b9-b59e579a418b,Validation failed due to missing headers.
+63b443c3-fb2f-4902-b5b9-b59e579a418b,Error: Authentication token expired.
+63b443c3-fb2f-4902-b5b9-b59e579a418b,Patch deployment in progress - system running in degraded mode.
+63b443c3-fb2f-4902-b5b9-b59e579a418b,Request forwarded to backend service.
+63b443c3-fb2f-4902-b5b9-b59e579a418b,System resources exhausted: CPU at 95%.
+26fcca01-d775-45de-a411-b0e2a05766eb,System resources exhausted: CPU at 95%.
+26fcca01-d775-45de-a411-b0e2a05766eb,Malformed JSON received in response payload.
+e987785a-b466-4266-b982-e67053dfe711,Validation failed due to missing headers.
+e987785a-b466-4266-b982-e67053dfe711,System resources exhausted: CPU at 95%.
+e987785a-b466-4266-b982-e67053dfe711,Malformed JSON received in response payload.
+e987785a-b466-4266-b982-e67053dfe711,Retrying the request due to transient error.
+e987785a-b466-4266-b982-e67053dfe711,SGA encountered a technical error at stage 2.
+7e590ebe-c256-4956-a09f-ade7e524f260,SGA encountered a technical error at stage 2.
+7e590ebe-c256-4956-a09f-ade7e524f260,Timeout occurred while waiting for response.
+7e590ebe-c256-4956-a09f-ade7e524f260,Patch deployment in progress - system running in degraded mode.
+7e590ebe-c256-4956-a09f-ade7e524f260,"Request received by gateway, processing started."
+096ede01-3671-44ec-b63d-60aadba91b40,Request forwarded to backend service.
+096ede01-3671-44ec-b63d-60aadba91b40,Error: Authentication token expired.
+096ede01-3671-44ec-b63d-60aadba91b40,Trace completed with status code 500.
+096ede01-3671-44ec-b63d-60aadba91b40,Patch deployment in progress - system running in degraded mode.
+096ede01-3671-44ec-b63d-60aadba91b40,System resources exhausted: CPU at 95%.
+befe21f3-131d-4e3e-9c45-58eb25921be0,Malformed JSON received in response payload.
+befe21f3-131d-4e3e-9c45-58eb25921be0,"Request received by gateway, processing started."
+befe21f3-131d-4e3e-9c45-58eb25921be0,Timeout occurred while waiting for response.
+befe21f3-131d-4e3e-9c45-58eb25921be0,Patch deployment in progress - system running in degraded mode.
+befe21f3-131d-4e3e-9c45-58eb25921be0,Request forwarded to backend service.
+aca67495-7ecf-40a1-b560-b210498436a0,"Request received by gateway, processing started."
+aca67495-7ecf-40a1-b560-b210498436a0,Request forwarded to backend service.
+aca67495-7ecf-40a1-b560-b210498436a0,Retrying the request due to transient error.
+aca67495-7ecf-40a1-b560-b210498436a0,Error: Authentication token expired.
+6dd4ef41-3c0c-48a2-8495-3b9c2a82ea67,Validation failed due to missing headers.
+6dd4ef41-3c0c-48a2-8495-3b9c2a82ea67,Malformed JSON received in response payload.
+6dd4ef41-3c0c-48a2-8495-3b9c2a82ea67,System resources exhausted: CPU at 95%.
+90c120d3-cc81-4d54-8de8-f8dad6bf7a07,Malformed JSON received in response payload.
+90c120d3-cc81-4d54-8de8-f8dad6bf7a07,Trace completed with status code 500.
+3923843a-55d9-4e55-8eee-355f6c212288,Timeout occurred while waiting for response.
+3923843a-55d9-4e55-8eee-355f6c212288,Patch deployment in progress - system running in degraded mode.
+3923843a-55d9-4e55-8eee-355f6c212288,Validation failed due to missing headers.
+3923843a-55d9-4e55-8eee-355f6c212288,Retrying the request due to transient error.
+86adef7a-7660-4138-9b3f-d5600f9de532,Malformed JSON received in response payload.
+86adef7a-7660-4138-9b3f-d5600f9de532,Validation failed due to missing headers.
+86adef7a-7660-4138-9b3f-d5600f9de532,"Request received by gateway, processing started."
+86adef7a-7660-4138-9b3f-d5600f9de532,SGA encountered a technical error at stage 2.
+547cee03-88ba-4c3a-b118-bbd2d35b5595,Retrying the request due to transient error.
+547cee03-88ba-4c3a-b118-bbd2d35b5595,Malformed JSON received in response payload.
+547cee03-88ba-4c3a-b118-bbd2d35b5595,SGA encountered a technical error at stage 2.
+547cee03-88ba-4c3a-b118-bbd2d35b5595,Error: Authentication token expired.
+c542d4ff-10be-49fa-a738-63bef634e781,Trace completed with status code 500.
+c542d4ff-10be-49fa-a738-63bef634e781,Timeout occurred while waiting for response.
+c542d4ff-10be-49fa-a738-63bef634e781,Patch deployment in progress - system running in degraded mode.
+758dd22d-1934-433e-9804-3da06e9c0e9d,SGA encountered a technical error at stage 2.
+758dd22d-1934-433e-9804-3da06e9c0e9d,Trace completed with status code 500.
+758dd22d-1934-433e-9804-3da06e9c0e9d,Error: Authentication token expired.
+758dd22d-1934-433e-9804-3da06e9c0e9d,Malformed JSON received in response payload.
+758dd22d-1934-433e-9804-3da06e9c0e9d,System resources exhausted: CPU at 95%.
+cf9fbca7-33e9-45ca-ae73-4b80f15f1e50,Request forwarded to backend service.
+cf9fbca7-33e9-45ca-ae73-4b80f15f1e50,Trace completed with status code 500.
+cf9fbca7-33e9-45ca-ae73-4b80f15f1e50,"Request received by gateway, processing started."
+568c7b69-b8d4-41e8-b7e8-98a115adf823,"Request received by gateway, processing started."
+568c7b69-b8d4-41e8-b7e8-98a115adf823,Retrying the request due to transient error.
+8e057c15-22dc-452f-97a8-7bb9625f835b,Malformed JSON received in response payload.
+8e057c15-22dc-452f-97a8-7bb9625f835b,Error: Authentication token expired.
+fdb4a504-ce28-48bc-a9ea-d7abb4e65ed5,Trace completed with status code 500.
+fdb4a504-ce28-48bc-a9ea-d7abb4e65ed5,System resources exhausted: CPU at 95%.
+ab35403c-0d9a-45a5-ad45-f00a406325ec,Error: Authentication token expired.
+ab35403c-0d9a-45a5-ad45-f00a406325ec,"Request received by gateway, processing started."
+ab35403c-0d9a-45a5-ad45-f00a406325ec,Retrying the request due to transient error.
+ab35403c-0d9a-45a5-ad45-f00a406325ec,System resources exhausted: CPU at 95%.
+d2fc495b-297f-4e9b-bdd0-17820324550a,Retrying the request due to transient error.
+d2fc495b-297f-4e9b-bdd0-17820324550a,Request forwarded to backend service.
+d2fc495b-297f-4e9b-bdd0-17820324550a,Trace completed with status code 500.
+d2fc495b-297f-4e9b-bdd0-17820324550a,Validation failed due to missing headers.
+07dc18ae-31ff-4f5b-9f8a-038ab7cc4a40,Malformed JSON received in response payload.
+07dc18ae-31ff-4f5b-9f8a-038ab7cc4a40,Trace completed with status code 500.
+07dc18ae-31ff-4f5b-9f8a-038ab7cc4a40,Error: Authentication token expired.
+07dc18ae-31ff-4f5b-9f8a-038ab7cc4a40,Retrying the request due to transient error.
+07dc18ae-31ff-4f5b-9f8a-038ab7cc4a40,Patch deployment in progress - system running in degraded mode.
+d661ac99-3d60-4e4d-9b4e-3d0b124789c8,Malformed JSON received in response payload.
+d661ac99-3d60-4e4d-9b4e-3d0b124789c8,Error: Authentication token expired.
+d661ac99-3d60-4e4d-9b4e-3d0b124789c8,Trace completed with status code 500.
+c4becd9b-7733-4ea2-93c2-0057d1817870,System resources exhausted: CPU at 95%.
+c4becd9b-7733-4ea2-93c2-0057d1817870,Trace completed with status code 500.
+c4becd9b-7733-4ea2-93c2-0057d1817870,Timeout occurred while waiting for response.
+cc2789fa-a3d3-4ccd-a522-fd905f315b18,"Request received by gateway, processing started."
+cc2789fa-a3d3-4ccd-a522-fd905f315b18,SGA encountered a technical error at stage 2.
+d8b2e417-1e9d-4001-b1c4-d3b9aa5b137d,System resources exhausted: CPU at 95%.
+d8b2e417-1e9d-4001-b1c4-d3b9aa5b137d,Timeout occurred while waiting for response.
+d8b2e417-1e9d-4001-b1c4-d3b9aa5b137d,Retrying the request due to transient error.
+d8b2e417-1e9d-4001-b1c4-d3b9aa5b137d,"Request received by gateway, processing started."
+5725ad91-4407-4bb0-a929-4e0fc4ae8283,Patch deployment in progress - system running in degraded mode.
+5725ad91-4407-4bb0-a929-4e0fc4ae8283,Retrying the request due to transient error.
+0123d2c1-e0c7-41e6-ad2f-593cdd9f6ff6,Request forwarded to backend service.
+0123d2c1-e0c7-41e6-ad2f-593cdd9f6ff6,Error: Authentication token expired.
+0123d2c1-e0c7-41e6-ad2f-593cdd9f6ff6,Patch deployment in progress - system running in degraded mode.
+0123d2c1-e0c7-41e6-ad2f-593cdd9f6ff6,Timeout occurred while waiting for response.
+0b27da04-3531-48c6-bc05-50978694961c,System resources exhausted: CPU at 95%.
+0b27da04-3531-48c6-bc05-50978694961c,Error: Authentication token expired.
+0b27da04-3531-48c6-bc05-50978694961c,"Request received by gateway, processing started."
+e57bc329-ae84-435a-a47b-d8ccbf6a13fc,Timeout occurred while waiting for response.
+e57bc329-ae84-435a-a47b-d8ccbf6a13fc,Retrying the request due to transient error.
+e57bc329-ae84-435a-a47b-d8ccbf6a13fc,SGA encountered a technical error at stage 2.
+e57bc329-ae84-435a-a47b-d8ccbf6a13fc,"Request received by gateway, processing started."
+e57bc329-ae84-435a-a47b-d8ccbf6a13fc,Trace completed with status code 500.
+c9fc8492-1bd8-48aa-b971-fb62c0983ff4,Timeout occurred while waiting for response.
+c9fc8492-1bd8-48aa-b971-fb62c0983ff4,Retrying the request due to transient error.
+c9fc8492-1bd8-48aa-b971-fb62c0983ff4,Validation failed due to missing headers.
+c9fc8492-1bd8-48aa-b971-fb62c0983ff4,Malformed JSON received in response payload.
+0db26d6f-8edc-4948-bcc2-6a4dea14ab71,Validation failed due to missing headers.
+0db26d6f-8edc-4948-bcc2-6a4dea14ab71,"Request received by gateway, processing started."
+0db26d6f-8edc-4948-bcc2-6a4dea14ab71,System resources exhausted: CPU at 95%.
+0db26d6f-8edc-4948-bcc2-6a4dea14ab71,Timeout occurred while waiting for response.
+0db26d6f-8edc-4948-bcc2-6a4dea14ab71,Retrying the request due to transient error.
+e15dfb3b-2999-416b-93cc-289acb58d284,Validation failed due to missing headers.
+e15dfb3b-2999-416b-93cc-289acb58d284,Retrying the request due to transient error.
+e15dfb3b-2999-416b-93cc-289acb58d284,Timeout occurred while waiting for response.
+e15dfb3b-2999-416b-93cc-289acb58d284,SGA encountered a technical error at stage 2.
+e15dfb3b-2999-416b-93cc-289acb58d284,Trace completed with status code 500.
+7e985acb-49b1-4502-bd32-502fff77a5b2,Retrying the request due to transient error.
+7e985acb-49b1-4502-bd32-502fff77a5b2,Patch deployment in progress - system running in degraded mode.
+7e985acb-49b1-4502-bd32-502fff77a5b2,Request forwarded to backend service.
+7e985acb-49b1-4502-bd32-502fff77a5b2,System resources exhausted: CPU at 95%.
+7e985acb-49b1-4502-bd32-502fff77a5b2,Malformed JSON received in response payload.
+dab91b59-88e6-4bce-8514-0f40d98b1fbd,SGA encountered a technical error at stage 2.
+dab91b59-88e6-4bce-8514-0f40d98b1fbd,Malformed JSON received in response payload.
+dab91b59-88e6-4bce-8514-0f40d98b1fbd,Timeout occurred while waiting for response.
+b2cc2f1a-cff5-4157-820a-1b2274f966c1,Validation failed due to missing headers.
+b2cc2f1a-cff5-4157-820a-1b2274f966c1,System resources exhausted: CPU at 95%.
+27def959-7b7c-40c7-a02e-eecdd1e4bff4,Validation failed due to missing headers.
+27def959-7b7c-40c7-a02e-eecdd1e4bff4,Request forwarded to backend service.
+27def959-7b7c-40c7-a02e-eecdd1e4bff4,"Request received by gateway, processing started."
+27def959-7b7c-40c7-a02e-eecdd1e4bff4,Timeout occurred while waiting for response.
+27def959-7b7c-40c7-a02e-eecdd1e4bff4,Trace completed with status code 500.
+4add911f-fe15-4798-9004-c568c688bc5f,Patch deployment in progress - system running in degraded mode.
+4add911f-fe15-4798-9004-c568c688bc5f,Malformed JSON received in response payload.
+4add911f-fe15-4798-9004-c568c688bc5f,Request forwarded to backend service.
+6202c638-a3cf-4b73-a9f7-995920083639,Request forwarded to backend service.
+6202c638-a3cf-4b73-a9f7-995920083639,Retrying the request due to transient error.
+0f3f8867-cb4e-4199-968d-3d5793f737b0,Trace completed with status code 500.
+0f3f8867-cb4e-4199-968d-3d5793f737b0,Malformed JSON received in response payload.
+c8a91504-4ebc-4bd1-b1fb-06fa96429f75,Patch deployment in progress - system running in degraded mode.
+c8a91504-4ebc-4bd1-b1fb-06fa96429f75,SGA encountered a technical error at stage 2.
+c8a91504-4ebc-4bd1-b1fb-06fa96429f75,"Request received by gateway, processing started."
+3ee2e3c1-3bfe-4117-b3a8-1d3771dea97d,System resources exhausted: CPU at 95%.
+3ee2e3c1-3bfe-4117-b3a8-1d3771dea97d,Timeout occurred while waiting for response.
+3ee2e3c1-3bfe-4117-b3a8-1d3771dea97d,Retrying the request due to transient error.
+3ee2e3c1-3bfe-4117-b3a8-1d3771dea97d,Validation failed due to missing headers.
+398bc98c-9f96-4c53-b23a-874a40956afe,Patch deployment in progress - system running in degraded mode.
+398bc98c-9f96-4c53-b23a-874a40956afe,SGA encountered a technical error at stage 2.
+398bc98c-9f96-4c53-b23a-874a40956afe,Malformed JSON received in response payload.
+1e8ac7c1-7840-420c-9cce-23fc7efd7db9,Trace completed with status code 500.
+1e8ac7c1-7840-420c-9cce-23fc7efd7db9,Error: Authentication token expired.
+1e8ac7c1-7840-420c-9cce-23fc7efd7db9,Validation failed due to missing headers.
+1e8ac7c1-7840-420c-9cce-23fc7efd7db9,Timeout occurred while waiting for response.
+1e8ac7c1-7840-420c-9cce-23fc7efd7db9,Malformed JSON received in response payload.
+bc6974ab-b188-4f67-9e6d-d127a880d300,"Request received by gateway, processing started."
+bc6974ab-b188-4f67-9e6d-d127a880d300,SGA encountered a technical error at stage 2.
+bc6974ab-b188-4f67-9e6d-d127a880d300,Error: Authentication token expired.
+39679dc8-6046-4924-8976-7a00c178d6a8,Patch deployment in progress - system running in degraded mode.
+39679dc8-6046-4924-8976-7a00c178d6a8,SGA encountered a technical error at stage 2.
+39679dc8-6046-4924-8976-7a00c178d6a8,Error: Authentication token expired.
+39679dc8-6046-4924-8976-7a00c178d6a8,Validation failed due to missing headers.
+39679dc8-6046-4924-8976-7a00c178d6a8,Trace completed with status code 500.
+98276ed8-3138-4f99-9ef2-46ce960870e7,"Request received by gateway, processing started."
+98276ed8-3138-4f99-9ef2-46ce960870e7,Trace completed with status code 500.
+98276ed8-3138-4f99-9ef2-46ce960870e7,Retrying the request due to transient error.
+98276ed8-3138-4f99-9ef2-46ce960870e7,Malformed JSON received in response payload.
+98276ed8-3138-4f99-9ef2-46ce960870e7,Error: Authentication token expired.
+f53433bd-95ee-4f21-a665-77842d8e3f74,Trace completed with status code 500.
+f53433bd-95ee-4f21-a665-77842d8e3f74,Error: Authentication token expired.
+f53433bd-95ee-4f21-a665-77842d8e3f74,SGA encountered a technical error at stage 2.
+8870516f-fcac-4e40-90da-f82297b79167,Trace completed with status code 500.
+8870516f-fcac-4e40-90da-f82297b79167,Patch deployment in progress - system running in degraded mode.
+3ae999e0-45de-4919-81f7-09cdd750c8fa,Patch deployment in progress - system running in degraded mode.
+3ae999e0-45de-4919-81f7-09cdd750c8fa,Error: Authentication token expired.
+3ae999e0-45de-4919-81f7-09cdd750c8fa,Request forwarded to backend service.
+3ae999e0-45de-4919-81f7-09cdd750c8fa,Validation failed due to missing headers.
+3ae999e0-45de-4919-81f7-09cdd750c8fa,Malformed JSON received in response payload.
+d0c201d3-ab5c-4210-862f-3c3c4c0b945d,Request forwarded to backend service.
+d0c201d3-ab5c-4210-862f-3c3c4c0b945d,Trace completed with status code 500.
+d0c201d3-ab5c-4210-862f-3c3c4c0b945d,System resources exhausted: CPU at 95%.
+d0c201d3-ab5c-4210-862f-3c3c4c0b945d,SGA encountered a technical error at stage 2.
+ecfd1f9c-ed7f-4562-8e72-14b541f6e3a7,Error: Authentication token expired.
+ecfd1f9c-ed7f-4562-8e72-14b541f6e3a7,SGA encountered a technical error at stage 2.
+cf8ad597-3223-4714-a997-3c1ae8da7d85,Timeout occurred while waiting for response.
+cf8ad597-3223-4714-a997-3c1ae8da7d85,System resources exhausted: CPU at 95%.
+cf8ad597-3223-4714-a997-3c1ae8da7d85,Trace completed with status code 500.
+cf8ad597-3223-4714-a997-3c1ae8da7d85,Error: Authentication token expired.
+cf8ad597-3223-4714-a997-3c1ae8da7d85,Request forwarded to backend service.
+7b01f58d-14ab-4592-b3f5-3635ffd12a9f,Timeout occurred while waiting for response.
+7b01f58d-14ab-4592-b3f5-3635ffd12a9f,Patch deployment in progress - system running in degraded mode.
+7b01f58d-14ab-4592-b3f5-3635ffd12a9f,Malformed JSON received in response payload.
+7b01f58d-14ab-4592-b3f5-3635ffd12a9f,Request forwarded to backend service.
+bb23b73e-7603-4869-8733-cb2ca80b18b2,Request forwarded to backend service.
+bb23b73e-7603-4869-8733-cb2ca80b18b2,Validation failed due to missing headers.
+bb23b73e-7603-4869-8733-cb2ca80b18b2,Trace completed with status code 500.
+bb23b73e-7603-4869-8733-cb2ca80b18b2,Error: Authentication token expired.
+bb23b73e-7603-4869-8733-cb2ca80b18b2,Retrying the request due to transient error.
+45ce88c5-85fc-47d3-aa17-85258c4cd932,Error: Authentication token expired.
+45ce88c5-85fc-47d3-aa17-85258c4cd932,Retrying the request due to transient error.
+45ce88c5-85fc-47d3-aa17-85258c4cd932,Request forwarded to backend service.
+e87e7898-59ba-4f62-8aa6-bd30f01a0966,Error: Authentication token expired.
+e87e7898-59ba-4f62-8aa6-bd30f01a0966,Patch deployment in progress - system running in degraded mode.
+e87e7898-59ba-4f62-8aa6-bd30f01a0966,"Request received by gateway, processing started."
+e87e7898-59ba-4f62-8aa6-bd30f01a0966,Malformed JSON received in response payload.
+df2f0fbd-2f08-477f-b834-8649e6369218,Error: Authentication token expired.
+df2f0fbd-2f08-477f-b834-8649e6369218,Trace completed with status code 500.
+df2f0fbd-2f08-477f-b834-8649e6369218,SGA encountered a technical error at stage 2.
+df2f0fbd-2f08-477f-b834-8649e6369218,Malformed JSON received in response payload.
+df2f0fbd-2f08-477f-b834-8649e6369218,System resources exhausted: CPU at 95%.
+a013414e-1f4a-4554-a693-aad503838aea,Timeout occurred while waiting for response.
+a013414e-1f4a-4554-a693-aad503838aea,Trace completed with status code 500.
+a013414e-1f4a-4554-a693-aad503838aea,Patch deployment in progress - system running in degraded mode.
+a013414e-1f4a-4554-a693-aad503838aea,System resources exhausted: CPU at 95%.
+a013414e-1f4a-4554-a693-aad503838aea,"Request received by gateway, processing started."
+9fa37533-ab21-42fa-90df-1f778922d66c,"Request received by gateway, processing started."
+9fa37533-ab21-42fa-90df-1f778922d66c,System resources exhausted: CPU at 95%.
+d57ef93d-df88-47fc-9183-e929c08794fb,Request forwarded to backend service.
+d57ef93d-df88-47fc-9183-e929c08794fb,"Request received by gateway, processing started."
+d57ef93d-df88-47fc-9183-e929c08794fb,Malformed JSON received in response payload.
+d57ef93d-df88-47fc-9183-e929c08794fb,Error: Authentication token expired.
+d57ef93d-df88-47fc-9183-e929c08794fb,Trace completed with status code 500.
+be83ef8c-650b-452b-8505-fcbab7ee054c,Retrying the request due to transient error.
+be83ef8c-650b-452b-8505-fcbab7ee054c,Timeout occurred while waiting for response.
+be83ef8c-650b-452b-8505-fcbab7ee054c,Error: Authentication token expired.
+37765914-ab69-4261-85f8-c980e99f5e9c,"Request received by gateway, processing started."
+37765914-ab69-4261-85f8-c980e99f5e9c,System resources exhausted: CPU at 95%.
+828b9916-3ad9-42c3-b3b3-16411bb9a9cc,"Request received by gateway, processing started."
+828b9916-3ad9-42c3-b3b3-16411bb9a9cc,Retrying the request due to transient error.
+468da1db-09c1-40cd-9a8e-ca4decca5cc1,Trace completed with status code 500.
+468da1db-09c1-40cd-9a8e-ca4decca5cc1,SGA encountered a technical error at stage 2.
+468da1db-09c1-40cd-9a8e-ca4decca5cc1,Request forwarded to backend service.
+468da1db-09c1-40cd-9a8e-ca4decca5cc1,Retrying the request due to transient error.
+468da1db-09c1-40cd-9a8e-ca4decca5cc1,Error: Authentication token expired.
+852598b6-c9a0-4bf6-ac45-e4fa3cc77ac3,Timeout occurred while waiting for response.
+852598b6-c9a0-4bf6-ac45-e4fa3cc77ac3,"Request received by gateway, processing started."
+8a33af07-878f-4ce7-94e6-aca19b1d3e4c,Patch deployment in progress - system running in degraded mode.
+8a33af07-878f-4ce7-94e6-aca19b1d3e4c,Retrying the request due to transient error.
+8a33af07-878f-4ce7-94e6-aca19b1d3e4c,Error: Authentication token expired.
+66b56e0e-2294-4fe4-999c-b6c066c9a18b,Validation failed due to missing headers.
+66b56e0e-2294-4fe4-999c-b6c066c9a18b,"Request received by gateway, processing started."
+66b56e0e-2294-4fe4-999c-b6c066c9a18b,Timeout occurred while waiting for response.
+66b56e0e-2294-4fe4-999c-b6c066c9a18b,Trace completed with status code 500.
+cb133de4-382d-4b51-8371-57a81d505406,Malformed JSON received in response payload.
+cb133de4-382d-4b51-8371-57a81d505406,"Request received by gateway, processing started."
+cb133de4-382d-4b51-8371-57a81d505406,Patch deployment in progress - system running in degraded mode.
+63c3350a-1baa-473c-8395-ee7c805d2bfd,Trace completed with status code 500.
+63c3350a-1baa-473c-8395-ee7c805d2bfd,System resources exhausted: CPU at 95%.
+4ee3efc6-f8c0-43e7-8ddd-5086f89f5585,SGA encountered a technical error at stage 2.
+4ee3efc6-f8c0-43e7-8ddd-5086f89f5585,Malformed JSON received in response payload.
+4ee3efc6-f8c0-43e7-8ddd-5086f89f5585,Trace completed with status code 500.
+4ee3efc6-f8c0-43e7-8ddd-5086f89f5585,Retrying the request due to transient error.
+43bdc17c-f037-4728-bd2a-f26755628188,Error: Authentication token expired.
+43bdc17c-f037-4728-bd2a-f26755628188,"Request received by gateway, processing started."
+43bdc17c-f037-4728-bd2a-f26755628188,Malformed JSON received in response payload.
+43bdc17c-f037-4728-bd2a-f26755628188,Request forwarded to backend service.
+42c24eda-8c3b-4b01-bb6b-0c38aa8584fa,Validation failed due to missing headers.
+42c24eda-8c3b-4b01-bb6b-0c38aa8584fa,Timeout occurred while waiting for response.
+42c24eda-8c3b-4b01-bb6b-0c38aa8584fa,Trace completed with status code 500.
+475a39b2-bf7e-4fab-b330-15b8449cd37d,"Request received by gateway, processing started."
+475a39b2-bf7e-4fab-b330-15b8449cd37d,Request forwarded to backend service.
+475a39b2-bf7e-4fab-b330-15b8449cd37d,Timeout occurred while waiting for response.
+475a39b2-bf7e-4fab-b330-15b8449cd37d,Malformed JSON received in response payload.
+475a39b2-bf7e-4fab-b330-15b8449cd37d,SGA encountered a technical error at stage 2.
+2affe7f9-592e-4157-9424-8deac8460e91,Validation failed due to missing headers.
+2affe7f9-592e-4157-9424-8deac8460e91,Timeout occurred while waiting for response.
+2affe7f9-592e-4157-9424-8deac8460e91,Patch deployment in progress - system running in degraded mode.
+2affe7f9-592e-4157-9424-8deac8460e91,SGA encountered a technical error at stage 2.
+2affe7f9-592e-4157-9424-8deac8460e91,Retrying the request due to transient error.
+b0098fb6-ac32-4e59-9179-2c85f28f40d0,Patch deployment in progress - system running in degraded mode.
+b0098fb6-ac32-4e59-9179-2c85f28f40d0,Trace completed with status code 500.
+b0098fb6-ac32-4e59-9179-2c85f28f40d0,Malformed JSON received in response payload.
+b0098fb6-ac32-4e59-9179-2c85f28f40d0,"Request received by gateway, processing started."
+b0098fb6-ac32-4e59-9179-2c85f28f40d0,SGA encountered a technical error at stage 2.
+80145199-f810-4fa5-b4e5-62414152560a,Trace completed with status code 500.
+80145199-f810-4fa5-b4e5-62414152560a,Retrying the request due to transient error.
+80145199-f810-4fa5-b4e5-62414152560a,SGA encountered a technical error at stage 2.
+80145199-f810-4fa5-b4e5-62414152560a,Timeout occurred while waiting for response.
+80145199-f810-4fa5-b4e5-62414152560a,Request forwarded to backend service.
+cbe74773-5984-4fde-93c4-06482b163cfd,Patch deployment in progress - system running in degraded mode.
+cbe74773-5984-4fde-93c4-06482b163cfd,System resources exhausted: CPU at 95%.
+b487af1a-e20c-41be-a99b-3f019cccc9b3,Patch deployment in progress - system running in degraded mode.
+b487af1a-e20c-41be-a99b-3f019cccc9b3,System resources exhausted: CPU at 95%.
+b487af1a-e20c-41be-a99b-3f019cccc9b3,Malformed JSON received in response payload.
+b487af1a-e20c-41be-a99b-3f019cccc9b3,Timeout occurred while waiting for response.
+b487af1a-e20c-41be-a99b-3f019cccc9b3,Request forwarded to backend service.
+f74c07e4-ea79-45a8-bb63-7aacc1260e38,Request forwarded to backend service.
+f74c07e4-ea79-45a8-bb63-7aacc1260e38,Validation failed due to missing headers.
+f74c07e4-ea79-45a8-bb63-7aacc1260e38,Malformed JSON received in response payload.
+f74c07e4-ea79-45a8-bb63-7aacc1260e38,Trace completed with status code 500.
+acbb1244-8e97-40df-b51a-a8f8d1942de3,Trace completed with status code 500.
+acbb1244-8e97-40df-b51a-a8f8d1942de3,Malformed JSON received in response payload.
+acbb1244-8e97-40df-b51a-a8f8d1942de3,Patch deployment in progress - system running in degraded mode.
+9c1a2596-504f-46bc-be56-20a1246aab0b,Retrying the request due to transient error.
+9c1a2596-504f-46bc-be56-20a1246aab0b,Timeout occurred while waiting for response.
+9c1a2596-504f-46bc-be56-20a1246aab0b,Validation failed due to missing headers.
+09476c3c-bb89-4592-b743-5e1a77575e3f,SGA encountered a technical error at stage 2.
+09476c3c-bb89-4592-b743-5e1a77575e3f,Trace completed with status code 500.
+09476c3c-bb89-4592-b743-5e1a77575e3f,Patch deployment in progress - system running in degraded mode.
+09476c3c-bb89-4592-b743-5e1a77575e3f,Timeout occurred while waiting for response.
+8da5f331-f654-4f62-8eb4-8aae60052375,Patch deployment in progress - system running in degraded mode.
+8da5f331-f654-4f62-8eb4-8aae60052375,SGA encountered a technical error at stage 2.
+8da5f331-f654-4f62-8eb4-8aae60052375,Request forwarded to backend service.
+b64efb0c-8cbc-453b-ace4-d0fe174461e8,Request forwarded to backend service.
+b64efb0c-8cbc-453b-ace4-d0fe174461e8,SGA encountered a technical error at stage 2.
+b64efb0c-8cbc-453b-ace4-d0fe174461e8,Retrying the request due to transient error.
+b64efb0c-8cbc-453b-ace4-d0fe174461e8,Validation failed due to missing headers.
+11df7805-0b95-425e-a03d-2933476caef5,Validation failed due to missing headers.
+11df7805-0b95-425e-a03d-2933476caef5,Error: Authentication token expired.
+11df7805-0b95-425e-a03d-2933476caef5,SGA encountered a technical error at stage 2.
+54ae3a27-ac52-4f14-9179-62e70454e2fe,Validation failed due to missing headers.
+54ae3a27-ac52-4f14-9179-62e70454e2fe,Error: Authentication token expired.
+d9057b1f-b30e-48ed-8723-582e4dc5894b,Validation failed due to missing headers.
+d9057b1f-b30e-48ed-8723-582e4dc5894b,System resources exhausted: CPU at 95%.
+d9057b1f-b30e-48ed-8723-582e4dc5894b,Timeout occurred while waiting for response.
+d9057b1f-b30e-48ed-8723-582e4dc5894b,Malformed JSON received in response payload.
+d9057b1f-b30e-48ed-8723-582e4dc5894b,Retrying the request due to transient error.
+eb98dc47-7c34-47d7-8f52-c305b64f4a97,Trace completed with status code 500.
+eb98dc47-7c34-47d7-8f52-c305b64f4a97,Timeout occurred while waiting for response.
+eb98dc47-7c34-47d7-8f52-c305b64f4a97,System resources exhausted: CPU at 95%.
+eb98dc47-7c34-47d7-8f52-c305b64f4a97,Retrying the request due to transient error.
+eb308b7d-a819-40ce-b4c0-8b6bac3b4d0a,Timeout occurred while waiting for response.
+eb308b7d-a819-40ce-b4c0-8b6bac3b4d0a,Retrying the request due to transient error.
+eb308b7d-a819-40ce-b4c0-8b6bac3b4d0a,Patch deployment in progress - system running in degraded mode.
+eb308b7d-a819-40ce-b4c0-8b6bac3b4d0a,Trace completed with status code 500.
+bcf61658-3cd2-4b25-a8e9-616b62ab946d,Request forwarded to backend service.
+bcf61658-3cd2-4b25-a8e9-616b62ab946d,System resources exhausted: CPU at 95%.
+25f597ed-24d3-416a-aff8-81752ab97c14,SGA encountered a technical error at stage 2.
+25f597ed-24d3-416a-aff8-81752ab97c14,Timeout occurred while waiting for response.
+25f597ed-24d3-416a-aff8-81752ab97c14,Error: Authentication token expired.
+cd8e8339-acde-4929-a3a5-e1ba3d762362,Malformed JSON received in response payload.
+cd8e8339-acde-4929-a3a5-e1ba3d762362,Patch deployment in progress - system running in degraded mode.
+cd8e8339-acde-4929-a3a5-e1ba3d762362,SGA encountered a technical error at stage 2.
+cd8e8339-acde-4929-a3a5-e1ba3d762362,Timeout occurred while waiting for response.
+cd8e8339-acde-4929-a3a5-e1ba3d762362,"Request received by gateway, processing started."
+2c95b448-9fee-4720-ba40-1410920716bc,Validation failed due to missing headers.
+2c95b448-9fee-4720-ba40-1410920716bc,Error: Authentication token expired.
+2c95b448-9fee-4720-ba40-1410920716bc,SGA encountered a technical error at stage 2.
+2c95b448-9fee-4720-ba40-1410920716bc,Request forwarded to backend service.
+b09dc407-fcd3-49ee-b77c-f38266a77619,Timeout occurred while waiting for response.
+b09dc407-fcd3-49ee-b77c-f38266a77619,Error: Authentication token expired.
+b09dc407-fcd3-49ee-b77c-f38266a77619,Patch deployment in progress - system running in degraded mode.
+2d059815-f2fc-405f-8fad-c0fc45d9985d,Validation failed due to missing headers.
+2d059815-f2fc-405f-8fad-c0fc45d9985d,SGA encountered a technical error at stage 2.
+2d059815-f2fc-405f-8fad-c0fc45d9985d,"Request received by gateway, processing started."
+2d059815-f2fc-405f-8fad-c0fc45d9985d,System resources exhausted: CPU at 95%.
+b3b007be-c622-4224-9736-05bc7eac6fd3,Trace completed with status code 500.
+b3b007be-c622-4224-9736-05bc7eac6fd3,Validation failed due to missing headers.
+b3b007be-c622-4224-9736-05bc7eac6fd3,Request forwarded to backend service.
+001bbc1e-1557-4139-8c68-0d1a49864886,Retrying the request due to transient error.
+001bbc1e-1557-4139-8c68-0d1a49864886,Validation failed due to missing headers.
+2b59bd46-d2b9-43df-8f23-a6deae382227,Malformed JSON received in response payload.
+2b59bd46-d2b9-43df-8f23-a6deae382227,Retrying the request due to transient error.
+2b59bd46-d2b9-43df-8f23-a6deae382227,Request forwarded to backend service.
+2b59bd46-d2b9-43df-8f23-a6deae382227,SGA encountered a technical error at stage 2.
+2b59bd46-d2b9-43df-8f23-a6deae382227,Trace completed with status code 500.
+a90ab6fd-3e79-430e-a55b-31cbd7e378d9,Request forwarded to backend service.
+a90ab6fd-3e79-430e-a55b-31cbd7e378d9,"Request received by gateway, processing started."
+ea570e66-05eb-4f85-ac55-c7d100b7fd9b,System resources exhausted: CPU at 95%.
+ea570e66-05eb-4f85-ac55-c7d100b7fd9b,SGA encountered a technical error at stage 2.
+ea570e66-05eb-4f85-ac55-c7d100b7fd9b,Trace completed with status code 500.
+a220783a-033f-452e-b6dd-1784e73c5a33,Timeout occurred while waiting for response.
+a220783a-033f-452e-b6dd-1784e73c5a33,Validation failed due to missing headers.
+f70e17ca-e4cf-45c5-b81c-725256dd3be2,Patch deployment in progress - system running in degraded mode.
+f70e17ca-e4cf-45c5-b81c-725256dd3be2,Malformed JSON received in response payload.
+f70e17ca-e4cf-45c5-b81c-725256dd3be2,Trace completed with status code 500.
+f70e17ca-e4cf-45c5-b81c-725256dd3be2,Error: Authentication token expired.
+f70e17ca-e4cf-45c5-b81c-725256dd3be2,Request forwarded to backend service.
+fdadf2d3-51e1-42c1-872a-7d69510f860f,Patch deployment in progress - system running in degraded mode.
+fdadf2d3-51e1-42c1-872a-7d69510f860f,SGA encountered a technical error at stage 2.
+fdadf2d3-51e1-42c1-872a-7d69510f860f,Validation failed due to missing headers.
+fdadf2d3-51e1-42c1-872a-7d69510f860f,"Request received by gateway, processing started."
+fdadf2d3-51e1-42c1-872a-7d69510f860f,Request forwarded to backend service.
+9a414167-93f3-49ce-9b12-7859546ce88a,Validation failed due to missing headers.
+9a414167-93f3-49ce-9b12-7859546ce88a,Retrying the request due to transient error.
+9a414167-93f3-49ce-9b12-7859546ce88a,Error: Authentication token expired.
+9a414167-93f3-49ce-9b12-7859546ce88a,System resources exhausted: CPU at 95%.
+11b586d2-f89f-4664-9c1b-2503fc318ead,Request forwarded to backend service.
+11b586d2-f89f-4664-9c1b-2503fc318ead,Trace completed with status code 500.
+95e29d5a-2a49-48f6-a819-c8781117bbf0,Retrying the request due to transient error.
+95e29d5a-2a49-48f6-a819-c8781117bbf0,SGA encountered a technical error at stage 2.
+7c61e9f2-ef58-4b99-a740-cebd68f0a933,Validation failed due to missing headers.
+7c61e9f2-ef58-4b99-a740-cebd68f0a933,SGA encountered a technical error at stage 2.
+7c61e9f2-ef58-4b99-a740-cebd68f0a933,System resources exhausted: CPU at 95%.
+7c61e9f2-ef58-4b99-a740-cebd68f0a933,Trace completed with status code 500.
+cdcadabd-7b09-4ac1-8bd3-5d0b65035e11,Trace completed with status code 500.
+cdcadabd-7b09-4ac1-8bd3-5d0b65035e11,Patch deployment in progress - system running in degraded mode.
+cdcadabd-7b09-4ac1-8bd3-5d0b65035e11,Timeout occurred while waiting for response.
+cdcadabd-7b09-4ac1-8bd3-5d0b65035e11,Request forwarded to backend service.
+0591d810-cb27-4994-9a3f-c41cc83b82b4,Trace completed with status code 500.
+0591d810-cb27-4994-9a3f-c41cc83b82b4,Patch deployment in progress - system running in degraded mode.
+0591d810-cb27-4994-9a3f-c41cc83b82b4,Error: Authentication token expired.
+f488fa1b-153f-4706-8dc9-d1227b654acf,SGA encountered a technical error at stage 2.
+f488fa1b-153f-4706-8dc9-d1227b654acf,"Request received by gateway, processing started."
+f488fa1b-153f-4706-8dc9-d1227b654acf,Malformed JSON received in response payload.
+f488fa1b-153f-4706-8dc9-d1227b654acf,Error: Authentication token expired.
+f2d0d633-af23-4b31-a10f-c260163bb5c9,Request forwarded to backend service.
+f2d0d633-af23-4b31-a10f-c260163bb5c9,SGA encountered a technical error at stage 2.
+40455d93-856f-4415-8b2d-60d546727b7c,SGA encountered a technical error at stage 2.
+40455d93-856f-4415-8b2d-60d546727b7c,Timeout occurred while waiting for response.
+40455d93-856f-4415-8b2d-60d546727b7c,"Request received by gateway, processing started."
+40455d93-856f-4415-8b2d-60d546727b7c,Retrying the request due to transient error.
+40455d93-856f-4415-8b2d-60d546727b7c,System resources exhausted: CPU at 95%.
+0a479b5f-d344-4032-827b-cf8d957d73c5,Trace completed with status code 500.
+0a479b5f-d344-4032-827b-cf8d957d73c5,"Request received by gateway, processing started."
+7e51ace1-7d7f-40d3-a5be-74c0ce18669b,Timeout occurred while waiting for response.
+7e51ace1-7d7f-40d3-a5be-74c0ce18669b,SGA encountered a technical error at stage 2.
+7e51ace1-7d7f-40d3-a5be-74c0ce18669b,Validation failed due to missing headers.
+7e51ace1-7d7f-40d3-a5be-74c0ce18669b,"Request received by gateway, processing started."
+7e51ace1-7d7f-40d3-a5be-74c0ce18669b,Error: Authentication token expired.
+6e34d31f-a0bf-4276-a9cd-03f7f5c2d346,Error: Authentication token expired.
+6e34d31f-a0bf-4276-a9cd-03f7f5c2d346,SGA encountered a technical error at stage 2.
+6e34d31f-a0bf-4276-a9cd-03f7f5c2d346,Patch deployment in progress - system running in degraded mode.
+0fb63aca-854e-47af-9400-c44d85e383be,Timeout occurred while waiting for response.
+0fb63aca-854e-47af-9400-c44d85e383be,SGA encountered a technical error at stage 2.
+0fb63aca-854e-47af-9400-c44d85e383be,Trace completed with status code 500.
+0fb63aca-854e-47af-9400-c44d85e383be,System resources exhausted: CPU at 95%.
+ce39e5e4-a7f0-440e-85c0-3ffec07b0325,Timeout occurred while waiting for response.
+ce39e5e4-a7f0-440e-85c0-3ffec07b0325,Retrying the request due to transient error.
+ce39e5e4-a7f0-440e-85c0-3ffec07b0325,Validation failed due to missing headers.
+ce39e5e4-a7f0-440e-85c0-3ffec07b0325,Request forwarded to backend service.
+d33d44b0-2e07-4335-aaa3-8aaa2023bd05,Timeout occurred while waiting for response.
+d33d44b0-2e07-4335-aaa3-8aaa2023bd05,Validation failed due to missing headers.
+37c51d82-7823-4d2d-b5d7-40f760e4901f,Retrying the request due to transient error.
+37c51d82-7823-4d2d-b5d7-40f760e4901f,Validation failed due to missing headers.
+b29d3958-bf12-49ed-aeaf-e8a9a0178e15,Malformed JSON received in response payload.
+b29d3958-bf12-49ed-aeaf-e8a9a0178e15,System resources exhausted: CPU at 95%.
+b29d3958-bf12-49ed-aeaf-e8a9a0178e15,Retrying the request due to transient error.
+6c0340c2-1aba-4737-98ef-ff6826c18a33,Malformed JSON received in response payload.
+6c0340c2-1aba-4737-98ef-ff6826c18a33,Error: Authentication token expired.
+29e7abbf-ca21-46b2-b171-b7f2428bb670,Trace completed with status code 500.
+29e7abbf-ca21-46b2-b171-b7f2428bb670,System resources exhausted: CPU at 95%.
+c3aeb5b6-eb88-4280-8d92-3430a5fd7214,"Request received by gateway, processing started."
+c3aeb5b6-eb88-4280-8d92-3430a5fd7214,Retrying the request due to transient error.
+747cd2ff-7c8f-4067-ae5d-6d861ebffe38,Timeout occurred while waiting for response.
+747cd2ff-7c8f-4067-ae5d-6d861ebffe38,Retrying the request due to transient error.
+747cd2ff-7c8f-4067-ae5d-6d861ebffe38,Request forwarded to backend service.
+747cd2ff-7c8f-4067-ae5d-6d861ebffe38,Patch deployment in progress - system running in degraded mode.
+747cd2ff-7c8f-4067-ae5d-6d861ebffe38,Validation failed due to missing headers.
+f0cd99cc-edb2-4a7a-ad06-3b383fd24d6c,"Request received by gateway, processing started."
+f0cd99cc-edb2-4a7a-ad06-3b383fd24d6c,Validation failed due to missing headers.
+605984c5-313d-47dc-89ed-16066745c29e,System resources exhausted: CPU at 95%.
+605984c5-313d-47dc-89ed-16066745c29e,Timeout occurred while waiting for response.
+605984c5-313d-47dc-89ed-16066745c29e,Patch deployment in progress - system running in degraded mode.
+e263fb4a-cdf4-4024-bf14-7d6da21b711c,System resources exhausted: CPU at 95%.
+e263fb4a-cdf4-4024-bf14-7d6da21b711c,Validation failed due to missing headers.
+e263fb4a-cdf4-4024-bf14-7d6da21b711c,"Request received by gateway, processing started."
+e263fb4a-cdf4-4024-bf14-7d6da21b711c,Patch deployment in progress - system running in degraded mode.
+9f639c06-ab98-4746-8121-1f51da45604c,Error: Authentication token expired.
+9f639c06-ab98-4746-8121-1f51da45604c,Timeout occurred while waiting for response.
+9f639c06-ab98-4746-8121-1f51da45604c,Patch deployment in progress - system running in degraded mode.
+9f639c06-ab98-4746-8121-1f51da45604c,System resources exhausted: CPU at 95%.
+ffc68151-03c7-4af3-a1c3-545a06bca4ac,Request forwarded to backend service.
+ffc68151-03c7-4af3-a1c3-545a06bca4ac,Error: Authentication token expired.
+ffc68151-03c7-4af3-a1c3-545a06bca4ac,Malformed JSON received in response payload.
+e135da75-62e6-4cc5-8c5a-eaeacb9eade9,Request forwarded to backend service.
+e135da75-62e6-4cc5-8c5a-eaeacb9eade9,System resources exhausted: CPU at 95%.
+e135da75-62e6-4cc5-8c5a-eaeacb9eade9,Malformed JSON received in response payload.
+e135da75-62e6-4cc5-8c5a-eaeacb9eade9,Timeout occurred while waiting for response.
+cf916d52-5af0-4a27-b947-015c4ee37a10,Timeout occurred while waiting for response.
+cf916d52-5af0-4a27-b947-015c4ee37a10,System resources exhausted: CPU at 95%.
+cf916d52-5af0-4a27-b947-015c4ee37a10,"Request received by gateway, processing started."
+34d98ffc-c710-410a-a758-4e586c4a2ef3,Patch deployment in progress - system running in degraded mode.
+34d98ffc-c710-410a-a758-4e586c4a2ef3,Retrying the request due to transient error.
+34d98ffc-c710-410a-a758-4e586c4a2ef3,Error: Authentication token expired.
+34d98ffc-c710-410a-a758-4e586c4a2ef3,"Request received by gateway, processing started."
+34d98ffc-c710-410a-a758-4e586c4a2ef3,Timeout occurred while waiting for response.
+d9042f6c-84c1-4fc8-b5d3-d7c07d74b586,Request forwarded to backend service.
+d9042f6c-84c1-4fc8-b5d3-d7c07d74b586,Retrying the request due to transient error.
+d9042f6c-84c1-4fc8-b5d3-d7c07d74b586,SGA encountered a technical error at stage 2.
+d9042f6c-84c1-4fc8-b5d3-d7c07d74b586,Error: Authentication token expired.
+8679df4f-14ef-4073-b86f-8423d011339c,Timeout occurred while waiting for response.
+8679df4f-14ef-4073-b86f-8423d011339c,Patch deployment in progress - system running in degraded mode.
+8679df4f-14ef-4073-b86f-8423d011339c,Retrying the request due to transient error.
+a28f5814-f074-4992-ba18-9227f7402bdf,Error: Authentication token expired.
+a28f5814-f074-4992-ba18-9227f7402bdf,Malformed JSON received in response payload.
+a28f5814-f074-4992-ba18-9227f7402bdf,Request forwarded to backend service.
+6889941d-49a4-4643-a4b1-65dd0a98f71d,Malformed JSON received in response payload.
+6889941d-49a4-4643-a4b1-65dd0a98f71d,Timeout occurred while waiting for response.
+c222101d-fe64-4eeb-acab-76c5ed3c7cf7,Error: Authentication token expired.
+c222101d-fe64-4eeb-acab-76c5ed3c7cf7,System resources exhausted: CPU at 95%.
+c222101d-fe64-4eeb-acab-76c5ed3c7cf7,SGA encountered a technical error at stage 2.
+c222101d-fe64-4eeb-acab-76c5ed3c7cf7,Trace completed with status code 500.
+fd0b0154-d58d-4c78-8fce-91a33b147573,System resources exhausted: CPU at 95%.
+fd0b0154-d58d-4c78-8fce-91a33b147573,Error: Authentication token expired.
+a4595c5d-15d3-42cc-9a1c-094137011071,Request forwarded to backend service.
+a4595c5d-15d3-42cc-9a1c-094137011071,Retrying the request due to transient error.
+6be6672e-b5fd-4518-b730-c3925cca7acc,SGA encountered a technical error at stage 2.
+6be6672e-b5fd-4518-b730-c3925cca7acc,Trace completed with status code 500.
+6be6672e-b5fd-4518-b730-c3925cca7acc,Retrying the request due to transient error.
+b091d328-1746-467c-911e-46956fea3fec,Request forwarded to backend service.
+b091d328-1746-467c-911e-46956fea3fec,Validation failed due to missing headers.
+c4254a2c-35fa-4a50-8b7d-78c3aad5c4c5,Error: Authentication token expired.
+c4254a2c-35fa-4a50-8b7d-78c3aad5c4c5,Request forwarded to backend service.
+c4254a2c-35fa-4a50-8b7d-78c3aad5c4c5,"Request received by gateway, processing started."
+c4254a2c-35fa-4a50-8b7d-78c3aad5c4c5,Patch deployment in progress - system running in degraded mode.
+796de0c8-55a8-4370-bb73-3a83b7e62def,Trace completed with status code 500.
+796de0c8-55a8-4370-bb73-3a83b7e62def,Patch deployment in progress - system running in degraded mode.
+796de0c8-55a8-4370-bb73-3a83b7e62def,Malformed JSON received in response payload.
+319cccbb-e048-45fa-b7b0-fef1af6dc482,Error: Authentication token expired.
+319cccbb-e048-45fa-b7b0-fef1af6dc482,"Request received by gateway, processing started."
+319cccbb-e048-45fa-b7b0-fef1af6dc482,Trace completed with status code 500.
+319cccbb-e048-45fa-b7b0-fef1af6dc482,Retrying the request due to transient error.
+319cccbb-e048-45fa-b7b0-fef1af6dc482,System resources exhausted: CPU at 95%.
+30eced52-c7ee-42ca-aa72-e836e36c76f5,"Request received by gateway, processing started."
+30eced52-c7ee-42ca-aa72-e836e36c76f5,Malformed JSON received in response payload.
+30eced52-c7ee-42ca-aa72-e836e36c76f5,System resources exhausted: CPU at 95%.
+30eced52-c7ee-42ca-aa72-e836e36c76f5,Retrying the request due to transient error.
+ddfd885f-9676-4c7d-a9cb-ffed9573c3be,Validation failed due to missing headers.
+ddfd885f-9676-4c7d-a9cb-ffed9573c3be,Patch deployment in progress - system running in degraded mode.
+ddfd885f-9676-4c7d-a9cb-ffed9573c3be,System resources exhausted: CPU at 95%.
+ddfd885f-9676-4c7d-a9cb-ffed9573c3be,Error: Authentication token expired.
+0d885eb0-7ec7-47e2-90a3-bfa924baadd1,Patch deployment in progress - system running in degraded mode.
+0d885eb0-7ec7-47e2-90a3-bfa924baadd1,Trace completed with status code 500.
+0d885eb0-7ec7-47e2-90a3-bfa924baadd1,Timeout occurred while waiting for response.
+0d885eb0-7ec7-47e2-90a3-bfa924baadd1,"Request received by gateway, processing started."
+0d885eb0-7ec7-47e2-90a3-bfa924baadd1,Error: Authentication token expired.
+b01edbea-0dd9-48e9-9e45-b7c5e7262922,System resources exhausted: CPU at 95%.
+b01edbea-0dd9-48e9-9e45-b7c5e7262922,Patch deployment in progress - system running in degraded mode.
+b01edbea-0dd9-48e9-9e45-b7c5e7262922,Error: Authentication token expired.
+b01edbea-0dd9-48e9-9e45-b7c5e7262922,Malformed JSON received in response payload.

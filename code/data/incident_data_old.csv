@@ -1,0 +1,1001 @@
+incident_id,description,category,urgency,status,ci_id,cr_number,resolution,tags,incident_date,cause
+INC10000,Application not responding,Network,High,Open,CI-E864E104,CRQ968525,Cleared DNS cache,"db, auth, dns",2025-03-14,Change
+INC10001,Packet loss observed,Database,Low,In Progress,CI-F1197441,CRQ935986,Updated routing table,"dns, firewall, crash",2025-02-28,Network Glitch
+INC10002,Packet loss observed,Performance,Low,Open,CI-80DBA4BB,CRQ955468,Increased heap size,"auth, router, latency",2025-02-24,Change
+INC10003,Packet loss observed,Database,High,Resolved,CI-D5746A4A,CRQ998230,Reconfigured firewall rules,"crash, timeout, auth",2025-03-05,Manual Error
+INC10004,Database connection issues,Authentication,Medium,Resolved,CI-F1197441,CRQ940043,Restarted service,"timeout, auth, crash",2025-02-28,Change
+INC10005,Application not responding,Database,Medium,Open,CI-78D7E4EB,CRQ929539,Increased heap size,"auth, latency, crash",2025-03-21,Network Glitch
+INC10006,Service timeout in EU region,Network,Low,Resolved,CI-16880A9A,CRQ975363,Updated routing table,"router, auth, db",2025-02-21,Manual Error
+INC10007,Packet loss observed,Authentication,Low,Resolved,CI-EA57CD70,CRQ936869,Whitelisted IP range,"latency, db, router",2025-02-21,Unknown
+INC10008,Database connection issues,Network,High,Open,CI-1BF32CB7,CRQ913663,Cleared DNS cache,"auth, timeout, firewall",2025-03-15,Infra Issue
+INC10009,Packet loss observed,Network,High,Open,CI-F4AB59BA,CRQ951762,Restarted service,"latency, router, auth",2025-03-19,Infra Issue
+INC10010,Service timeout in EU region,Network,Low,In Progress,CI-403106D9,CRQ956589,Whitelisted IP range,"dns, latency, crash",2025-02-28,Unknown
+INC10011,Application not responding,Performance,Medium,In Progress,CI-8BE00422,CRQ934264,,"crash, router, latency",2025-03-07,Infra Issue
+INC10012,Unable to access service,Performance,High,Resolved,CI-F33AA9C4,CRQ945744,Reconfigured firewall rules,"db, dns, latency",2025-02-28,Unknown
+INC10013,Application not responding,Authentication,Low,Resolved,CI-6FD9D455,CRQ920549,Reconfigured firewall rules,"router, latency, firewall",2025-02-26,Infra Issue
+INC10014,High latency in application,Authentication,Medium,In Progress,CI-2D91E268,CRQ937023,,"timeout, db, latency",2025-03-08,Change
+INC10015,Packet loss observed,Network,Low,Open,CI-DE8D4597,CRQ981655,Restarted service,"timeout, db, auth",2025-03-13,Unknown
+INC10016,Authentication failed for multiple users,Database,Low,In Progress,CI-2FDE67B6,CRQ900820,Updated routing table,"dns, db, auth",2025-02-23,Change
+INC10017,Packet loss observed,Network,High,Open,CI-1E16354D,CRQ968001,Cleared DNS cache,"timeout, firewall, dns",2025-02-24,Change
+INC10018,Service timeout in EU region,Connectivity,Low,Resolved,CI-2FDE67B6,CRQ900281,Updated routing table,"timeout, router, auth",2025-03-08,Network Glitch
+INC10019,Firewall blocking outgoing traffic,Network,Medium,Resolved,CI-80DBA4BB,CRQ955733,Updated routing table,"dns, latency, router",2025-03-12,Change
+INC10020,DNS lookup failed,Database,Low,Open,CI-13823F6F,CRQ980083,Updated routing table,"auth, db, dns",2025-03-03,Manual Error
+INC10021,Unable to access service,Authentication,Low,In Progress,CI-53B556DA,CRQ938590,Updated routing table,"db, timeout, firewall",2025-02-19,Change
+INC10022,Authentication failed for multiple users,Performance,Low,Open,CI-41F7A6BB,CRQ975363,Restarted service,"crash, firewall, router",2025-02-19,Unknown
+INC10023,Unable to access service,Network,Low,Resolved,CI-13823F6F,CRQ956589,Updated routing table,"db, dns, router",2025-02-24,Change
+INC10024,System rebooted unexpectedly,Network,Low,In Progress,CI-F081C3E2,CRQ954291,Whitelisted IP range,"timeout, auth, crash",2025-03-19,Change
+INC10025,Authentication failed for multiple users,Authentication,High,Resolved,CI-E7221F06,CRQ973827,Whitelisted IP range,"dns, auth, crash",2025-03-19,Manual Error
+INC10026,Firewall blocking outgoing traffic,Network,High,Open,CI-619B8270,CRQ935986,Whitelisted IP range,"auth, dns, timeout",2025-03-13,Unknown
+INC10027,Unable to access service,Authentication,High,In Progress,CI-5CBCAC88,CRQ981616,,"latency, crash, dns",2025-02-24,Change
+INC10028,Application not responding,Authentication,Medium,Resolved,CI-1CE63E7D,CRQ968525,Increased heap size,"dns, auth, timeout",2025-03-14,Manual Error
+INC10029,Database connection issues,Authentication,Medium,Resolved,CI-9A69A441,CRQ978702,Increased heap size,"latency, crash, db",2025-02-27,Network Glitch
+INC10030,High latency in application,Network,Low,In Progress,CI-8FBDDC04,CRQ983325,Updated routing table,"router, crash, timeout",2025-03-19,Change
+INC10031,Authentication failed for multiple users,Database,Low,Resolved,CI-DE8D4597,CRQ925114,,"dns, latency, auth",2025-02-19,Change
+INC10032,Application not responding,Connectivity,Low,Open,CI-FEAE6368,CRQ969332,Updated routing table,"router, auth, crash",2025-02-23,Network Glitch
+INC10033,Service timeout in EU region,Database,High,Resolved,CI-34393CCA,CRQ925114,Increased heap size,"router, latency, db",2025-02-20,Change
+INC10034,DNS lookup failed,Database,High,Open,CI-16880A9A,CRQ950411,,"auth, db, timeout",2025-03-11,Change
+INC10035,High latency in application,Network,Low,Resolved,CI-E052D553,CRQ927582,,"timeout, firewall, crash",2025-02-22,Change
+INC10036,System rebooted unexpectedly,Database,Low,Resolved,CI-53B556DA,CRQ995852,,"router, firewall, dns",2025-02-21,Infra Issue
+INC10037,Authentication failed for multiple users,Connectivity,Medium,Open,CI-F3DC27D5,CRQ991549,Increased heap size,"firewall, db, dns",2025-03-12,Change
+INC10038,Packet loss observed,Network,High,In Progress,CI-CBA703B4,CRQ984809,Whitelisted IP range,"crash, timeout, auth",2025-02-25,Unknown
+INC10039,System rebooted unexpectedly,Network,High,Resolved,CI-DE8D4597,CRQ992693,Increased heap size,"auth, dns, db",2025-03-10,Infra Issue
+INC10040,High latency in application,Performance,High,Open,CI-6CA0F946,CRQ914693,Reconfigured firewall rules,"auth, db, timeout",2025-03-16,Change
+INC10041,Authentication failed for multiple users,Database,Low,In Progress,CI-78D7E4EB,CRQ931321,Whitelisted IP range,"latency, db, auth",2025-03-17,Change
+INC10042,Unable to access service,Connectivity,High,In Progress,CI-291C7AF7,CRQ953171,Cleared DNS cache,"auth, db, firewall",2025-02-27,Unknown
+INC10043,Database connection issues,Database,Medium,Resolved,CI-B6A46B30,CRQ924929,,"firewall, auth, dns",2025-03-11,Unknown
+INC10044,Authentication failed for multiple users,Connectivity,Low,Resolved,CI-DD846996,CRQ949356,Updated routing table,"auth, db, timeout",2025-03-12,Change
+INC10045,Firewall blocking outgoing traffic,Connectivity,Low,In Progress,CI-F081C3E2,CRQ900281,Reconfigured firewall rules,"timeout, crash, db",2025-02-28,Manual Error
+INC10046,DNS lookup failed,Database,Medium,Open,CI-403106D9,CRQ922235,Whitelisted IP range,"latency, timeout, router",2025-03-19,Manual Error
+INC10047,Service timeout in EU region,Connectivity,Medium,Open,CI-13823F6F,CRQ950463,Cleared DNS cache,"dns, crash, router",2025-03-18,Unknown
+INC10048,Unable to access service,Connectivity,Medium,In Progress,CI-BD72E658,CRQ980680,Increased heap size,"db, auth, latency",2025-03-01,Network Glitch
+INC10049,System rebooted unexpectedly,Network,Low,In Progress,CI-6BA1D2F9,CRQ956589,Reconfigured firewall rules,"db, firewall, timeout",2025-03-11,Network Glitch
+INC10050,Service timeout in EU region,Authentication,Medium,In Progress,CI-85009BE0,CRQ906374,Whitelisted IP range,"router, latency, auth",2025-03-04,Unknown
+INC10051,DNS lookup failed,Authentication,Low,In Progress,CI-FEB9E731,CRQ995390,Restarted service,"crash, db, firewall",2025-03-18,Change
+INC10052,System rebooted unexpectedly,Performance,Medium,Resolved,CI-619B8270,CRQ911842,Reconfigured firewall rules,"dns, latency, timeout",2025-02-23,Infra Issue
+INC10053,Unable to access service,Database,Medium,Open,CI-F7FDC10D,CRQ949002,Reconfigured firewall rules,"crash, router, db",2025-02-28,Change
+INC10054,High latency in application,Performance,Low,Open,CI-4E8CC79E,CRQ970129,Whitelisted IP range,"timeout, db, auth",2025-03-19,Unknown
+INC10055,Unable to access service,Authentication,Low,In Progress,CI-40208989,CRQ935758,Reconfigured firewall rules,"db, dns, router",2025-03-20,Change
+INC10056,DNS lookup failed,Performance,Low,Open,CI-D5746A4A,CRQ957081,Restarted service,"crash, latency, dns",2025-03-03,Unknown
+INC10057,Unable to access service,Performance,High,Resolved,CI-1CE63E7D,CRQ928339,Whitelisted IP range,"db, firewall, dns",2025-03-01,Infra Issue
+INC10058,High latency in application,Network,High,In Progress,CI-E052D553,CRQ991923,Whitelisted IP range,"timeout, latency, router",2025-03-09,Change
+INC10059,Firewall blocking outgoing traffic,Network,Low,Resolved,CI-6E4827E0,CRQ953036,Whitelisted IP range,"auth, dns, timeout",2025-03-11,Unknown
+INC10060,Service timeout in EU region,Network,Low,Open,CI-80DBA4BB,CRQ924832,Whitelisted IP range,"latency, db, timeout",2025-03-18,Infra Issue
+INC10061,Application not responding,Database,Low,Resolved,CI-F3DC27D5,CRQ978716,Whitelisted IP range,"router, timeout, db",2025-03-16,Manual Error
+INC10062,Application not responding,Connectivity,Medium,Open,CI-78BD6716,CRQ950821,Restarted service,"timeout, auth, db",2025-02-24,Manual Error
+INC10063,Database connection issues,Database,Medium,In Progress,CI-6CA0F946,CRQ995852,,"timeout, db, firewall",2025-02-23,Change
+INC10064,High latency in application,Authentication,Low,Resolved,CI-4C7385F1,CRQ972999,Reconfigured firewall rules,"timeout, db, firewall",2025-03-13,Manual Error
+INC10065,System rebooted unexpectedly,Connectivity,High,Open,CI-1A411B1F,CRQ944711,Cleared DNS cache,"router, auth, db",2025-03-04,Unknown
+INC10066,Database connection issues,Performance,High,Open,CI-5E3534B8,CRQ945482,Increased heap size,"firewall, db, timeout",2025-03-01,Change
+INC10067,High latency in application,Performance,High,Resolved,CI-85009BE0,CRQ953032,Restarted service,"timeout, latency, firewall",2025-03-15,Change
+INC10068,System rebooted unexpectedly,Authentication,High,In Progress,CI-C0C87F23,CRQ961694,Whitelisted IP range,"auth, latency, router",2025-02-24,Unknown
+INC10069,Database connection issues,Network,High,Open,CI-34393CCA,CRQ955216,Updated routing table,"auth, router, dns",2025-02-27,Unknown
+INC10070,Database connection issues,Authentication,Low,Open,CI-324B6A9C,CRQ936869,,"crash, firewall, dns",2025-03-19,Change
+INC10071,Unable to access service,Authentication,Medium,Resolved,CI-C0C87F23,CRQ924929,Restarted service,"router, crash, auth",2025-03-08,Unknown
+INC10072,Service timeout in EU region,Performance,Medium,Open,CI-1E16354D,CRQ959789,Restarted service,"firewall, router, crash",2025-03-17,Change
+INC10073,Authentication failed for multiple users,Network,Medium,Resolved,CI-CCFFF606,CRQ914955,Updated routing table,"latency, db, timeout",2025-03-14,Change
+INC10074,Firewall blocking outgoing traffic,Database,Medium,In Progress,CI-C0C87F23,CRQ975363,Restarted service,"db, firewall, router",2025-03-05,Unknown
+INC10075,Firewall blocking outgoing traffic,Connectivity,Low,Resolved,CI-06F70C98,CRQ995390,Reconfigured firewall rules,"db, firewall, crash",2025-02-20,Network Glitch
+INC10076,Firewall blocking outgoing traffic,Authentication,High,Open,CI-2FDE67B6,CRQ955381,Cleared DNS cache,"db, router, firewall",2025-03-12,Change
+INC10077,Database connection issues,Authentication,Medium,In Progress,CI-1BF32CB7,CRQ929120,Restarted service,"db, auth, crash",2025-02-26,Change
+INC10078,Unable to access service,Database,Low,Open,CI-34393CCA,CRQ987415,Reconfigured firewall rules,"dns, latency, router",2025-03-21,Change
+INC10079,Unable to access service,Performance,High,Resolved,CI-41F7A6BB,CRQ966730,Updated routing table,"latency, firewall, router",2025-03-19,Unknown
+INC10080,Database connection issues,Database,High,Resolved,CI-EA57CD70,CRQ950377,Updated routing table,"auth, firewall, router",2025-03-05,Unknown
+INC10081,System rebooted unexpectedly,Database,Medium,In Progress,CI-566F7AA7,CRQ949313,Updated routing table,"crash, auth, db",2025-03-19,Change
+INC10082,Application not responding,Connectivity,Medium,In Progress,CI-5E3534B8,CRQ939612,Whitelisted IP range,"firewall, router, dns",2025-03-14,Network Glitch
+INC10083,DNS lookup failed,Connectivity,Low,Resolved,CI-4C7385F1,CRQ953171,Reconfigured firewall rules,"dns, firewall, timeout",2025-02-26,Unknown
+INC10084,Packet loss observed,Performance,Medium,In Progress,CI-F7FDC10D,CRQ966070,Whitelisted IP range,"db, dns, firewall",2025-03-13,Change
+INC10085,DNS lookup failed,Connectivity,Low,In Progress,CI-0921C4C6,CRQ915433,Reconfigured firewall rules,"dns, firewall, auth",2025-03-07,Unknown
+INC10086,Packet loss observed,Performance,High,Open,CI-80DBA4BB,CRQ931321,Cleared DNS cache,"db, firewall, auth",2025-03-17,Unknown
+INC10087,Packet loss observed,Authentication,Low,Resolved,CI-55755844,CRQ946030,Increased heap size,"dns, auth, router",2025-03-19,Change
+INC10088,Application not responding,Network,High,Open,CI-1005D47E,CRQ974677,Reconfigured firewall rules,"router, latency, crash",2025-03-15,Change
+INC10089,High latency in application,Performance,High,Resolved,CI-92B49625,CRQ912702,,"auth, dns, router",2025-03-10,Infra Issue
+INC10090,Database connection issues,Database,Low,Resolved,CI-064526BF,CRQ997727,Increased heap size,"db, crash, firewall",2025-03-04,Change
+INC10091,Unable to access service,Network,High,Resolved,CI-BA06172F,CRQ917481,,"latency, crash, dns",2025-03-21,Unknown
+INC10092,Unable to access service,Authentication,Medium,Resolved,CI-BA06172F,CRQ917471,Reconfigured firewall rules,"timeout, db, firewall",2025-03-02,Change
+INC10093,System rebooted unexpectedly,Network,High,Resolved,CI-627A162A,CRQ977343,Restarted service,"firewall, router, crash",2025-03-13,Change
+INC10094,Authentication failed for multiple users,Authentication,Low,In Progress,CI-62648CF1,CRQ936869,Whitelisted IP range,"router, db, crash",2025-03-20,Unknown
+INC10095,Application not responding,Performance,High,Open,CI-5B8CC68D,CRQ972797,Reconfigured firewall rules,"crash, latency, auth",2025-02-25,Change
+INC10096,DNS lookup failed,Connectivity,High,Resolved,CI-E7221F06,CRQ974053,Reconfigured firewall rules,"timeout, crash, router",2025-03-03,Change
+INC10097,High latency in application,Connectivity,Low,In Progress,CI-A0FA0F7E,CRQ914294,,"router, crash, auth",2025-03-09,Unknown
+INC10098,Application not responding,Authentication,High,Resolved,CI-001456E7,CRQ949751,Cleared DNS cache,"crash, latency, db",2025-03-16,Manual Error
+INC10099,Unable to access service,Authentication,High,Open,CI-6BA1D2F9,CRQ929882,Increased heap size,"latency, router, firewall",2025-03-09,Change
+INC10100,DNS lookup failed,Connectivity,Medium,In Progress,CI-F4AB59BA,CRQ916524,Whitelisted IP range,"crash, timeout, router",2025-03-17,Unknown
+INC10101,High latency in application,Authentication,Low,Resolved,CI-BA06172F,CRQ901060,Cleared DNS cache,"auth, crash, latency",2025-03-19,Change
+INC10102,System rebooted unexpectedly,Authentication,Medium,Resolved,CI-200CCE31,CRQ953036,Reconfigured firewall rules,"db, firewall, crash",2025-02-25,Manual Error
+INC10103,Application not responding,Database,Medium,In Progress,CI-FEAE6368,CRQ969420,Increased heap size,"timeout, router, auth",2025-03-19,Unknown
+INC10104,System rebooted unexpectedly,Network,High,Open,CI-53B556DA,CRQ944711,Updated routing table,"db, timeout, dns",2025-02-25,Manual Error
+INC10105,Firewall blocking outgoing traffic,Performance,High,In Progress,CI-A57A86E1,CRQ972289,,"auth, timeout, firewall",2025-03-03,Change
+INC10106,Database connection issues,Performance,Medium,Open,CI-001456E7,CRQ929618,Restarted service,"auth, db, crash",2025-02-19,Change
+INC10107,Service timeout in EU region,Network,High,Resolved,CI-2FDE67B6,CRQ970129,Restarted service,"timeout, db, dns",2025-03-11,Change
+INC10108,High latency in application,Authentication,Low,In Progress,CI-5E3534B8,CRQ966627,Cleared DNS cache,"dns, db, timeout",2025-03-04,Unknown
+INC10109,DNS lookup failed,Network,Low,Open,CI-A0FA0F7E,CRQ962793,Increased heap size,"timeout, firewall, router",2025-02-24,Change
+INC10110,Application not responding,Network,Medium,Resolved,CI-8751D263,CRQ919663,Whitelisted IP range,"router, firewall, dns",2025-03-15,Change
+INC10111,High latency in application,Authentication,Medium,Open,CI-DD846996,CRQ939731,Cleared DNS cache,"timeout, dns, db",2025-02-19,Unknown
+INC10112,Database connection issues,Database,High,In Progress,CI-0921C4C6,CRQ913534,Restarted service,"db, auth, firewall",2025-02-25,Unknown
+INC10113,System rebooted unexpectedly,Performance,High,Open,CI-E864E104,CRQ966791,Cleared DNS cache,"router, crash, latency",2025-03-10,Unknown
+INC10114,DNS lookup failed,Connectivity,High,In Progress,CI-F33AA9C4,CRQ944369,Whitelisted IP range,"timeout, crash, db",2025-03-01,Change
+INC10115,Service timeout in EU region,Authentication,Low,Resolved,CI-200CCE31,CRQ963276,,"firewall, crash, timeout",2025-03-05,Unknown
+INC10116,System rebooted unexpectedly,Performance,Low,Open,CI-5D825301,CRQ955468,Restarted service,"dns, auth, db",2025-03-20,Unknown
+INC10117,DNS lookup failed,Authentication,Medium,Open,CI-2439E08A,CRQ950463,Restarted service,"auth, dns, router",2025-03-03,Network Glitch
+INC10118,Authentication failed for multiple users,Connectivity,Low,Resolved,CI-F1197441,CRQ927582,Increased heap size,"latency, db, auth",2025-02-25,Change
+INC10119,Firewall blocking outgoing traffic,Authentication,High,In Progress,CI-EA57CD70,CRQ999929,,"router, db, dns",2025-03-12,Unknown
+INC10120,Firewall blocking outgoing traffic,Performance,Low,In Progress,CI-D5746A4A,CRQ951621,Increased heap size,"auth, router, timeout",2025-02-26,Unknown
+INC10121,Authentication failed for multiple users,Authentication,High,Resolved,CI-001456E7,CRQ924113,Increased heap size,"timeout, firewall, latency",2025-03-03,Network Glitch
+INC10122,Service timeout in EU region,Authentication,Low,In Progress,CI-F33AA9C4,CRQ930095,Cleared DNS cache,"timeout, latency, firewall",2025-03-16,Change
+INC10123,High latency in application,Connectivity,Low,In Progress,CI-E052D553,CRQ914970,Updated routing table,"auth, timeout, db",2025-02-21,Infra Issue
+INC10124,High latency in application,Authentication,High,Open,CI-F081C3E2,CRQ968106,,"router, auth, latency",2025-03-14,Unknown
+INC10125,Unable to access service,Network,Medium,Resolved,CI-78BD6716,CRQ983959,Increased heap size,"db, firewall, router",2025-03-20,Manual Error
+INC10126,Application not responding,Performance,High,In Progress,CI-8751D263,CRQ910970,Restarted service,"router, crash, db",2025-03-09,Change
+INC10127,Service timeout in EU region,Performance,Medium,In Progress,CI-6CA0F946,CRQ997727,Increased heap size,"timeout, auth, dns",2025-03-01,Manual Error
+INC10128,Packet loss observed,Network,High,Resolved,CI-788425BE,CRQ994452,Restarted service,"firewall, crash, latency",2025-03-17,Network Glitch
+INC10129,High latency in application,Performance,Medium,Open,CI-13823F6F,CRQ956283,Whitelisted IP range,"timeout, latency, db",2025-03-14,Change
+INC10130,DNS lookup failed,Connectivity,Medium,Open,CI-8751D263,CRQ960100,,"auth, db, latency",2025-03-19,Network Glitch
+INC10131,Unable to access service,Performance,Medium,Open,CI-324B6A9C,CRQ969304,Increased heap size,"firewall, timeout, crash",2025-03-01,Unknown
+INC10132,Unable to access service,Database,Low,Open,CI-40208989,CRQ940271,Whitelisted IP range,"latency, dns, auth",2025-03-09,Change
+INC10133,Service timeout in EU region,Authentication,Medium,Open,CI-0A130978,CRQ948529,Restarted service,"auth, crash, latency",2025-03-20,Network Glitch
+INC10134,Application not responding,Database,Medium,Resolved,CI-2FDE67B6,CRQ975363,Whitelisted IP range,"router, firewall, auth",2025-03-17,Unknown
+INC10135,Authentication failed for multiple users,Authentication,Low,Resolved,CI-7342C0ED,CRQ964199,Restarted service,"auth, db, latency",2025-03-05,Unknown
+INC10136,Unable to access service,Performance,High,Resolved,CI-77B123A1,CRQ951773,Restarted service,"timeout, db, auth",2025-03-14,Network Glitch
+INC10137,Packet loss observed,Performance,Medium,In Progress,CI-41F7A6BB,CRQ968001,Restarted service,"timeout, router, crash",2025-03-01,Change
+INC10138,Database connection issues,Database,Low,Resolved,CI-BE0E4321,CRQ940328,Whitelisted IP range,"timeout, dns, latency",2025-03-01,Network Glitch
+INC10139,Firewall blocking outgoing traffic,Network,High,In Progress,CI-0447FD5C,CRQ970012,Restarted service,"dns, latency, crash",2025-03-19,Change
+INC10140,Firewall blocking outgoing traffic,Performance,Low,Open,CI-C3AEAC79,CRQ940511,Updated routing table,"dns, router, auth",2025-02-21,Unknown
+INC10141,Service timeout in EU region,Database,Medium,Open,CI-DE8D4597,CRQ960466,Whitelisted IP range,"crash, auth, firewall",2025-02-22,Change
+INC10142,Authentication failed for multiple users,Database,Low,Resolved,CI-B6F7696E,CRQ968878,Restarted service,"router, dns, latency",2025-03-08,Network Glitch
+INC10143,DNS lookup failed,Connectivity,Medium,In Progress,CI-CBA703B4,CRQ946660,Increased heap size,"latency, router, timeout",2025-03-18,Change
+INC10144,Application not responding,Database,High,Resolved,CI-1C80998E,CRQ946030,Restarted service,"dns, timeout, router",2025-03-04,Change
+INC10145,System rebooted unexpectedly,Authentication,Medium,Open,CI-817D3670,CRQ919589,Cleared DNS cache,"firewall, auth, crash",2025-03-03,Unknown
+INC10146,High latency in application,Network,High,In Progress,CI-1E857052,CRQ954291,Reconfigured firewall rules,"db, latency, firewall",2025-03-21,Change
+INC10147,High latency in application,Connectivity,Medium,In Progress,CI-0447FD5C,CRQ925316,Increased heap size,"crash, timeout, auth",2025-03-15,Change
+INC10148,Application not responding,Network,High,Open,CI-0447FD5C,CRQ900467,Cleared DNS cache,"firewall, auth, router",2025-03-07,Change
+INC10149,Authentication failed for multiple users,Network,High,Open,CI-E864E104,CRQ928937,Increased heap size,"router, firewall, latency",2025-03-11,Unknown
+INC10150,Application not responding,Connectivity,High,In Progress,CI-BE0E4321,CRQ992693,Cleared DNS cache,"db, auth, latency",2025-02-19,Change
+INC10151,Unable to access service,Database,High,In Progress,CI-291C7AF7,CRQ941886,Restarted service,"timeout, db, dns",2025-02-25,Infra Issue
+INC10152,DNS lookup failed,Authentication,High,In Progress,CI-8FBDDC04,CRQ960693,Whitelisted IP range,"timeout, crash, dns",2025-02-26,Unknown
+INC10153,System rebooted unexpectedly,Database,Low,In Progress,CI-6E4827E0,CRQ924832,Increased heap size,"auth, db, crash",2025-02-27,Change
+INC10154,Authentication failed for multiple users,Authentication,High,Resolved,CI-F081C3E2,CRQ946030,Restarted service,"auth, db, timeout",2025-02-23,Infra Issue
+INC10155,Unable to access service,Authentication,Medium,In Progress,CI-5CBCAC88,CRQ980357,,"dns, timeout, auth",2025-03-15,Unknown
+INC10156,Application not responding,Database,High,Resolved,CI-5E3534B8,CRQ954256,Cleared DNS cache,"firewall, auth, latency",2025-03-04,Infra Issue
+INC10157,Firewall blocking outgoing traffic,Connectivity,Low,Resolved,CI-163F178B,CRQ994452,Increased heap size,"router, db, timeout",2025-03-03,Unknown
+INC10158,Application not responding,Database,Medium,Resolved,CI-F28930B5,CRQ935758,Updated routing table,"dns, firewall, db",2025-03-16,Manual Error
+INC10159,Packet loss observed,Performance,High,Open,CI-CA13A68E,CRQ905981,Restarted service,"dns, crash, latency",2025-03-13,Change
+INC10160,System rebooted unexpectedly,Authentication,High,Resolved,CI-1E857052,CRQ988271,Increased heap size,"auth, latency, firewall",2025-02-27,Unknown
+INC10161,Service timeout in EU region,Authentication,High,Resolved,CI-34393CCA,CRQ939731,Reconfigured firewall rules,"latency, crash, db",2025-03-15,Change
+INC10162,Unable to access service,Connectivity,Medium,Resolved,CI-2D91E268,CRQ938590,,"db, timeout, router",2025-02-24,Unknown
+INC10163,Firewall blocking outgoing traffic,Database,Low,Resolved,CI-85009BE0,CRQ950411,Restarted service,"auth, db, firewall",2025-03-10,Change
+INC10164,Service timeout in EU region,Database,Medium,In Progress,CI-F3DC27D5,CRQ928937,Updated routing table,"latency, auth, firewall",2025-03-21,Manual Error
+INC10165,Packet loss observed,Network,Low,Open,CI-5B8CC68D,CRQ988222,Whitelisted IP range,"timeout, dns, db",2025-03-01,Change
+INC10166,High latency in application,Network,High,Resolved,CI-F3DC27D5,CRQ941898,Restarted service,"firewall, latency, db",2025-02-25,Manual Error
+INC10167,Database connection issues,Authentication,Low,In Progress,CI-F081C3E2,CRQ953036,Reconfigured firewall rules,"crash, latency, auth",2025-03-05,Unknown
+INC10168,Packet loss observed,Network,Low,Resolved,CI-77B123A1,CRQ996283,,"crash, latency, auth",2025-03-17,Unknown
+INC10169,Unable to access service,Connectivity,Medium,In Progress,CI-BE0E4321,CRQ959191,Whitelisted IP range,"db, latency, dns",2025-03-09,Change
+INC10170,Application not responding,Performance,Low,Open,CI-F081C3E2,CRQ915582,Cleared DNS cache,"auth, crash, latency",2025-03-11,Infra Issue
+INC10171,DNS lookup failed,Performance,Medium,Resolved,CI-B6A46B30,CRQ941861,Reconfigured firewall rules,"auth, latency, crash",2025-03-16,Infra Issue
+INC10172,Application not responding,Connectivity,Medium,In Progress,CI-41F7A6BB,CRQ927508,Updated routing table,"latency, router, firewall",2025-03-17,Change
+INC10173,Authentication failed for multiple users,Database,Low,In Progress,CI-4C7385F1,CRQ974921,Cleared DNS cache,"crash, timeout, router",2025-03-20,Change
+INC10174,Service timeout in EU region,Network,High,Resolved,CI-D5746A4A,CRQ950007,Whitelisted IP range,"crash, timeout, firewall",2025-03-16,Change
+INC10175,Firewall blocking outgoing traffic,Authentication,High,In Progress,CI-5E3534B8,CRQ988271,Increased heap size,"timeout, latency, dns",2025-03-03,Manual Error
+INC10176,High latency in application,Performance,Medium,Resolved,CI-C3AEAC79,CRQ922259,Updated routing table,"firewall, latency, auth",2025-03-07,Unknown
+INC10177,Firewall blocking outgoing traffic,Performance,Medium,In Progress,CI-566F7AA7,CRQ946660,Whitelisted IP range,"timeout, firewall, latency",2025-02-19,Network Glitch
+INC10178,Service timeout in EU region,Database,High,In Progress,CI-D5746A4A,CRQ910970,Whitelisted IP range,"timeout, crash, latency",2025-03-07,Change
+INC10179,Service timeout in EU region,Network,High,Open,CI-2D91E268,CRQ917864,Cleared DNS cache,"db, router, crash",2025-02-27,Unknown
+INC10180,Packet loss observed,Authentication,Medium,In Progress,CI-E7221F06,CRQ968001,Increased heap size,"crash, latency, timeout",2025-02-19,Change
+INC10181,System rebooted unexpectedly,Connectivity,Medium,In Progress,CI-5CBCAC88,CRQ998230,Reconfigured firewall rules,"db, auth, timeout",2025-02-20,Manual Error
+INC10182,Unable to access service,Authentication,High,Resolved,CI-CD8722F4,CRQ960337,Cleared DNS cache,"timeout, latency, db",2025-03-02,Unknown
+INC10183,Unable to access service,Performance,High,Resolved,CI-2FDE67B6,CRQ966070,Reconfigured firewall rules,"router, latency, auth",2025-03-05,Change
+INC10184,Authentication failed for multiple users,Performance,Medium,Open,CI-85009BE0,CRQ942274,Whitelisted IP range,"db, dns, latency",2025-03-15,Unknown
+INC10185,Unable to access service,Connectivity,Low,Open,CI-2D91E268,CRQ984212,Whitelisted IP range,"router, latency, crash",2025-03-05,Change
+INC10186,System rebooted unexpectedly,Network,High,Open,CI-0447FD5C,CRQ955468,Whitelisted IP range,"timeout, crash, router",2025-03-20,Unknown
+INC10187,Firewall blocking outgoing traffic,Authentication,Low,Resolved,CI-627A162A,CRQ946261,Cleared DNS cache,"auth, firewall, db",2025-03-04,Unknown
+INC10188,DNS lookup failed,Connectivity,Medium,In Progress,CI-06F70C98,CRQ951621,Increased heap size,"router, db, timeout",2025-02-20,Change
+INC10189,Application not responding,Authentication,High,In Progress,CI-FEB9E731,CRQ969332,Whitelisted IP range,"firewall, auth, router",2025-03-09,Unknown
+INC10190,Service timeout in EU region,Authentication,High,In Progress,CI-79936698,CRQ925114,Whitelisted IP range,"firewall, auth, timeout",2025-02-24,Change
+INC10191,DNS lookup failed,Connectivity,Low,Resolved,CI-34393CCA,CRQ983835,Increased heap size,"timeout, firewall, crash",2025-02-25,Change
+INC10192,Packet loss observed,Connectivity,Low,In Progress,CI-E864E104,CRQ901060,Whitelisted IP range,"crash, db, firewall",2025-03-03,Infra Issue
+INC10193,Firewall blocking outgoing traffic,Connectivity,Medium,Resolved,CI-6E4827E0,CRQ937059,Restarted service,"latency, timeout, db",2025-02-22,Unknown
+INC10194,Unable to access service,Connectivity,Low,Resolved,CI-4E8CC79E,CRQ911238,Reconfigured firewall rules,"timeout, crash, latency",2025-02-24,Network Glitch
+INC10195,Database connection issues,Database,Low,Open,CI-2439E08A,CRQ960466,Whitelisted IP range,"auth, firewall, dns",2025-03-10,Manual Error
+INC10196,DNS lookup failed,Network,High,Open,CI-0A130978,CRQ969510,Cleared DNS cache,"latency, db, firewall",2025-03-10,Network Glitch
+INC10197,System rebooted unexpectedly,Authentication,Medium,Resolved,CI-0A130978,CRQ937950,Updated routing table,"timeout, crash, latency",2025-03-13,Network Glitch
+INC10198,High latency in application,Database,Low,Resolved,CI-4E8CC79E,CRQ911141,Increased heap size,"firewall, auth, crash",2025-02-26,Change
+INC10199,Authentication failed for multiple users,Network,Low,Open,CI-817D3670,CRQ954177,,"firewall, crash, auth",2025-03-20,Change
+INC10200,Authentication failed for multiple users,Network,High,Open,CI-B8CF575E,CRQ963276,Increased heap size,"router, crash, firewall",2025-02-23,Change
+INC10201,System rebooted unexpectedly,Connectivity,High,Open,CI-0447FD5C,CRQ929849,,"dns, latency, crash",2025-03-07,Unknown
+INC10202,Database connection issues,Connectivity,Medium,In Progress,CI-55755844,CRQ929741,Whitelisted IP range,"auth, db, firewall",2025-02-28,Change
+INC10203,DNS lookup failed,Database,High,Resolved,CI-6E4827E0,CRQ931308,Updated routing table,"latency, firewall, crash",2025-03-02,Change
+INC10204,Authentication failed for multiple users,Network,High,In Progress,CI-2439E08A,CRQ997727,,"crash, router, db",2025-03-21,Infra Issue
+INC10205,Authentication failed for multiple users,Authentication,Medium,Resolved,CI-8FBDDC04,CRQ925316,,"dns, router, auth",2025-02-20,Change
+INC10206,Authentication failed for multiple users,Database,Low,Resolved,CI-BA06172F,CRQ964163,Whitelisted IP range,"dns, router, latency",2025-02-26,Change
+INC10207,Application not responding,Authentication,Medium,Resolved,CI-34393CCA,CRQ973827,Reconfigured firewall rules,"auth, router, crash",2025-03-15,Network Glitch
+INC10208,Unable to access service,Database,Medium,Open,CI-291C7AF7,CRQ989911,Updated routing table,"dns, timeout, db",2025-03-08,Change
+INC10209,System rebooted unexpectedly,Connectivity,High,Open,CI-46361946,CRQ991549,Updated routing table,"db, firewall, timeout",2025-02-21,Change
+INC10210,Database connection issues,Connectivity,Medium,In Progress,CI-6FD9D455,CRQ976879,Reconfigured firewall rules,"timeout, router, db",2025-03-20,Network Glitch
+INC10211,High latency in application,Database,Medium,In Progress,CI-8FBDDC04,CRQ990330,Restarted service,"crash, latency, firewall",2025-02-24,Manual Error
+INC10212,Application not responding,Database,Medium,Open,CI-85009BE0,CRQ980747,Cleared DNS cache,"router, auth, firewall",2025-03-07,Unknown
+INC10213,Firewall blocking outgoing traffic,Performance,Low,Resolved,CI-2D91E268,CRQ917471,Whitelisted IP range,"latency, db, dns",2025-02-19,Unknown
+INC10214,Unable to access service,Database,Low,Open,CI-627A162A,CRQ959666,Increased heap size,"db, auth, dns",2025-03-16,Unknown
+INC10215,DNS lookup failed,Connectivity,Medium,In Progress,CI-566F7AA7,CRQ929849,Updated routing table,"crash, firewall, db",2025-03-21,Network Glitch
+INC10216,Packet loss observed,Database,Low,In Progress,CI-16880A9A,CRQ976879,Whitelisted IP range,"auth, firewall, crash",2025-02-27,Change
+INC10217,Packet loss observed,Network,Medium,In Progress,CI-16880A9A,CRQ970012,Reconfigured firewall rules,"auth, dns, crash",2025-03-15,Unknown
+INC10218,Authentication failed for multiple users,Authentication,High,In Progress,CI-79936698,CRQ969332,Whitelisted IP range,"latency, auth, dns",2025-03-06,Network Glitch
+INC10219,Packet loss observed,Database,Low,Resolved,CI-E864E104,CRQ972289,Whitelisted IP range,"crash, timeout, dns",2025-02-19,Change
+INC10220,Firewall blocking outgoing traffic,Connectivity,Low,In Progress,CI-001456E7,CRQ927582,Cleared DNS cache,"crash, timeout, dns",2025-03-20,Change
+INC10221,Authentication failed for multiple users,Network,High,Resolved,CI-064526BF,CRQ960693,Whitelisted IP range,"crash, latency, auth",2025-03-19,Manual Error
+INC10222,System rebooted unexpectedly,Connectivity,High,Resolved,CI-40208989,CRQ951441,Updated routing table,"dns, db, firewall",2025-03-20,Unknown
+INC10223,Service timeout in EU region,Database,Low,Resolved,CI-619B8270,CRQ941898,Restarted service,"crash, router, timeout",2025-02-22,Manual Error
+INC10224,Packet loss observed,Connectivity,High,In Progress,CI-6E4827E0,CRQ970129,Reconfigured firewall rules,"db, auth, crash",2025-03-17,Infra Issue
+INC10225,Unable to access service,Performance,Low,Open,CI-92B49625,CRQ929539,Updated routing table,"auth, dns, latency",2025-03-17,Network Glitch
+INC10226,Application not responding,Authentication,Medium,Resolved,CI-80DBA4BB,CRQ959933,Increased heap size,"dns, latency, auth",2025-02-27,Unknown
+INC10227,System rebooted unexpectedly,Performance,Low,Resolved,CI-8BE00422,CRQ927582,Restarted service,"dns, timeout, latency",2025-03-07,Unknown
+INC10228,Packet loss observed,Network,Medium,In Progress,CI-627A162A,CRQ911842,Cleared DNS cache,"router, firewall, auth",2025-02-22,Unknown
+INC10229,Service timeout in EU region,Network,High,Resolved,CI-A7BC8E43,CRQ931725,Whitelisted IP range,"firewall, crash, timeout",2025-03-19,Change
+INC10230,Application not responding,Authentication,Low,In Progress,CI-90A1989F,CRQ901060,Increased heap size,"firewall, latency, router",2025-03-18,Change
+INC10231,Service timeout in EU region,Connectivity,Low,In Progress,CI-62648CF1,CRQ922235,Whitelisted IP range,"crash, dns, router",2025-03-11,Change
+INC10232,Unable to access service,Performance,Medium,In Progress,CI-9D31BC42,CRQ926447,Restarted service,"router, db, firewall",2025-03-16,Unknown
+INC10233,Packet loss observed,Database,High,Open,CI-CCFFF606,CRQ918446,Updated routing table,"router, crash, firewall",2025-03-17,Change
+INC10234,Service timeout in EU region,Authentication,Low,Resolved,CI-F3DC27D5,CRQ968864,,"firewall, crash, db",2025-03-12,Network Glitch
+INC10235,Unable to access service,Connectivity,High,Open,CI-C0C87F23,CRQ999929,Restarted service,"crash, db, dns",2025-02-22,Change
+INC10236,High latency in application,Database,High,Resolved,CI-34393CCA,CRQ956283,Updated routing table,"timeout, latency, firewall",2025-02-25,Unknown
+INC10237,System rebooted unexpectedly,Network,Low,Resolved,CI-1CE63E7D,CRQ992693,Whitelisted IP range,"latency, dns, firewall",2025-02-24,Change
+INC10238,High latency in application,Database,High,In Progress,CI-F3DC27D5,CRQ914970,Whitelisted IP range,"crash, firewall, dns",2025-02-24,Change
+INC10239,Database connection issues,Connectivity,High,Open,CI-C0C87F23,CRQ973493,Updated routing table,"timeout, firewall, latency",2025-03-05,Manual Error
+INC10240,Service timeout in EU region,Connectivity,High,Open,CI-A57A86E1,CRQ956589,Whitelisted IP range,"db, router, timeout",2025-02-22,Change
+INC10241,Database connection issues,Connectivity,Medium,Open,CI-324B6A9C,CRQ964163,Increased heap size,"crash, db, timeout",2025-02-23,Unknown
+INC10242,Application not responding,Performance,High,Resolved,CI-AFFE3D64,CRQ994293,Cleared DNS cache,"auth, router, dns",2025-03-06,Manual Error
+INC10243,Authentication failed for multiple users,Connectivity,Low,Resolved,CI-200CCE31,CRQ946030,Cleared DNS cache,"router, crash, latency",2025-03-12,Change
+INC10244,Unable to access service,Connectivity,Low,In Progress,CI-1CE63E7D,CRQ976101,Increased heap size,"router, crash, db",2025-03-19,Infra Issue
+INC10245,DNS lookup failed,Database,High,Resolved,CI-06F70C98,CRQ977400,Reconfigured firewall rules,"timeout, router, crash",2025-03-06,Manual Error
+INC10246,DNS lookup failed,Database,Medium,Resolved,CI-F3DC27D5,CRQ924814,Cleared DNS cache,"auth, db, crash",2025-03-04,Manual Error
+INC10247,Application not responding,Authentication,Low,Resolved,CI-E864E104,CRQ968091,Whitelisted IP range,"latency, crash, db",2025-03-13,Change
+INC10248,Packet loss observed,Performance,High,Open,CI-A0FA0F7E,CRQ973827,Updated routing table,"firewall, auth, router",2025-03-07,Infra Issue
+INC10249,Unable to access service,Network,Low,In Progress,CI-46361946,CRQ981974,Reconfigured firewall rules,"router, db, latency",2025-03-18,Manual Error
+INC10250,System rebooted unexpectedly,Network,High,In Progress,CI-AFFE3D64,CRQ944068,Reconfigured firewall rules,"crash, db, router",2025-03-21,Manual Error
+INC10251,Application not responding,Network,Low,Resolved,CI-CD8722F4,CRQ913191,Whitelisted IP range,"router, crash, db",2025-02-23,Unknown
+INC10252,System rebooted unexpectedly,Authentication,Medium,Open,CI-1A411B1F,CRQ981616,Reconfigured firewall rules,"crash, latency, dns",2025-02-22,Unknown
+INC10253,Unable to access service,Database,High,Open,CI-200CCE31,CRQ976271,Increased heap size,"firewall, dns, db",2025-03-03,Manual Error
+INC10254,Application not responding,Performance,Low,Open,CI-CA13A68E,CRQ931321,Cleared DNS cache,"db, crash, dns",2025-03-18,Unknown
+INC10255,High latency in application,Network,High,Resolved,CI-291C7AF7,CRQ955381,Increased heap size,"latency, db, router",2025-02-26,Network Glitch
+INC10256,Unable to access service,Authentication,Low,Open,CI-6CA0F946,CRQ929849,Restarted service,"timeout, firewall, crash",2025-03-19,Network Glitch
+INC10257,Authentication failed for multiple users,Connectivity,Low,Resolved,CI-B8CF575E,CRQ929453,Restarted service,"dns, router, crash",2025-03-11,Change
+INC10258,Unable to access service,Authentication,Low,Open,CI-619B8270,CRQ950377,Reconfigured firewall rules,"auth, firewall, timeout",2025-02-28,Change
+INC10259,Database connection issues,Performance,Low,In Progress,CI-C0C87F23,CRQ974136,Cleared DNS cache,"crash, timeout, dns",2025-02-26,Change
+INC10260,System rebooted unexpectedly,Performance,Medium,Resolved,CI-BA06172F,CRQ978702,Restarted service,"router, latency, firewall",2025-02-28,Change
+INC10261,Firewall blocking outgoing traffic,Performance,Low,In Progress,CI-FEB9E731,CRQ923541,Restarted service,"dns, timeout, db",2025-03-09,Unknown
+INC10262,High latency in application,Database,Medium,Resolved,CI-F28930B5,CRQ917864,Updated routing table,"timeout, crash, latency",2025-02-26,Unknown
+INC10263,System rebooted unexpectedly,Authentication,Low,Open,CI-A89C266F,CRQ949145,Restarted service,"auth, db, firewall",2025-03-03,Network Glitch
+INC10264,Firewall blocking outgoing traffic,Performance,Medium,Open,CI-13823F6F,CRQ999929,,"firewall, router, dns",2025-03-13,Manual Error
+INC10265,Database connection issues,Authentication,Medium,In Progress,CI-1E16354D,CRQ934782,Increased heap size,"latency, auth, dns",2025-03-05,Change
+INC10266,Unable to access service,Performance,Medium,Open,CI-55755844,CRQ914693,Updated routing table,"timeout, db, latency",2025-03-18,Unknown
+INC10267,System rebooted unexpectedly,Authentication,Medium,Resolved,CI-6E4827E0,CRQ968525,Restarted service,"timeout, auth, db",2025-03-10,Change
+INC10268,High latency in application,Database,High,Resolved,CI-CA13A68E,CRQ914632,,"firewall, db, dns",2025-03-07,Change
+INC10269,DNS lookup failed,Performance,Low,Resolved,CI-13823F6F,CRQ953032,Reconfigured firewall rules,"crash, db, dns",2025-03-02,Unknown
+INC10270,Firewall blocking outgoing traffic,Performance,Medium,In Progress,CI-E864E104,CRQ913191,Restarted service,"crash, auth, router",2025-02-26,Network Glitch
+INC10271,Packet loss observed,Authentication,High,Open,CI-59883B84,CRQ953036,Increased heap size,"auth, db, crash",2025-02-22,Unknown
+INC10272,Application not responding,Database,Medium,Resolved,CI-78BD6716,CRQ918879,Reconfigured firewall rules,"crash, db, dns",2025-03-10,Network Glitch
+INC10273,Packet loss observed,Database,High,In Progress,CI-627A162A,CRQ967782,,"latency, auth, router",2025-03-04,Infra Issue
+INC10274,Firewall blocking outgoing traffic,Authentication,Medium,Resolved,CI-E7221F06,CRQ953036,Whitelisted IP range,"firewall, auth, db",2025-03-11,Change
+INC10275,Firewall blocking outgoing traffic,Performance,High,In Progress,CI-46361946,CRQ966070,Updated routing table,"db, timeout, firewall",2025-02-19,Change
+INC10276,Unable to access service,Network,Low,Resolved,CI-D5746A4A,CRQ914294,Restarted service,"crash, db, firewall",2025-03-15,Change
+INC10277,Unable to access service,Performance,Medium,In Progress,CI-B6F7696E,CRQ917481,Reconfigured firewall rules,"latency, auth, dns",2025-03-03,Manual Error
+INC10278,DNS lookup failed,Performance,Medium,Resolved,CI-7342C0ED,CRQ981616,Restarted service,"dns, latency, auth",2025-03-19,Network Glitch
+INC10279,Authentication failed for multiple users,Network,Medium,Open,CI-BD72E658,CRQ953036,Updated routing table,"db, latency, timeout",2025-03-17,Unknown
+INC10280,Packet loss observed,Network,Low,In Progress,CI-CD8722F4,CRQ922259,Restarted service,"dns, router, latency",2025-03-07,Infra Issue
+INC10281,Firewall blocking outgoing traffic,Performance,Medium,Open,CI-9A69A441,CRQ968946,Whitelisted IP range,"crash, firewall, dns",2025-02-27,Unknown
+INC10282,High latency in application,Authentication,High,Resolved,CI-A57A86E1,CRQ974677,Cleared DNS cache,"firewall, router, crash",2025-03-02,Unknown
+INC10283,Application not responding,Network,High,Resolved,CI-9A69A441,CRQ935986,Restarted service,"firewall, router, crash",2025-03-08,Unknown
+INC10284,Database connection issues,Authentication,Low,In Progress,CI-2D91E268,CRQ976879,Reconfigured firewall rules,"latency, timeout, router",2025-03-17,Change
+INC10285,High latency in application,Performance,High,Resolved,CI-D5746A4A,CRQ988271,Updated routing table,"firewall, latency, db",2025-02-23,Unknown
+INC10286,Authentication failed for multiple users,Network,Medium,Open,CI-55755844,CRQ969202,,"timeout, crash, latency",2025-03-20,Change
+INC10287,Packet loss observed,Network,High,In Progress,CI-BA06172F,CRQ970129,Reconfigured firewall rules,"auth, timeout, db",2025-03-20,Unknown
+INC10288,Unable to access service,Performance,High,Open,CI-92B49625,CRQ952911,Reconfigured firewall rules,"latency, timeout, router",2025-03-16,Change
+INC10289,Firewall blocking outgoing traffic,Database,Medium,Resolved,CI-4E8CC79E,CRQ977343,Reconfigured firewall rules,"dns, firewall, db",2025-02-24,Unknown
+INC10290,Unable to access service,Database,Medium,In Progress,CI-E864E104,CRQ942900,,"router, db, auth",2025-03-10,Network Glitch
+INC10291,System rebooted unexpectedly,Database,High,Open,CI-565AF07B,CRQ970577,Increased heap size,"auth, router, latency",2025-03-16,Unknown
+INC10292,DNS lookup failed,Database,Low,Resolved,CI-92B49625,CRQ968091,Restarted service,"crash, firewall, router",2025-03-10,Change
+INC10293,DNS lookup failed,Connectivity,Medium,In Progress,CI-FEB9E731,CRQ914693,Updated routing table,"dns, timeout, router",2025-02-21,Unknown
+INC10294,Service timeout in EU region,Database,Low,Open,CI-AFFE3D64,CRQ917471,Updated routing table,"dns, timeout, latency",2025-03-04,Change
+INC10295,Service timeout in EU region,Authentication,Medium,Open,CI-200CCE31,CRQ963677,Cleared DNS cache,"timeout, latency, firewall",2025-02-26,Unknown
+INC10296,DNS lookup failed,Connectivity,High,In Progress,CI-CA13A68E,CRQ941886,Cleared DNS cache,"crash, dns, auth",2025-03-18,Unknown
+INC10297,DNS lookup failed,Network,Low,Open,CI-6E4827E0,CRQ962481,Updated routing table,"timeout, router, auth",2025-03-17,Change
+INC10298,Unable to access service,Network,High,Resolved,CI-06F70C98,CRQ941886,Increased heap size,"timeout, firewall, dns",2025-03-20,Unknown
+INC10299,Authentication failed for multiple users,Authentication,Medium,Resolved,CI-55755844,CRQ969332,Increased heap size,"router, timeout, latency",2025-02-24,Network Glitch
+INC10300,Unable to access service,Authentication,Low,In Progress,CI-9D31BC42,CRQ986819,Restarted service,"timeout, auth, router",2025-03-09,Change
+INC10301,Application not responding,Authentication,Low,Open,CI-9A69A441,CRQ917471,Reconfigured firewall rules,"db, crash, timeout",2025-03-01,Network Glitch
+INC10302,Unable to access service,Database,High,Open,CI-13823F6F,CRQ969332,Updated routing table,"crash, dns, auth",2025-03-14,Change
+INC10303,Firewall blocking outgoing traffic,Connectivity,Medium,Open,CI-F1197441,CRQ980520,Reconfigured firewall rules,"dns, router, crash",2025-02-21,Manual Error
+INC10304,System rebooted unexpectedly,Performance,Low,In Progress,CI-8751D263,CRQ988222,Restarted service,"auth, router, firewall",2025-02-24,Infra Issue
+INC10305,Packet loss observed,Database,Low,In Progress,CI-619B8270,CRQ994452,Cleared DNS cache,"auth, latency, dns",2025-03-17,Network Glitch
+INC10306,Database connection issues,Performance,High,In Progress,CI-8BE00422,CRQ977343,Cleared DNS cache,"crash, auth, firewall",2025-03-01,Infra Issue
+INC10307,Database connection issues,Network,Medium,In Progress,CI-565AF07B,CRQ920154,Updated routing table,"db, latency, crash",2025-03-02,Change
+INC10308,Packet loss observed,Connectivity,High,In Progress,CI-AFFE3D64,CRQ979331,,"router, timeout, db",2025-03-17,Change
+INC10309,High latency in application,Network,Medium,Resolved,CI-85009BE0,CRQ950377,Updated routing table,"crash, firewall, latency",2025-03-02,Infra Issue
+INC10310,Firewall blocking outgoing traffic,Database,Low,In Progress,CI-05BB57B3,CRQ941861,,"dns, latency, timeout",2025-03-21,Unknown
+INC10311,DNS lookup failed,Connectivity,Medium,Resolved,CI-4E8CC79E,CRQ924113,Cleared DNS cache,"auth, dns, router",2025-02-27,Unknown
+INC10312,High latency in application,Performance,Medium,In Progress,CI-E864E104,CRQ994327,Restarted service,"dns, firewall, auth",2025-03-16,Unknown
+INC10313,Application not responding,Network,Medium,In Progress,CI-F33AA9C4,CRQ920510,,"router, db, firewall",2025-03-21,Unknown
+INC10314,Packet loss observed,Database,High,Open,CI-78D7E4EB,CRQ917864,,"db, timeout, latency",2025-02-26,Change
+INC10315,Unable to access service,Database,Medium,Resolved,CI-8751D263,CRQ986819,Whitelisted IP range,"db, dns, timeout",2025-03-14,Change
+INC10316,Application not responding,Performance,Medium,Resolved,CI-BD72E658,CRQ914294,Restarted service,"db, dns, crash",2025-03-03,Network Glitch
+INC10317,Authentication failed for multiple users,Performance,High,Open,CI-4C7385F1,CRQ949002,Updated routing table,"router, db, crash",2025-02-20,Change
+INC10318,Unable to access service,Connectivity,High,Resolved,CI-B6A46B30,CRQ968878,Reconfigured firewall rules,"crash, timeout, latency",2025-02-25,Unknown
+INC10319,Database connection issues,Database,Low,In Progress,CI-D58CFB9A,CRQ925114,Cleared DNS cache,"auth, crash, timeout",2025-02-19,Change
+INC10320,High latency in application,Authentication,High,Resolved,CI-9D31BC42,CRQ960693,Restarted service,"firewall, timeout, router",2025-03-12,Manual Error
+INC10321,System rebooted unexpectedly,Network,High,Resolved,CI-05BB57B3,CRQ941898,Whitelisted IP range,"latency, dns, router",2025-03-02,Change
+INC10322,Service timeout in EU region,Authentication,Low,In Progress,CI-D58CFB9A,CRQ960466,Cleared DNS cache,"latency, crash, auth",2025-02-20,Change
+INC10323,Firewall blocking outgoing traffic,Authentication,Medium,Open,CI-77B123A1,CRQ976879,Reconfigured firewall rules,"latency, dns, db",2025-03-18,Change
+INC10324,Application not responding,Connectivity,Low,Resolved,CI-46361946,CRQ925114,Increased heap size,"latency, db, auth",2025-03-10,Network Glitch
+INC10325,Database connection issues,Performance,Low,Open,CI-565AF07B,CRQ944640,Updated routing table,"crash, timeout, latency",2025-03-14,Unknown
+INC10326,Authentication failed for multiple users,Performance,Medium,In Progress,CI-291C7AF7,CRQ926447,Restarted service,"dns, latency, db",2025-03-05,Infra Issue
+INC10327,High latency in application,Database,Medium,Open,CI-79936698,CRQ977400,Updated routing table,"timeout, firewall, auth",2025-03-11,Network Glitch
+INC10328,High latency in application,Performance,Low,In Progress,CI-8FBDDC04,CRQ906962,Reconfigured firewall rules,"timeout, crash, router",2025-02-26,Change
+INC10329,Database connection issues,Connectivity,Low,Resolved,CI-78D7E4EB,CRQ997727,Restarted service,"latency, firewall, auth",2025-03-10,Unknown
+INC10330,High latency in application,Connectivity,Medium,Resolved,CI-BE0E4321,CRQ922958,Increased heap size,"latency, firewall, timeout",2025-03-13,Unknown
+INC10331,Database connection issues,Database,High,Open,CI-A57A86E1,CRQ905981,Reconfigured firewall rules,"auth, timeout, firewall",2025-03-05,Change
+INC10332,Firewall blocking outgoing traffic,Connectivity,Medium,Open,CI-E7221F06,CRQ996283,Updated routing table,"timeout, router, dns",2025-03-03,Manual Error
+INC10333,Authentication failed for multiple users,Authentication,Low,In Progress,CI-001456E7,CRQ928677,Updated routing table,"crash, dns, router",2025-03-18,Unknown
+INC10334,Firewall blocking outgoing traffic,Network,High,Resolved,CI-CD8722F4,CRQ976271,Reconfigured firewall rules,"timeout, latency, router",2025-03-01,Unknown
+INC10335,System rebooted unexpectedly,Network,Low,Open,CI-80DBA4BB,CRQ961097,Increased heap size,"latency, crash, auth",2025-03-15,Network Glitch
+INC10336,Database connection issues,Connectivity,High,In Progress,CI-B6A46B30,CRQ968001,Increased heap size,"dns, auth, db",2025-02-23,Change
+INC10337,DNS lookup failed,Network,Medium,Open,CI-565AF07B,CRQ946061,Cleared DNS cache,"router, dns, timeout",2025-02-24,Change
+INC10338,Service timeout in EU region,Connectivity,High,Open,CI-6CA0F946,CRQ914693,,"dns, timeout, firewall",2025-03-10,Infra Issue
+INC10339,Service timeout in EU region,Connectivity,Low,Open,CI-CCFFF606,CRQ968091,,"firewall, auth, timeout",2025-03-19,Change
+INC10340,Firewall blocking outgoing traffic,Connectivity,Low,Open,CI-CD8722F4,CRQ931308,Cleared DNS cache,"router, crash, firewall",2025-03-05,Manual Error
+INC10341,DNS lookup failed,Database,High,Open,CI-79936698,CRQ944068,Increased heap size,"crash, db, latency",2025-03-03,Infra Issue
+INC10342,Service timeout in EU region,Database,High,Open,CI-41F7A6BB,CRQ937059,Whitelisted IP range,"firewall, latency, dns",2025-02-27,Infra Issue
+INC10343,Authentication failed for multiple users,Connectivity,Low,Resolved,CI-59883B84,CRQ936738,Whitelisted IP range,"firewall, router, auth",2025-03-11,Network Glitch
+INC10344,Unable to access service,Connectivity,High,Open,CI-0921C4C6,CRQ950821,Reconfigured firewall rules,"crash, timeout, dns",2025-03-18,Infra Issue
+INC10345,Firewall blocking outgoing traffic,Database,High,Open,CI-EA57CD70,CRQ918879,Restarted service,"timeout, dns, auth",2025-03-20,Network Glitch
+INC10346,Database connection issues,Performance,High,In Progress,CI-E864E104,CRQ918879,Updated routing table,"dns, timeout, latency",2025-03-01,Change
+INC10347,Application not responding,Network,Low,Resolved,CI-1A411B1F,CRQ948529,Increased heap size,"crash, dns, db",2025-03-17,Change
+INC10348,Authentication failed for multiple users,Performance,High,In Progress,CI-DE8D4597,CRQ960693,Whitelisted IP range,"db, router, auth",2025-03-21,Unknown
+INC10349,Database connection issues,Database,High,In Progress,CI-817D3670,CRQ944068,Whitelisted IP range,"timeout, db, latency",2025-03-02,Manual Error
+INC10350,System rebooted unexpectedly,Network,High,In Progress,CI-13823F6F,CRQ976271,Restarted service,"auth, crash, latency",2025-03-17,Manual Error
+INC10351,High latency in application,Database,Low,In Progress,CI-85009BE0,CRQ970012,Reconfigured firewall rules,"auth, dns, firewall",2025-03-06,Unknown
+INC10352,System rebooted unexpectedly,Connectivity,Low,Open,CI-5B8CC68D,CRQ931308,Reconfigured firewall rules,"latency, router, firewall",2025-03-03,Change
+INC10353,High latency in application,Connectivity,High,In Progress,CI-77B123A1,CRQ964199,Increased heap size,"latency, db, router",2025-03-20,Change
+INC10354,System rebooted unexpectedly,Network,Medium,Resolved,CI-6FD9D455,CRQ969202,Updated routing table,"db, crash, dns",2025-03-10,Change
+INC10355,Database connection issues,Authentication,Low,In Progress,CI-CCFFF606,CRQ960100,,"crash, dns, db",2025-03-20,Change
+INC10356,Service timeout in EU region,Database,Low,In Progress,CI-05BB57B3,CRQ935113,Restarted service,"crash, db, firewall",2025-03-04,Change
+INC10357,Service timeout in EU region,Database,Low,In Progress,CI-78BD6716,CRQ934782,Updated routing table,"firewall, timeout, auth",2025-03-11,Unknown
+INC10358,Unable to access service,Performance,Medium,In Progress,CI-CCFFF606,CRQ966791,,"crash, firewall, router",2025-02-19,Unknown
+INC10359,Packet loss observed,Authentication,Medium,In Progress,CI-78BD6716,CRQ931725,Updated routing table,"crash, dns, db",2025-03-12,Change
+INC10360,Firewall blocking outgoing traffic,Network,Medium,Open,CI-F1197441,CRQ928339,Increased heap size,"dns, latency, crash",2025-03-19,Change
+INC10361,Service timeout in EU region,Database,High,Resolved,CI-0A130978,CRQ996283,Cleared DNS cache,"dns, auth, db",2025-03-17,Unknown
+INC10362,Service timeout in EU region,Performance,Medium,In Progress,CI-1005D47E,CRQ955381,,"firewall, db, auth",2025-03-09,Change
+INC10363,System rebooted unexpectedly,Performance,Medium,Resolved,CI-CD8722F4,CRQ938377,,"router, dns, db",2025-03-02,Unknown
+INC10364,Authentication failed for multiple users,Network,Medium,In Progress,CI-2FDE67B6,CRQ995390,Reconfigured firewall rules,"crash, timeout, dns",2025-02-19,Network Glitch
+INC10365,Database connection issues,Database,Low,In Progress,CI-4C7385F1,CRQ913086,Reconfigured firewall rules,"timeout, router, latency",2025-03-20,Manual Error
+INC10366,Database connection issues,Network,Medium,Resolved,CI-E2220172,CRQ900281,Increased heap size,"timeout, auth, crash",2025-03-21,Change
+INC10367,Firewall blocking outgoing traffic,Network,Low,In Progress,CI-79936698,CRQ927508,Updated routing table,"auth, db, crash",2025-03-19,Network Glitch
+INC10368,Service timeout in EU region,Network,Medium,Open,CI-B6F7696E,CRQ929453,Whitelisted IP range,"latency, firewall, dns",2025-02-23,Network Glitch
+INC10369,Application not responding,Network,Low,In Progress,CI-46361946,CRQ911842,Updated routing table,"firewall, db, dns",2025-03-09,Manual Error
+INC10370,Application not responding,Connectivity,Low,Resolved,CI-46361946,CRQ957081,Reconfigured firewall rules,"latency, firewall, db",2025-03-14,Change
+INC10371,Unable to access service,Authentication,Medium,Open,CI-4E8CC79E,CRQ926447,Reconfigured firewall rules,"timeout, db, crash",2025-02-20,Change
+INC10372,Application not responding,Database,Medium,Open,CI-79936698,CRQ944640,Increased heap size,"firewall, dns, router",2025-02-23,Manual Error
+INC10373,Unable to access service,Authentication,High,Resolved,CI-F3DC27D5,CRQ974136,Restarted service,"router, firewall, crash",2025-03-03,Change
+INC10374,Application not responding,Network,High,Open,CI-1E857052,CRQ972107,Increased heap size,"latency, db, dns",2025-03-01,Unknown
+INC10375,Unable to access service,Database,Medium,In Progress,CI-40208989,CRQ905717,Cleared DNS cache,"crash, db, timeout",2025-03-18,Unknown
+INC10376,Packet loss observed,Connectivity,High,Open,CI-163F178B,CRQ956957,,"firewall, auth, latency",2025-03-05,Change
+INC10377,Authentication failed for multiple users,Performance,Medium,Resolved,CI-1CE63E7D,CRQ959956,Reconfigured firewall rules,"crash, latency, auth",2025-03-17,Unknown
+INC10378,Firewall blocking outgoing traffic,Performance,Medium,Open,CI-4C7385F1,CRQ975179,Whitelisted IP range,"firewall, crash, db",2025-03-05,Unknown
+INC10379,System rebooted unexpectedly,Database,High,Open,CI-62648CF1,CRQ954291,Reconfigured firewall rules,"firewall, timeout, crash",2025-03-12,Change
+INC10380,DNS lookup failed,Database,High,Resolved,CI-1CE63E7D,CRQ902688,Updated routing table,"router, crash, timeout",2025-03-15,Unknown
+INC10381,Database connection issues,Network,Low,Resolved,CI-B8CF575E,CRQ962913,Increased heap size,"latency, auth, crash",2025-03-17,Infra Issue
+INC10382,Firewall blocking outgoing traffic,Connectivity,High,Open,CI-77B123A1,CRQ968946,Reconfigured firewall rules,"timeout, auth, dns",2025-03-20,Change
+INC10383,Packet loss observed,Database,Medium,In Progress,CI-8BD96E5A,CRQ950411,Updated routing table,"db, timeout, dns",2025-03-08,Change
+INC10384,DNS lookup failed,Authentication,Medium,Resolved,CI-A7BC8E43,CRQ909320,Reconfigured firewall rules,"router, db, firewall",2025-02-28,Unknown
+INC10385,Packet loss observed,Connectivity,Low,Resolved,CI-55755844,CRQ962913,Updated routing table,"db, dns, crash",2025-03-06,Infra Issue
+INC10386,Application not responding,Network,Low,Open,CI-6FD9D455,CRQ966730,Whitelisted IP range,"auth, timeout, firewall",2025-03-18,Unknown
+INC10387,Database connection issues,Database,Low,Open,CI-F7FDC10D,CRQ955381,Reconfigured firewall rules,"firewall, latency, dns",2025-03-09,Change
+INC10388,Application not responding,Connectivity,Low,In Progress,CI-D5746A4A,CRQ950377,Reconfigured firewall rules,"db, latency, router",2025-03-06,Change
+INC10389,Authentication failed for multiple users,Database,Medium,Resolved,CI-2439E08A,CRQ942274,,"auth, router, db",2025-02-20,Change
+INC10390,Service timeout in EU region,Network,Medium,Open,CI-D58CFB9A,CRQ925316,Whitelisted IP range,"firewall, auth, dns",2025-03-09,Manual Error
+INC10391,System rebooted unexpectedly,Database,Low,Resolved,CI-C0C87F23,CRQ963677,Reconfigured firewall rules,"latency, timeout, auth",2025-03-15,Network Glitch
+INC10392,High latency in application,Performance,High,In Progress,CI-1005D47E,CRQ966627,Increased heap size,"timeout, firewall, dns",2025-02-23,Infra Issue
+INC10393,High latency in application,Authentication,High,Open,CI-2FDE67B6,CRQ951154,Increased heap size,"router, db, firewall",2025-03-17,Infra Issue
+INC10394,Firewall blocking outgoing traffic,Database,High,Resolved,CI-FEB9E731,CRQ914693,,"dns, firewall, router",2025-02-27,Network Glitch
+INC10395,Unable to access service,Database,Medium,Resolved,CI-DD846996,CRQ990330,Reconfigured firewall rules,"firewall, db, timeout",2025-03-16,Infra Issue
+INC10396,Database connection issues,Connectivity,Medium,In Progress,CI-1A411B1F,CRQ972932,Whitelisted IP range,"crash, firewall, router",2025-03-10,Infra Issue
+INC10397,Unable to access service,Database,High,In Progress,CI-788425BE,CRQ968106,Increased heap size,"router, crash, db",2025-03-16,Change
+INC10398,Database connection issues,Authentication,High,Open,CI-8FBDDC04,CRQ940511,Updated routing table,"db, latency, dns",2025-02-27,Unknown
+INC10399,Service timeout in EU region,Database,Medium,Resolved,CI-163F178B,CRQ956283,Whitelisted IP range,"firewall, router, db",2025-03-06,Manual Error
+INC10400,System rebooted unexpectedly,Database,High,Open,CI-1A411B1F,CRQ959557,Updated routing table,"crash, timeout, router",2025-03-04,Manual Error
+INC10401,High latency in application,Authentication,High,Resolved,CI-FEAE6368,CRQ973493,Restarted service,"db, latency, crash",2025-03-01,Network Glitch
+INC10402,Database connection issues,Performance,Low,Resolved,CI-46361946,CRQ917481,Restarted service,"timeout, dns, db",2025-03-09,Unknown
+INC10403,System rebooted unexpectedly,Authentication,Low,Resolved,CI-F7FDC10D,CRQ931321,,"auth, latency, firewall",2025-03-14,Manual Error
+INC10404,System rebooted unexpectedly,Performance,Medium,Resolved,CI-5E3534B8,CRQ969202,Restarted service,"router, latency, db",2025-02-23,Change
+INC10405,System rebooted unexpectedly,Network,High,In Progress,CI-E052D553,CRQ955468,Cleared DNS cache,"db, timeout, router",2025-03-19,Unknown
+INC10406,System rebooted unexpectedly,Performance,Low,Resolved,CI-0921C4C6,CRQ927582,Cleared DNS cache,"latency, auth, db",2025-02-19,Change
+INC10407,Service timeout in EU region,Authentication,Medium,Resolved,CI-F3DC27D5,CRQ984870,Reconfigured firewall rules,"timeout, auth, crash",2025-03-02,Infra Issue
+INC10408,Database connection issues,Authentication,Low,In Progress,CI-CBA703B4,CRQ918446,Restarted service,"firewall, timeout, dns",2025-03-04,Change
+INC10409,Packet loss observed,Performance,Medium,In Progress,CI-8BE00422,CRQ946261,Cleared DNS cache,"firewall, db, dns",2025-03-11,Unknown
+INC10410,System rebooted unexpectedly,Authentication,High,Open,CI-260F39A7,CRQ999929,Updated routing table,"db, dns, crash",2025-02-26,Change
+INC10411,Authentication failed for multiple users,Network,Medium,In Progress,CI-F081C3E2,CRQ944210,Updated routing table,"timeout, crash, auth",2025-03-05,Network Glitch
+INC10412,Service timeout in EU region,Network,High,Resolved,CI-0921C4C6,CRQ935113,Whitelisted IP range,"auth, latency, dns",2025-02-22,Network Glitch
+INC10413,Application not responding,Database,High,In Progress,CI-1BF32CB7,CRQ924832,Reconfigured firewall rules,"auth, router, dns",2025-02-24,Infra Issue
+INC10414,Database connection issues,Authentication,Medium,Resolved,CI-8751D263,CRQ908171,Increased heap size,"timeout, crash, router",2025-03-16,Manual Error
+INC10415,Authentication failed for multiple users,Authentication,Low,Open,CI-E864E104,CRQ933044,Cleared DNS cache,"router, db, latency",2025-03-04,Change
+INC10416,Database connection issues,Performance,Low,Open,CI-90A1989F,CRQ929120,Reconfigured firewall rules,"router, auth, crash",2025-02-25,Unknown
+INC10417,DNS lookup failed,Authentication,Low,Open,CI-A0FA0F7E,CRQ990971,,"latency, dns, timeout",2025-03-09,Change
+INC10418,Service timeout in EU region,Network,Medium,In Progress,CI-85009BE0,CRQ996283,Restarted service,"latency, firewall, db",2025-02-24,Network Glitch
+INC10419,Firewall blocking outgoing traffic,Database,High,Open,CI-6CA0F946,CRQ928339,,"db, timeout, firewall",2025-03-14,Manual Error
+INC10420,DNS lookup failed,Authentication,Medium,Open,CI-77B123A1,CRQ917481,Updated routing table,"auth, latency, router",2025-02-28,Unknown
+INC10421,Database connection issues,Authentication,Medium,Open,CI-260F39A7,CRQ995852,Cleared DNS cache,"router, latency, crash",2025-02-23,Manual Error
+INC10422,Application not responding,Authentication,High,Open,CI-9A69A441,CRQ999929,Updated routing table,"firewall, router, db",2025-03-02,Unknown
+INC10423,Application not responding,Database,Medium,Open,CI-40208989,CRQ911238,Updated routing table,"latency, timeout, firewall",2025-03-08,Change
+INC10424,DNS lookup failed,Connectivity,Medium,Resolved,CI-291C7AF7,CRQ964199,Cleared DNS cache,"db, dns, crash",2025-03-21,Change
+INC10425,Unable to access service,Database,High,Resolved,CI-77B123A1,CRQ949313,Cleared DNS cache,"latency, router, dns",2025-03-14,Unknown
+INC10426,Firewall blocking outgoing traffic,Connectivity,Low,Resolved,CI-619B8270,CRQ953171,Increased heap size,"router, timeout, db",2025-02-25,Change
+INC10427,System rebooted unexpectedly,Authentication,High,Open,CI-A57A86E1,CRQ974677,Whitelisted IP range,"db, dns, auth",2025-03-14,Unknown
+INC10428,Unable to access service,Database,Low,In Progress,CI-001456E7,CRQ995852,Increased heap size,"crash, db, router",2025-03-03,Unknown
+INC10429,Firewall blocking outgoing traffic,Performance,High,Resolved,CI-C3AEAC79,CRQ931321,Increased heap size,"crash, dns, firewall",2025-03-14,Infra Issue
+INC10430,Application not responding,Performance,Low,In Progress,CI-1C80998E,CRQ914632,Increased heap size,"dns, firewall, latency",2025-03-01,Manual Error
+INC10431,Unable to access service,Connectivity,Medium,In Progress,CI-F3DC27D5,CRQ990258,Restarted service,"timeout, auth, latency",2025-02-23,Unknown
+INC10432,Authentication failed for multiple users,Connectivity,High,In Progress,CI-06F70C98,CRQ913191,Whitelisted IP range,"firewall, auth, db",2025-03-18,Change
+INC10433,Service timeout in EU region,Authentication,Medium,Resolved,CI-064526BF,CRQ974370,Increased heap size,"auth, router, timeout",2025-03-04,Change
+INC10434,DNS lookup failed,Performance,High,Resolved,CI-9A69A441,CRQ913191,Restarted service,"dns, crash, timeout",2025-02-20,Change
+INC10435,Firewall blocking outgoing traffic,Authentication,High,Resolved,CI-D5746A4A,CRQ978716,,"firewall, router, dns",2025-02-19,Infra Issue
+INC10436,DNS lookup failed,Authentication,Medium,In Progress,CI-2FDE67B6,CRQ976271,Updated routing table,"auth, crash, router",2025-02-23,Infra Issue
+INC10437,Application not responding,Network,Low,Open,CI-DE8D4597,CRQ935758,Restarted service,"dns, timeout, db",2025-03-19,Change
+INC10438,Application not responding,Performance,Medium,In Progress,CI-F86E3471,CRQ915582,Cleared DNS cache,"db, firewall, dns",2025-03-19,Change
+INC10439,Database connection issues,Connectivity,Medium,Resolved,CI-0A130978,CRQ944068,,"timeout, latency, crash",2025-03-12,Infra Issue
+INC10440,Service timeout in EU region,Network,Medium,Resolved,CI-13823F6F,CRQ994293,,"auth, timeout, router",2025-03-20,Infra Issue
+INC10441,DNS lookup failed,Performance,High,Open,CI-E7221F06,CRQ963677,Whitelisted IP range,"dns, firewall, crash",2025-03-10,Unknown
+INC10442,Database connection issues,Network,Low,In Progress,CI-1E16354D,CRQ965316,Restarted service,"firewall, router, timeout",2025-03-02,Network Glitch
+INC10443,System rebooted unexpectedly,Performance,Medium,In Progress,CI-CBA703B4,CRQ976101,Whitelisted IP range,"firewall, db, crash",2025-03-11,Unknown
+INC10444,Unable to access service,Authentication,High,In Progress,CI-46361946,CRQ970129,Cleared DNS cache,"firewall, crash, db",2025-03-01,Infra Issue
+INC10445,Service timeout in EU region,Database,Low,In Progress,CI-55755844,CRQ938671,Restarted service,"crash, router, db",2025-03-04,Change
+INC10446,DNS lookup failed,Database,Medium,In Progress,CI-F28930B5,CRQ990971,Reconfigured firewall rules,"router, crash, timeout",2025-03-16,Change
+INC10447,System rebooted unexpectedly,Network,High,In Progress,CI-16880A9A,CRQ937950,Whitelisted IP range,"router, auth, timeout",2025-03-04,Change
+INC10448,Authentication failed for multiple users,Connectivity,High,In Progress,CI-4E8CC79E,CRQ972596,Updated routing table,"dns, db, crash",2025-02-19,Unknown
+INC10449,System rebooted unexpectedly,Network,High,Resolved,CI-1BF32CB7,CRQ924365,Increased heap size,"dns, timeout, auth",2025-03-01,Change
+INC10450,Unable to access service,Connectivity,High,In Progress,CI-53B556DA,CRQ929882,,"crash, firewall, db",2025-03-12,Infra Issue
+INC10451,Database connection issues,Connectivity,High,In Progress,CI-78BD6716,CRQ996631,,"dns, latency, firewall",2025-03-10,Unknown
+INC10452,Service timeout in EU region,Connectivity,Medium,Resolved,CI-2D91E268,CRQ994355,Reconfigured firewall rules,"db, router, firewall",2025-02-19,Network Glitch
+INC10453,Firewall blocking outgoing traffic,Network,Medium,Resolved,CI-E7221F06,CRQ962481,Whitelisted IP range,"crash, latency, timeout",2025-03-10,Change
+INC10454,Firewall blocking outgoing traffic,Performance,Low,In Progress,CI-05BB57B3,CRQ962481,Restarted service,"firewall, auth, dns",2025-03-21,Network Glitch
+INC10455,Packet loss observed,Authentication,High,Resolved,CI-6E4827E0,CRQ955216,Whitelisted IP range,"latency, db, router",2025-03-10,Unknown
+INC10456,Unable to access service,Performance,Low,Open,CI-F081C3E2,CRQ960693,Restarted service,"db, dns, auth",2025-02-28,Unknown
+INC10457,Database connection issues,Authentication,Low,Resolved,CI-D5746A4A,CRQ987139,Updated routing table,"crash, firewall, router",2025-03-12,Change
+INC10458,Database connection issues,Connectivity,High,Open,CI-1E857052,CRQ972107,Cleared DNS cache,"crash, timeout, auth",2025-03-11,Unknown
+INC10459,Authentication failed for multiple users,Connectivity,Low,In Progress,CI-9D31BC42,CRQ919663,Whitelisted IP range,"router, crash, timeout",2025-03-13,Change
+INC10460,Packet loss observed,Network,High,Resolved,CI-F1197441,CRQ988222,Increased heap size,"dns, timeout, router",2025-02-19,Change
+INC10461,Database connection issues,Performance,Low,Open,CI-E864E104,CRQ951773,Whitelisted IP range,"latency, db, timeout",2025-02-19,Unknown
+INC10462,System rebooted unexpectedly,Network,Low,Resolved,CI-CCFFF606,CRQ935113,Restarted service,"db, dns, latency",2025-03-10,Change
+INC10463,Packet loss observed,Connectivity,High,Resolved,CI-90A1989F,CRQ969332,Whitelisted IP range,"dns, db, firewall",2025-02-22,Manual Error
+INC10464,Firewall blocking outgoing traffic,Connectivity,Low,Resolved,CI-55755844,CRQ966963,Reconfigured firewall rules,"router, db, timeout",2025-02-24,Infra Issue
+INC10465,Firewall blocking outgoing traffic,Database,Low,In Progress,CI-403106D9,CRQ931308,Updated routing table,"auth, timeout, firewall",2025-02-28,Change
+INC10466,System rebooted unexpectedly,Connectivity,Low,Resolved,CI-F1197441,CRQ968106,,"crash, auth, firewall",2025-02-27,Unknown
+INC10467,DNS lookup failed,Authentication,Low,In Progress,CI-D5746A4A,CRQ951154,Increased heap size,"firewall, router, crash",2025-03-15,Unknown
+INC10468,Firewall blocking outgoing traffic,Connectivity,Medium,Open,CI-BE0E4321,CRQ913191,Cleared DNS cache,"router, latency, auth",2025-03-02,Change
+INC10469,Firewall blocking outgoing traffic,Connectivity,Low,Resolved,CI-E052D553,CRQ956957,Restarted service,"crash, db, timeout",2025-03-04,Change
+INC10470,Database connection issues,Database,High,In Progress,CI-565AF07B,CRQ936836,Updated routing table,"latency, dns, firewall",2025-03-02,Network Glitch
+INC10471,Firewall blocking outgoing traffic,Performance,Low,Open,CI-1CE63E7D,CRQ937059,Reconfigured firewall rules,"firewall, auth, crash",2025-03-16,Change
+INC10472,High latency in application,Database,Medium,In Progress,CI-F7FDC10D,CRQ951621,Updated routing table,"firewall, timeout, auth",2025-02-25,Change
+INC10473,Firewall blocking outgoing traffic,Performance,Low,In Progress,CI-80DBA4BB,CRQ950119,Updated routing table,"firewall, latency, auth",2025-03-07,Change
+INC10474,DNS lookup failed,Connectivity,High,In Progress,CI-B6A46B30,CRQ903962,Restarted service,"crash, db, dns",2025-03-12,Change
+INC10475,Database connection issues,Authentication,Low,Resolved,CI-F33AA9C4,CRQ916524,Reconfigured firewall rules,"dns, latency, auth",2025-03-02,Change
+INC10476,Firewall blocking outgoing traffic,Connectivity,Low,In Progress,CI-A0FA0F7E,CRQ919663,Increased heap size,"firewall, dns, router",2025-03-12,Change
+INC10477,Firewall blocking outgoing traffic,Network,Low,Resolved,CI-B8CF575E,CRQ976101,Cleared DNS cache,"auth, latency, crash",2025-03-03,Change
+INC10478,Packet loss observed,Database,Low,Resolved,CI-064526BF,CRQ992693,,"firewall, auth, db",2025-02-27,Network Glitch
+INC10479,Application not responding,Database,Low,In Progress,CI-CCFFF606,CRQ969332,Reconfigured firewall rules,"timeout, latency, auth",2025-03-15,Manual Error
+INC10480,Service timeout in EU region,Database,High,Open,CI-D5746A4A,CRQ938377,,"db, latency, auth",2025-03-15,Unknown
+INC10481,Database connection issues,Authentication,Low,In Progress,CI-8BE00422,CRQ972999,Reconfigured firewall rules,"firewall, crash, router",2025-03-01,Manual Error
+INC10482,Authentication failed for multiple users,Database,Medium,Open,CI-1BF32CB7,CRQ996060,,"db, timeout, firewall",2025-03-02,Change
+INC10483,Database connection issues,Network,Low,In Progress,CI-77B123A1,CRQ989911,,"crash, firewall, timeout",2025-03-09,Unknown
+INC10484,Packet loss observed,Database,Medium,In Progress,CI-619B8270,CRQ979331,Reconfigured firewall rules,"db, latency, firewall",2025-02-21,Unknown
+INC10485,Firewall blocking outgoing traffic,Database,High,In Progress,CI-78D7E4EB,CRQ968106,Increased heap size,"firewall, crash, latency",2025-02-20,Unknown
+INC10486,High latency in application,Connectivity,Medium,Open,CI-BA06172F,CRQ949356,Cleared DNS cache,"router, latency, firewall",2025-03-05,Unknown
+INC10487,Unable to access service,Authentication,High,In Progress,CI-260F39A7,CRQ969332,Whitelisted IP range,"auth, db, crash",2025-03-20,Manual Error
+INC10488,Packet loss observed,Connectivity,Low,Open,CI-A0FA0F7E,CRQ916718,Increased heap size,"crash, latency, dns",2025-03-21,Change
+INC10489,DNS lookup failed,Performance,Medium,Resolved,CI-4C7385F1,CRQ935113,Whitelisted IP range,"firewall, db, auth",2025-03-13,Unknown
+INC10490,Packet loss observed,Authentication,Medium,In Progress,CI-403106D9,CRQ906002,Restarted service,"auth, dns, db",2025-03-01,Infra Issue
+INC10491,Packet loss observed,Network,High,In Progress,CI-1E857052,CRQ939731,Restarted service,"timeout, router, db",2025-02-27,Change
+INC10492,Database connection issues,Connectivity,High,Resolved,CI-6BA1D2F9,CRQ921978,Updated routing table,"latency, auth, crash",2025-03-14,Manual Error
+INC10493,System rebooted unexpectedly,Connectivity,Medium,Open,CI-064526BF,CRQ908171,Updated routing table,"timeout, latency, router",2025-03-12,Network Glitch
+INC10494,Authentication failed for multiple users,Network,Medium,Resolved,CI-E864E104,CRQ969420,Increased heap size,"dns, router, crash",2025-02-22,Infra Issue
+INC10495,Service timeout in EU region,Performance,High,Open,CI-8751D263,CRQ974370,Whitelisted IP range,"auth, timeout, db",2025-03-14,Change
+INC10496,Authentication failed for multiple users,Database,High,Open,CI-F28930B5,CRQ909320,Increased heap size,"auth, db, router",2025-03-12,Manual Error
+INC10497,Firewall blocking outgoing traffic,Performance,Low,In Progress,CI-5E3534B8,CRQ962793,Reconfigured firewall rules,"latency, router, firewall",2025-02-22,Change
+INC10498,Firewall blocking outgoing traffic,Authentication,Medium,In Progress,CI-55755844,CRQ959956,Increased heap size,"router, auth, timeout",2025-03-16,Unknown
+INC10499,Service timeout in EU region,Connectivity,Medium,Resolved,CI-1E16354D,CRQ980747,Increased heap size,"router, dns, db",2025-03-20,Change
+INC10500,Database connection issues,Performance,Low,In Progress,CI-78BD6716,CRQ967271,Whitelisted IP range,"auth, router, latency",2025-02-24,Manual Error
+INC10501,High latency in application,Network,Medium,Open,CI-2439E08A,CRQ924113,Reconfigured firewall rules,"firewall, timeout, auth",2025-02-22,Unknown
+INC10502,Packet loss observed,Database,Low,Resolved,CI-E052D553,CRQ972999,Increased heap size,"timeout, auth, router",2025-03-02,Change
+INC10503,Application not responding,Authentication,High,Open,CI-53B556DA,CRQ990971,Increased heap size,"dns, db, router",2025-03-18,Infra Issue
+INC10504,System rebooted unexpectedly,Authentication,High,Open,CI-1005D47E,CRQ960100,,"latency, timeout, crash",2025-03-10,Infra Issue
+INC10505,Service timeout in EU region,Authentication,Medium,In Progress,CI-0447FD5C,CRQ986819,Restarted service,"db, firewall, crash",2025-03-07,Change
+INC10506,DNS lookup failed,Network,High,Open,CI-77B123A1,CRQ955216,Restarted service,"crash, firewall, router",2025-03-21,Manual Error
+INC10507,Database connection issues,Performance,High,In Progress,CI-62648CF1,CRQ943744,Whitelisted IP range,"dns, db, latency",2025-03-04,Manual Error
+INC10508,Packet loss observed,Connectivity,Medium,Resolved,CI-324B6A9C,CRQ969202,,"db, router, firewall",2025-03-05,Unknown
+INC10509,Packet loss observed,Performance,High,Open,CI-E864E104,CRQ954291,Restarted service,"timeout, latency, db",2025-03-13,Change
+INC10510,Application not responding,Database,High,Open,CI-46361946,CRQ906374,Increased heap size,"dns, db, router",2025-03-11,Change
+INC10511,Authentication failed for multiple users,Network,High,In Progress,CI-CCFFF606,CRQ922958,Updated routing table,"crash, router, latency",2025-03-13,Infra Issue
+INC10512,Authentication failed for multiple users,Network,High,In Progress,CI-565AF07B,CRQ936869,Cleared DNS cache,"crash, router, latency",2025-03-10,Infra Issue
+INC10513,Firewall blocking outgoing traffic,Authentication,Medium,Open,CI-1E857052,CRQ960100,Increased heap size,"crash, auth, router",2025-03-16,Unknown
+INC10514,Firewall blocking outgoing traffic,Database,Low,In Progress,CI-AFFE3D64,CRQ922958,Reconfigured firewall rules,"auth, crash, dns",2025-03-02,Change
+INC10515,Application not responding,Performance,Medium,Open,CI-9D31BC42,CRQ981974,Restarted service,"crash, db, dns",2025-03-10,Change
+INC10516,Firewall blocking outgoing traffic,Connectivity,Medium,Resolved,CI-77B123A1,CRQ941861,Reconfigured firewall rules,"db, timeout, firewall",2025-02-21,Change
+INC10517,Firewall blocking outgoing traffic,Network,High,In Progress,CI-53B556DA,CRQ996631,Restarted service,"crash, latency, db",2025-03-13,Manual Error
+INC10518,Firewall blocking outgoing traffic,Performance,High,Resolved,CI-90A1989F,CRQ936836,Cleared DNS cache,"router, auth, firewall",2025-03-15,Change
+INC10519,Unable to access service,Connectivity,Medium,Open,CI-13823F6F,CRQ949751,Whitelisted IP range,"crash, timeout, latency",2025-03-17,Change
+INC10520,DNS lookup failed,Authentication,High,Open,CI-F3DC27D5,CRQ938590,Restarted service,"router, crash, firewall",2025-02-20,Unknown
+INC10521,Unable to access service,Connectivity,Medium,Resolved,CI-90A1989F,CRQ933044,Whitelisted IP range,"db, auth, router",2025-03-05,Network Glitch
+INC10522,Service timeout in EU region,Database,Medium,In Progress,CI-A7BC8E43,CRQ953036,Reconfigured firewall rules,"dns, auth, firewall",2025-03-04,Change
+INC10523,Authentication failed for multiple users,Performance,Low,In Progress,CI-5CBCAC88,CRQ928937,Whitelisted IP range,"firewall, crash, dns",2025-03-06,Unknown
+INC10524,Application not responding,Network,Low,Resolved,CI-DD846996,CRQ950821,Increased heap size,"timeout, firewall, router",2025-03-05,Manual Error
+INC10525,Application not responding,Authentication,High,Resolved,CI-1C80998E,CRQ949145,Restarted service,"latency, auth, router",2025-03-03,Unknown
+INC10526,High latency in application,Authentication,High,Resolved,CI-05BB57B3,CRQ965316,Restarted service,"timeout, db, router",2025-02-24,Unknown
+INC10527,Firewall blocking outgoing traffic,Database,Medium,Resolved,CI-163F178B,CRQ970129,Updated routing table,"router, crash, db",2025-02-20,Network Glitch
+INC10528,System rebooted unexpectedly,Authentication,Medium,In Progress,CI-1BF32CB7,CRQ924814,Cleared DNS cache,"router, dns, db",2025-03-13,Infra Issue
+INC10529,Database connection issues,Network,Medium,Open,CI-62648CF1,CRQ934264,Cleared DNS cache,"crash, timeout, db",2025-02-22,Change
+INC10530,Firewall blocking outgoing traffic,Performance,Low,Resolved,CI-566F7AA7,CRQ951773,Cleared DNS cache,"router, auth, crash",2025-02-26,Unknown
+INC10531,Firewall blocking outgoing traffic,Performance,High,Resolved,CI-6CA0F946,CRQ960100,Whitelisted IP range,"auth, crash, router",2025-02-19,Network Glitch
+INC10532,Authentication failed for multiple users,Performance,Medium,Open,CI-5B8CC68D,CRQ950007,Restarted service,"timeout, auth, dns",2025-03-06,Manual Error
+INC10533,Application not responding,Authentication,Low,Open,CI-DD846996,CRQ953032,,"latency, dns, router",2025-02-19,Unknown
+INC10534,System rebooted unexpectedly,Connectivity,High,Open,CI-200CCE31,CRQ982704,Increased heap size,"crash, firewall, db",2025-02-26,Unknown
+INC10535,Service timeout in EU region,Database,Medium,In Progress,CI-A7BC8E43,CRQ972932,Increased heap size,"firewall, router, auth",2025-02-21,Manual Error
+INC10536,Service timeout in EU region,Connectivity,Low,Resolved,CI-9D31BC42,CRQ949356,Reconfigured firewall rules,"auth, router, timeout",2025-03-15,Change
+INC10537,Database connection issues,Authentication,High,In Progress,CI-BD72E658,CRQ906626,Restarted service,"dns, db, timeout",2025-02-25,Change
+INC10538,Service timeout in EU region,Network,Low,In Progress,CI-06F70C98,CRQ908171,Cleared DNS cache,"router, dns, latency",2025-03-05,Change
+INC10539,Packet loss observed,Performance,Low,In Progress,CI-6FD9D455,CRQ946030,Updated routing table,"auth, dns, firewall",2025-03-01,Network Glitch
+INC10540,System rebooted unexpectedly,Performance,Medium,In Progress,CI-F7FDC10D,CRQ954378,,"crash, latency, db",2025-03-13,Change
+INC10541,System rebooted unexpectedly,Database,Low,Open,CI-1E16354D,CRQ976101,Reconfigured firewall rules,"crash, dns, auth",2025-03-14,Unknown
+INC10542,High latency in application,Connectivity,Low,In Progress,CI-565AF07B,CRQ912702,Reconfigured firewall rules,"timeout, firewall, dns",2025-03-07,Change
+INC10543,High latency in application,Connectivity,High,Open,CI-163F178B,CRQ990258,Updated routing table,"dns, crash, db",2025-03-01,Change
+INC10544,System rebooted unexpectedly,Authentication,High,Open,CI-A0FA0F7E,CRQ929299,Increased heap size,"firewall, auth, router",2025-02-22,Infra Issue
+INC10545,Unable to access service,Database,High,Resolved,CI-001456E7,CRQ965884,Cleared DNS cache,"crash, dns, timeout",2025-02-24,Unknown
+INC10546,Firewall blocking outgoing traffic,Performance,Medium,Resolved,CI-06F70C98,CRQ906002,Updated routing table,"crash, db, router",2025-02-27,Change
+INC10547,Unable to access service,Connectivity,High,Resolved,CI-92B49625,CRQ925929,Cleared DNS cache,"db, crash, latency",2025-02-27,Manual Error
+INC10548,DNS lookup failed,Network,Medium,In Progress,CI-53B556DA,CRQ911842,Restarted service,"router, auth, crash",2025-03-07,Infra Issue
+INC10549,System rebooted unexpectedly,Network,High,Open,CI-7342C0ED,CRQ907230,Increased heap size,"crash, firewall, db",2025-02-27,Network Glitch
+INC10550,Database connection issues,Connectivity,High,Resolved,CI-001456E7,CRQ924929,Restarted service,"auth, firewall, router",2025-03-01,Manual Error
+INC10551,Application not responding,Connectivity,Medium,Resolved,CI-627A162A,CRQ966791,Cleared DNS cache,"firewall, timeout, auth",2025-03-06,Change
+INC10552,Application not responding,Database,High,Resolved,CI-85009BE0,CRQ965813,Whitelisted IP range,"auth, db, timeout",2025-03-20,Change
+INC10553,Unable to access service,Performance,Low,In Progress,CI-DD846996,CRQ980747,Updated routing table,"router, latency, db",2025-03-13,Unknown
+INC10554,Firewall blocking outgoing traffic,Performance,High,Resolved,CI-B6A46B30,CRQ981974,Updated routing table,"router, dns, auth",2025-03-05,Change
+INC10555,Application not responding,Authentication,Low,In Progress,CI-1BF32CB7,CRQ942274,Whitelisted IP range,"latency, dns, router",2025-03-03,Manual Error
+INC10556,DNS lookup failed,Performance,Low,Open,CI-77B123A1,CRQ908171,,"timeout, firewall, auth",2025-02-23,Change
+INC10557,Service timeout in EU region,Network,High,Resolved,CI-BD72E658,CRQ906962,,"timeout, crash, dns",2025-03-20,Change
+INC10558,System rebooted unexpectedly,Connectivity,High,Resolved,CI-B6A46B30,CRQ981616,Reconfigured firewall rules,"timeout, crash, db",2025-03-04,Change
+INC10559,System rebooted unexpectedly,Network,High,Open,CI-4C7385F1,CRQ925087,Whitelisted IP range,"db, router, latency",2025-03-19,Unknown
+INC10560,Authentication failed for multiple users,Connectivity,Medium,In Progress,CI-5B8CC68D,CRQ984870,Increased heap size,"timeout, db, auth",2025-03-15,Change
+INC10561,Unable to access service,Authentication,Medium,Resolved,CI-6FD9D455,CRQ916718,Increased heap size,"timeout, latency, auth",2025-02-25,Network Glitch
+INC10562,Firewall blocking outgoing traffic,Performance,High,Open,CI-CCFFF606,CRQ949057,Cleared DNS cache,"db, auth, latency",2025-02-25,Change
+INC10563,High latency in application,Network,High,Open,CI-A89C266F,CRQ970012,Reconfigured firewall rules,"db, latency, dns",2025-03-15,Unknown
+INC10564,Packet loss observed,Authentication,Low,In Progress,CI-B8CF575E,CRQ984212,Updated routing table,"crash, db, latency",2025-02-23,Change
+INC10565,Packet loss observed,Performance,Low,Resolved,CI-C0C87F23,CRQ914632,Whitelisted IP range,"latency, crash, router",2025-03-21,Network Glitch
+INC10566,System rebooted unexpectedly,Connectivity,High,In Progress,CI-06F70C98,CRQ929539,Updated routing table,"firewall, crash, timeout",2025-03-01,Change
+INC10567,Database connection issues,Network,Medium,In Progress,CI-B6F7696E,CRQ984809,Whitelisted IP range,"latency, auth, dns",2025-03-02,Change
+INC10568,Packet loss observed,Authentication,High,In Progress,CI-05BB57B3,CRQ938671,Updated routing table,"crash, router, timeout",2025-03-04,Change
+INC10569,Database connection issues,Database,High,In Progress,CI-78D7E4EB,CRQ968878,Increased heap size,"db, dns, timeout",2025-02-21,Infra Issue
+INC10570,Authentication failed for multiple users,Performance,Medium,Open,CI-1CE63E7D,CRQ969304,Reconfigured firewall rules,"db, dns, router",2025-03-08,Change
+INC10571,Packet loss observed,Database,Medium,Resolved,CI-CD8722F4,CRQ924814,Restarted service,"db, latency, dns",2025-03-16,Change
+INC10572,Database connection issues,Network,Low,Open,CI-817D3670,CRQ988288,Updated routing table,"dns, router, crash",2025-03-16,Infra Issue
+INC10573,Database connection issues,Authentication,Medium,Resolved,CI-79936698,CRQ913663,Reconfigured firewall rules,"auth, latency, crash",2025-03-12,Infra Issue
+INC10574,Unable to access service,Database,Medium,In Progress,CI-DE8D4597,CRQ988271,Increased heap size,"crash, latency, timeout",2025-02-20,Infra Issue
+INC10575,System rebooted unexpectedly,Authentication,High,In Progress,CI-619B8270,CRQ961097,Increased heap size,"latency, router, dns",2025-03-11,Change
+INC10576,DNS lookup failed,Authentication,Medium,Open,CI-403106D9,CRQ970012,Restarted service,"latency, firewall, db",2025-02-23,Network Glitch
+INC10577,Database connection issues,Connectivity,Medium,Open,CI-1BF32CB7,CRQ960466,Restarted service,"router, latency, dns",2025-02-22,Unknown
+INC10578,Firewall blocking outgoing traffic,Performance,High,In Progress,CI-291C7AF7,CRQ914693,Reconfigured firewall rules,"auth, timeout, router",2025-03-18,Change
+INC10579,System rebooted unexpectedly,Network,High,In Progress,CI-59883B84,CRQ996283,Increased heap size,"auth, crash, timeout",2025-03-20,Manual Error
+INC10580,Service timeout in EU region,Network,Low,Resolved,CI-5E3534B8,CRQ922958,Increased heap size,"auth, router, firewall",2025-02-27,Network Glitch
+INC10581,Firewall blocking outgoing traffic,Database,High,Open,CI-C0C87F23,CRQ935758,Increased heap size,"db, dns, crash",2025-02-26,Network Glitch
+INC10582,Authentication failed for multiple users,Authentication,High,Resolved,CI-403106D9,CRQ999929,Updated routing table,"firewall, dns, db",2025-02-26,Change
+INC10583,System rebooted unexpectedly,Network,High,Open,CI-5D825301,CRQ966791,Whitelisted IP range,"dns, crash, auth",2025-03-15,Unknown
+INC10584,Firewall blocking outgoing traffic,Database,Medium,In Progress,CI-A89C266F,CRQ914955,Updated routing table,"crash, timeout, auth",2025-03-07,Unknown
+INC10585,High latency in application,Performance,High,Resolved,CI-9A69A441,CRQ994293,Reconfigured firewall rules,"firewall, crash, dns",2025-03-04,Change
+INC10586,Packet loss observed,Connectivity,High,In Progress,CI-40208989,CRQ956589,Updated routing table,"firewall, timeout, dns",2025-02-27,Change
+INC10587,Application not responding,Database,Low,Resolved,CI-CA13A68E,CRQ954378,Updated routing table,"crash, router, db",2025-03-07,Change
+INC10588,Unable to access service,Connectivity,Medium,Resolved,CI-46361946,CRQ999929,Whitelisted IP range,"router, timeout, latency",2025-02-19,Manual Error
+INC10589,Authentication failed for multiple users,Performance,Medium,Resolved,CI-4E8CC79E,CRQ944210,,"auth, router, timeout",2025-02-22,Network Glitch
+INC10590,Packet loss observed,Database,High,Resolved,CI-16880A9A,CRQ951762,Cleared DNS cache,"crash, auth, dns",2025-02-22,Unknown
+INC10591,Authentication failed for multiple users,Connectivity,High,Open,CI-2D91E268,CRQ972999,Updated routing table,"timeout, latency, auth",2025-03-12,Change
+INC10592,Service timeout in EU region,Authentication,Medium,In Progress,CI-1A411B1F,CRQ924929,,"router, timeout, firewall",2025-03-06,Network Glitch
+INC10593,Packet loss observed,Connectivity,Low,Open,CI-79936698,CRQ922235,Restarted service,"crash, timeout, latency",2025-03-05,Infra Issue
+INC10594,Service timeout in EU region,Database,High,In Progress,CI-A57A86E1,CRQ972107,Reconfigured firewall rules,"auth, firewall, router",2025-03-21,Change
+INC10595,Authentication failed for multiple users,Network,Medium,Resolved,CI-8BE00422,CRQ912702,Cleared DNS cache,"dns, latency, timeout",2025-03-13,Unknown
+INC10596,High latency in application,Authentication,Medium,Resolved,CI-A57A86E1,CRQ994452,Restarted service,"router, crash, latency",2025-02-23,Change
+INC10597,Unable to access service,Connectivity,High,In Progress,CI-92B49625,CRQ963276,Cleared DNS cache,"db, router, latency",2025-03-11,Manual Error
+INC10598,Application not responding,Network,High,Resolved,CI-62648CF1,CRQ964163,Whitelisted IP range,"db, auth, dns",2025-03-04,Change
+INC10599,Application not responding,Connectivity,Low,In Progress,CI-F081C3E2,CRQ950119,,"firewall, router, timeout",2025-03-10,Change
+INC10600,Packet loss observed,Connectivity,Medium,In Progress,CI-627A162A,CRQ970577,Restarted service,"crash, dns, router",2025-02-24,Infra Issue
+INC10601,DNS lookup failed,Performance,High,In Progress,CI-CD8722F4,CRQ942900,Restarted service,"timeout, dns, firewall",2025-03-20,Unknown
+INC10602,Authentication failed for multiple users,Connectivity,Low,Resolved,CI-1E16354D,CRQ969420,,"latency, timeout, dns",2025-02-26,Change
+INC10603,Application not responding,Authentication,Medium,Open,CI-8751D263,CRQ963677,Reconfigured firewall rules,"timeout, dns, router",2025-03-11,Manual Error
+INC10604,High latency in application,Authentication,Low,In Progress,CI-E052D553,CRQ945744,,"firewall, router, auth",2025-03-03,Unknown
+INC10605,Database connection issues,Performance,Medium,Open,CI-F3DC27D5,CRQ986819,Reconfigured firewall rules,"db, latency, timeout",2025-03-09,Change
+INC10606,Service timeout in EU region,Network,Low,In Progress,CI-200CCE31,CRQ966730,Restarted service,"dns, firewall, auth",2025-02-26,Change
+INC10607,Unable to access service,Authentication,Medium,Open,CI-4C7385F1,CRQ931308,Cleared DNS cache,"crash, dns, router",2025-03-19,Manual Error
+INC10608,High latency in application,Database,High,Open,CI-A89C266F,CRQ980680,Increased heap size,"crash, firewall, auth",2025-03-10,Change
+INC10609,Unable to access service,Network,Medium,In Progress,CI-788425BE,CRQ905717,Updated routing table,"router, auth, latency",2025-02-24,Unknown
+INC10610,DNS lookup failed,Authentication,Low,In Progress,CI-0A130978,CRQ907230,Cleared DNS cache,"dns, firewall, crash",2025-03-18,Change
+INC10611,Service timeout in EU region,Database,Low,Resolved,CI-40208989,CRQ975179,Whitelisted IP range,"timeout, router, latency",2025-03-15,Network Glitch
+INC10612,DNS lookup failed,Authentication,Low,In Progress,CI-5E3534B8,CRQ962913,Reconfigured firewall rules,"firewall, db, crash",2025-02-19,Unknown
+INC10613,Firewall blocking outgoing traffic,Connectivity,Low,In Progress,CI-EA57CD70,CRQ950119,Increased heap size,"router, dns, latency",2025-03-07,Change
+INC10614,Application not responding,Connectivity,Medium,In Progress,CI-1E16354D,CRQ911434,Reconfigured firewall rules,"timeout, router, dns",2025-03-04,Infra Issue
+INC10615,Packet loss observed,Authentication,Medium,Open,CI-85009BE0,CRQ945482,Whitelisted IP range,"dns, auth, firewall",2025-03-01,Unknown
+INC10616,High latency in application,Performance,Low,Resolved,CI-FEB9E731,CRQ917481,Reconfigured firewall rules,"timeout, latency, auth",2025-03-15,Unknown
+INC10617,Packet loss observed,Network,Low,Open,CI-06F70C98,CRQ969420,Reconfigured firewall rules,"db, latency, dns",2025-02-19,Unknown
+INC10618,System rebooted unexpectedly,Performance,Low,In Progress,CI-1005D47E,CRQ974974,Cleared DNS cache,"crash, router, latency",2025-03-05,Change
+INC10619,Service timeout in EU region,Performance,Medium,Open,CI-324B6A9C,CRQ922235,,"timeout, dns, db",2025-02-20,Unknown
+INC10620,Packet loss observed,Database,High,Resolved,CI-BA06172F,CRQ930095,Reconfigured firewall rules,"router, dns, crash",2025-03-13,Network Glitch
+INC10621,Application not responding,Connectivity,Medium,In Progress,CI-F28930B5,CRQ945744,Restarted service,"dns, auth, crash",2025-03-11,Unknown
+INC10622,High latency in application,Network,High,Resolved,CI-78D7E4EB,CRQ950593,Updated routing table,"latency, router, dns",2025-02-21,Change
+INC10623,High latency in application,Connectivity,Medium,In Progress,CI-324B6A9C,CRQ935986,Restarted service,"firewall, router, crash",2025-03-15,Change
+INC10624,Database connection issues,Authentication,Medium,Open,CI-619B8270,CRQ917471,,"crash, db, dns",2025-02-24,Infra Issue
+INC10625,High latency in application,Network,Low,In Progress,CI-6E4827E0,CRQ931725,Cleared DNS cache,"firewall, router, timeout",2025-03-19,Change
+INC10626,Service timeout in EU region,Connectivity,High,Open,CI-A0FA0F7E,CRQ983959,,"db, dns, latency",2025-03-14,Change
+INC10627,Packet loss observed,Network,High,In Progress,CI-62648CF1,CRQ924814,,"dns, auth, latency",2025-03-07,Network Glitch
+INC10628,DNS lookup failed,Authentication,Medium,In Progress,CI-55755844,CRQ966963,Whitelisted IP range,"crash, timeout, router",2025-03-21,Unknown
+INC10629,DNS lookup failed,Connectivity,High,Resolved,CI-163F178B,CRQ940328,Updated routing table,"timeout, router, db",2025-03-05,Unknown
+INC10630,Database connection issues,Performance,Medium,Open,CI-9D31BC42,CRQ927136,Cleared DNS cache,"db, auth, router",2025-02-24,Unknown
+INC10631,Application not responding,Performance,High,Open,CI-2D91E268,CRQ922259,Increased heap size,"firewall, latency, crash",2025-02-28,Manual Error
+INC10632,Database connection issues,Network,Low,Open,CI-CA13A68E,CRQ969510,,"db, latency, dns",2025-03-18,Change
+INC10633,High latency in application,Authentication,High,Open,CI-FEB9E731,CRQ927508,Updated routing table,"crash, firewall, latency",2025-03-20,Change
+INC10634,Authentication failed for multiple users,Performance,High,Resolved,CI-619B8270,CRQ975179,Whitelisted IP range,"db, auth, router",2025-03-09,Change
+INC10635,Database connection issues,Connectivity,High,In Progress,CI-324B6A9C,CRQ953032,,"auth, latency, dns",2025-03-05,Unknown
+INC10636,System rebooted unexpectedly,Performance,Medium,Open,CI-C0C87F23,CRQ986819,Cleared DNS cache,"latency, timeout, crash",2025-02-25,Infra Issue
+INC10637,Database connection issues,Authentication,Medium,In Progress,CI-8FBDDC04,CRQ925316,Increased heap size,"router, firewall, auth",2025-02-21,Change
+INC10638,Service timeout in EU region,Performance,High,Open,CI-FEB9E731,CRQ955381,Reconfigured firewall rules,"dns, router, auth",2025-02-28,Network Glitch
+INC10639,Service timeout in EU region,Performance,Low,In Progress,CI-A57A86E1,CRQ937950,Reconfigured firewall rules,"dns, timeout, firewall",2025-03-05,Change
+INC10640,Database connection issues,Authentication,High,Resolved,CI-200CCE31,CRQ999929,Whitelisted IP range,"latency, timeout, crash",2025-02-25,Network Glitch
+INC10641,Service timeout in EU region,Connectivity,High,Open,CI-D5746A4A,CRQ951762,Whitelisted IP range,"latency, auth, db",2025-03-09,Manual Error
+INC10642,Packet loss observed,Database,High,Resolved,CI-260F39A7,CRQ925114,Whitelisted IP range,"router, db, firewall",2025-02-25,Manual Error
+INC10643,Firewall blocking outgoing traffic,Authentication,Low,In Progress,CI-4E8CC79E,CRQ977343,Cleared DNS cache,"dns, db, firewall",2025-03-01,Infra Issue
+INC10644,Database connection issues,Authentication,High,Resolved,CI-8BE00422,CRQ901060,Increased heap size,"firewall, crash, db",2025-03-13,Change
+INC10645,Authentication failed for multiple users,Performance,Low,Open,CI-2439E08A,CRQ941861,Whitelisted IP range,"crash, dns, timeout",2025-03-14,Unknown
+INC10646,Service timeout in EU region,Network,High,Resolved,CI-7342C0ED,CRQ990653,Restarted service,"auth, dns, router",2025-03-12,Unknown
+INC10647,Database connection issues,Database,Low,Open,CI-291C7AF7,CRQ902688,Increased heap size,"latency, db, firewall",2025-03-02,Network Glitch
+INC10648,Authentication failed for multiple users,Database,Low,Resolved,CI-8BD96E5A,CRQ951621,Cleared DNS cache,"crash, timeout, db",2025-02-20,Change
+INC10649,System rebooted unexpectedly,Connectivity,High,Resolved,CI-6E4827E0,CRQ957956,Increased heap size,"router, auth, latency",2025-03-15,Infra Issue
+INC10650,Application not responding,Authentication,Medium,In Progress,CI-F33AA9C4,CRQ956283,Reconfigured firewall rules,"router, timeout, latency",2025-03-05,Unknown
+INC10651,Service timeout in EU region,Network,Low,In Progress,CI-788425BE,CRQ935986,Restarted service,"firewall, router, timeout",2025-03-17,Unknown
+INC10652,Firewall blocking outgoing traffic,Connectivity,Low,Open,CI-FEB9E731,CRQ927582,,"db, firewall, latency",2025-02-28,Change
+INC10653,High latency in application,Network,Medium,In Progress,CI-8751D263,CRQ976879,Reconfigured firewall rules,"db, auth, crash",2025-03-03,Network Glitch
+INC10654,Unable to access service,Database,Medium,Resolved,CI-BA06172F,CRQ933077,Whitelisted IP range,"dns, router, firewall",2025-03-14,Network Glitch
+INC10655,System rebooted unexpectedly,Network,High,In Progress,CI-E052D553,CRQ970012,Whitelisted IP range,"timeout, latency, dns",2025-03-14,Change
+INC10656,DNS lookup failed,Database,High,Open,CI-34393CCA,CRQ933777,Restarted service,"router, db, crash",2025-03-15,Change
+INC10657,Unable to access service,Performance,High,In Progress,CI-CD8722F4,CRQ955216,,"dns, timeout, auth",2025-02-19,Change
+INC10658,Application not responding,Performance,Low,Open,CI-F28930B5,CRQ992693,Cleared DNS cache,"timeout, router, firewall",2025-02-20,Change
+INC10659,System rebooted unexpectedly,Authentication,Medium,Resolved,CI-FEB9E731,CRQ964163,Whitelisted IP range,"db, auth, latency",2025-02-23,Change
+INC10660,Packet loss observed,Authentication,Low,Open,CI-9D31BC42,CRQ946261,,"timeout, dns, router",2025-03-07,Infra Issue
+INC10661,Application not responding,Network,High,In Progress,CI-13823F6F,CRQ920549,Increased heap size,"db, router, crash",2025-03-03,Network Glitch
+INC10662,Firewall blocking outgoing traffic,Database,Medium,Open,CI-80DBA4BB,CRQ964163,Whitelisted IP range,"crash, db, latency",2025-02-21,Unknown
+INC10663,Firewall blocking outgoing traffic,Network,High,Open,CI-F081C3E2,CRQ972797,,"timeout, router, auth",2025-03-09,Change
+INC10664,Authentication failed for multiple users,Performance,High,Open,CI-F86E3471,CRQ979331,Reconfigured firewall rules,"auth, firewall, router",2025-03-20,Unknown
+INC10665,System rebooted unexpectedly,Connectivity,High,Resolved,CI-619B8270,CRQ948529,,"dns, router, latency",2025-03-14,Unknown
+INC10666,Application not responding,Performance,Medium,In Progress,CI-291C7AF7,CRQ942900,Cleared DNS cache,"db, firewall, auth",2025-03-18,Change
+INC10667,Firewall blocking outgoing traffic,Authentication,Low,Resolved,CI-1E16354D,CRQ959557,Updated routing table,"dns, db, latency",2025-03-03,Infra Issue
+INC10668,Database connection issues,Database,Medium,In Progress,CI-40208989,CRQ922958,,"dns, timeout, db",2025-02-20,Change
+INC10669,Service timeout in EU region,Connectivity,High,Resolved,CI-627A162A,CRQ949751,Cleared DNS cache,"db, latency, timeout",2025-03-19,Change
+INC10670,Service timeout in EU region,Network,High,Open,CI-DE8D4597,CRQ972797,Cleared DNS cache,"db, auth, firewall",2025-03-03,Change
+INC10671,Database connection issues,Authentication,High,Open,CI-B8CF575E,CRQ956283,Restarted service,"latency, crash, db",2025-03-18,Unknown
+INC10672,Authentication failed for multiple users,Database,Low,Resolved,CI-A7BC8E43,CRQ949751,,"firewall, dns, router",2025-03-15,Network Glitch
+INC10673,Firewall blocking outgoing traffic,Database,Low,Resolved,CI-8BE00422,CRQ999713,Increased heap size,"crash, firewall, latency",2025-03-20,Unknown
+INC10674,Packet loss observed,Database,Medium,Open,CI-565AF07B,CRQ969652,Reconfigured firewall rules,"timeout, auth, dns",2025-03-03,Manual Error
+INC10675,Application not responding,Authentication,High,In Progress,CI-34393CCA,CRQ977343,Reconfigured firewall rules,"firewall, crash, timeout",2025-02-22,Manual Error
+INC10676,Service timeout in EU region,Performance,Medium,In Progress,CI-A0FA0F7E,CRQ921978,Whitelisted IP range,"auth, crash, latency",2025-03-19,Change
+INC10677,Service timeout in EU region,Connectivity,Medium,Open,CI-90A1989F,CRQ949751,Updated routing table,"router, db, firewall",2025-03-11,Unknown
+INC10678,Unable to access service,Network,High,In Progress,CI-F3DC27D5,CRQ950377,Updated routing table,"dns, db, firewall",2025-03-12,Unknown
+INC10679,DNS lookup failed,Authentication,Low,Open,CI-CD8722F4,CRQ978369,Reconfigured firewall rules,"db, router, timeout",2025-03-06,Unknown
+INC10680,Service timeout in EU region,Authentication,High,Resolved,CI-53B556DA,CRQ923541,Updated routing table,"dns, firewall, router",2025-02-20,Unknown
+INC10681,Service timeout in EU region,Authentication,Medium,Resolved,CI-4C7385F1,CRQ964523,Updated routing table,"dns, firewall, crash",2025-03-18,Unknown
+INC10682,Firewall blocking outgoing traffic,Performance,Low,Resolved,CI-8FBDDC04,CRQ977400,Cleared DNS cache,"crash, router, dns",2025-02-24,Infra Issue
+INC10683,Database connection issues,Connectivity,High,Resolved,CI-A89C266F,CRQ945744,Whitelisted IP range,"firewall, db, router",2025-02-21,Manual Error
+INC10684,Firewall blocking outgoing traffic,Database,Medium,Open,CI-A89C266F,CRQ965316,Whitelisted IP range,"db, firewall, latency",2025-03-01,Manual Error
+INC10685,Database connection issues,Connectivity,High,Open,CI-8BD96E5A,CRQ929120,Whitelisted IP range,"latency, crash, dns",2025-03-03,Change
+INC10686,System rebooted unexpectedly,Database,Low,Open,CI-001456E7,CRQ937121,Cleared DNS cache,"router, dns, timeout",2025-02-20,Unknown
+INC10687,DNS lookup failed,Connectivity,Medium,In Progress,CI-2439E08A,CRQ969304,Whitelisted IP range,"dns, timeout, latency",2025-02-26,Change
+INC10688,Authentication failed for multiple users,Performance,High,In Progress,CI-C3AEAC79,CRQ977343,,"latency, db, dns",2025-03-08,Change
+INC10689,Firewall blocking outgoing traffic,Connectivity,Low,In Progress,CI-80DBA4BB,CRQ948477,Cleared DNS cache,"dns, db, crash",2025-03-05,Infra Issue
+INC10690,System rebooted unexpectedly,Authentication,Low,Resolved,CI-291C7AF7,CRQ992693,Restarted service,"firewall, auth, crash",2025-03-03,Infra Issue
+INC10691,Database connection issues,Authentication,Low,Resolved,CI-A7BC8E43,CRQ900467,Restarted service,"dns, auth, router",2025-03-11,Infra Issue
+INC10692,Service timeout in EU region,Connectivity,Low,Resolved,CI-200CCE31,CRQ976879,Updated routing table,"latency, timeout, auth",2025-03-13,Unknown
+INC10693,Unable to access service,Authentication,High,In Progress,CI-2FDE67B6,CRQ911238,,"db, dns, firewall",2025-03-01,Network Glitch
+INC10694,Unable to access service,Network,High,Open,CI-5CBCAC88,CRQ918879,Whitelisted IP range,"timeout, auth, crash",2025-02-28,Change
+INC10695,Service timeout in EU region,Authentication,High,Open,CI-260F39A7,CRQ914970,,"latency, router, crash",2025-03-13,Infra Issue
+INC10696,High latency in application,Network,Medium,Open,CI-4E8CC79E,CRQ917481,Reconfigured firewall rules,"firewall, db, latency",2025-03-01,Unknown
+INC10697,Packet loss observed,Connectivity,Medium,In Progress,CI-BA06172F,CRQ968091,,"auth, db, crash",2025-03-16,Change
+INC10698,Unable to access service,Connectivity,High,In Progress,CI-34393CCA,CRQ961097,Restarted service,"crash, latency, firewall",2025-02-26,Change
+INC10699,DNS lookup failed,Database,High,In Progress,CI-4C7385F1,CRQ969202,Restarted service,"auth, firewall, dns",2025-03-10,Manual Error
+INC10700,Packet loss observed,Network,Medium,Open,CI-F7FDC10D,CRQ924814,Cleared DNS cache,"firewall, crash, latency",2025-03-10,Unknown
+INC10701,High latency in application,Performance,Low,Resolved,CI-403106D9,CRQ984809,,"dns, firewall, timeout",2025-02-23,Network Glitch
+INC10702,Application not responding,Performance,Low,Open,CI-B6A46B30,CRQ957081,Restarted service,"router, firewall, auth",2025-02-19,Change
+INC10703,Service timeout in EU region,Database,Medium,Resolved,CI-F33AA9C4,CRQ943317,Whitelisted IP range,"timeout, latency, firewall",2025-03-04,Change
+INC10704,Service timeout in EU region,Connectivity,High,Resolved,CI-0447FD5C,CRQ981974,Cleared DNS cache,"firewall, router, auth",2025-03-20,Infra Issue
+INC10705,Authentication failed for multiple users,Authentication,High,Resolved,CI-46361946,CRQ998230,Reconfigured firewall rules,"crash, firewall, dns",2025-02-27,Change
+INC10706,Authentication failed for multiple users,Database,High,Resolved,CI-16880A9A,CRQ976879,Cleared DNS cache,"dns, router, latency",2025-03-10,Infra Issue
+INC10707,Unable to access service,Performance,High,In Progress,CI-8FBDDC04,CRQ987860,Increased heap size,"latency, crash, timeout",2025-03-21,Infra Issue
+INC10708,Packet loss observed,Database,Low,In Progress,CI-5B8CC68D,CRQ956589,Whitelisted IP range,"db, dns, crash",2025-03-11,Manual Error
+INC10709,Packet loss observed,Performance,Low,Open,CI-1CE63E7D,CRQ942274,Updated routing table,"auth, crash, router",2025-02-19,Change
+INC10710,Packet loss observed,Database,Medium,Open,CI-8BD96E5A,CRQ944640,Updated routing table,"router, db, auth",2025-03-12,Change
+INC10711,DNS lookup failed,Database,Low,Resolved,CI-291C7AF7,CRQ932879,Increased heap size,"timeout, auth, crash",2025-02-21,Change
+INC10712,Application not responding,Authentication,Medium,Resolved,CI-1CE63E7D,CRQ929882,Restarted service,"latency, dns, auth",2025-03-02,Manual Error
+INC10713,Authentication failed for multiple users,Performance,Medium,Resolved,CI-001456E7,CRQ929882,Increased heap size,"timeout, latency, crash",2025-03-03,Unknown
+INC10714,Authentication failed for multiple users,Authentication,Low,Resolved,CI-4C7385F1,CRQ996672,Restarted service,"auth, crash, timeout",2025-03-02,Change
+INC10715,Packet loss observed,Database,Low,Resolved,CI-566F7AA7,CRQ973827,,"db, crash, router",2025-03-19,Change
+INC10716,Packet loss observed,Connectivity,High,Open,CI-6FD9D455,CRQ950119,Reconfigured firewall rules,"timeout, crash, db",2025-02-23,Network Glitch
+INC10717,Database connection issues,Authentication,Medium,Resolved,CI-2D91E268,CRQ927508,Updated routing table,"router, timeout, auth",2025-03-17,Network Glitch
+INC10718,Authentication failed for multiple users,Connectivity,Low,In Progress,CI-FEAE6368,CRQ951154,Increased heap size,"crash, db, firewall",2025-03-12,Change
+INC10719,Authentication failed for multiple users,Authentication,High,In Progress,CI-DE8D4597,CRQ998230,Reconfigured firewall rules,"auth, timeout, router",2025-03-05,Unknown
+INC10720,High latency in application,Network,High,Open,CI-324B6A9C,CRQ976101,Increased heap size,"router, auth, dns",2025-03-01,Manual Error
+INC10721,DNS lookup failed,Authentication,High,Open,CI-C3AEAC79,CRQ955468,Whitelisted IP range,"crash, router, dns",2025-03-12,Network Glitch
+INC10722,Packet loss observed,Database,Low,Resolved,CI-565AF07B,CRQ927136,Updated routing table,"auth, crash, db",2025-02-25,Network Glitch
+INC10723,Authentication failed for multiple users,Database,Medium,Resolved,CI-5B8CC68D,CRQ924814,Cleared DNS cache,"timeout, db, latency",2025-03-04,Manual Error
+INC10724,Authentication failed for multiple users,Connectivity,Medium,Open,CI-85009BE0,CRQ994355,Updated routing table,"crash, auth, dns",2025-02-21,Infra Issue
+INC10725,Database connection issues,Network,High,In Progress,CI-1A411B1F,CRQ919589,Updated routing table,"timeout, db, router",2025-02-19,Unknown
+INC10726,Unable to access service,Authentication,Low,In Progress,CI-CBA703B4,CRQ907230,,"dns, crash, db",2025-03-21,Network Glitch
+INC10727,Authentication failed for multiple users,Performance,Medium,In Progress,CI-A7BC8E43,CRQ957956,,"latency, firewall, timeout",2025-02-28,Network Glitch
+INC10728,Authentication failed for multiple users,Network,Medium,Resolved,CI-1CE63E7D,CRQ919519,Reconfigured firewall rules,"firewall, crash, timeout",2025-03-05,Change
+INC10729,Service timeout in EU region,Database,Low,Resolved,CI-1CE63E7D,CRQ949313,,"dns, db, timeout",2025-02-20,Unknown
+INC10730,Unable to access service,Authentication,Low,In Progress,CI-05BB57B3,CRQ953032,Cleared DNS cache,"timeout, dns, firewall",2025-03-11,Change
+INC10731,System rebooted unexpectedly,Database,Medium,Open,CI-6CA0F946,CRQ955733,Increased heap size,"crash, db, timeout",2025-03-12,Network Glitch
+INC10732,DNS lookup failed,Performance,Low,Open,CI-55755844,CRQ937059,Increased heap size,"dns, auth, firewall",2025-02-23,Network Glitch
+INC10733,DNS lookup failed,Network,Low,Resolved,CI-788425BE,CRQ942274,Reconfigured firewall rules,"auth, db, timeout",2025-02-22,Unknown
+INC10734,DNS lookup failed,Connectivity,Low,Resolved,CI-291C7AF7,CRQ933777,Whitelisted IP range,"db, firewall, timeout",2025-03-19,Infra Issue
+INC10735,Firewall blocking outgoing traffic,Database,High,Open,CI-90A1989F,CRQ925087,Updated routing table,"timeout, db, dns",2025-03-18,Network Glitch
+INC10736,Unable to access service,Authentication,Medium,Open,CI-A89C266F,CRQ999929,Updated routing table,"auth, router, latency",2025-02-24,Change
+INC10737,Firewall blocking outgoing traffic,Performance,Low,In Progress,CI-0A130978,CRQ998230,Increased heap size,"crash, firewall, latency",2025-02-24,Infra Issue
+INC10738,Packet loss observed,Network,High,Resolved,CI-9D31BC42,CRQ966070,Whitelisted IP range,"timeout, crash, db",2025-03-04,Change
+INC10739,Packet loss observed,Performance,High,In Progress,CI-E864E104,CRQ956589,Cleared DNS cache,"crash, db, router",2025-03-08,Infra Issue
+INC10740,DNS lookup failed,Authentication,High,In Progress,CI-59883B84,CRQ915081,Updated routing table,"router, dns, db",2025-02-20,Change
+INC10741,High latency in application,Connectivity,High,Open,CI-6FD9D455,CRQ902688,Whitelisted IP range,"latency, firewall, timeout",2025-03-08,Unknown
+INC10742,Application not responding,Database,Low,Resolved,CI-E2220172,CRQ940328,Whitelisted IP range,"router, dns, latency",2025-03-21,Unknown
+INC10743,Firewall blocking outgoing traffic,Performance,High,In Progress,CI-EA57CD70,CRQ953171,Restarted service,"timeout, router, firewall",2025-02-23,Change
+INC10744,Packet loss observed,Authentication,High,In Progress,CI-41F7A6BB,CRQ990330,Cleared DNS cache,"db, timeout, crash",2025-02-23,Change
+INC10745,Packet loss observed,Authentication,Low,In Progress,CI-F28930B5,CRQ942274,Whitelisted IP range,"crash, router, dns",2025-03-07,Manual Error
+INC10746,Packet loss observed,Authentication,High,In Progress,CI-77B123A1,CRQ954291,,"router, latency, dns",2025-02-20,Unknown
+INC10747,Database connection issues,Performance,High,Resolved,CI-8BD96E5A,CRQ931308,Restarted service,"timeout, dns, firewall",2025-03-04,Manual Error
+INC10748,Unable to access service,Authentication,Low,In Progress,CI-A7BC8E43,CRQ957160,Cleared DNS cache,"auth, timeout, crash",2025-02-22,Unknown
+INC10749,Service timeout in EU region,Connectivity,Medium,In Progress,CI-D5746A4A,CRQ959789,Whitelisted IP range,"firewall, crash, timeout",2025-02-27,Change
+INC10750,Application not responding,Network,Medium,Resolved,CI-8FBDDC04,CRQ911238,,"latency, crash, firewall",2025-03-18,Change
+INC10751,Database connection issues,Connectivity,High,Resolved,CI-78BD6716,CRQ961694,Updated routing table,"timeout, dns, crash",2025-03-06,Unknown
+INC10752,Unable to access service,Connectivity,High,Resolved,CI-200CCE31,CRQ975197,Cleared DNS cache,"dns, router, timeout",2025-02-24,Unknown
+INC10753,Database connection issues,Database,High,Resolved,CI-001456E7,CRQ955733,Restarted service,"firewall, auth, timeout",2025-03-11,Infra Issue
+INC10754,High latency in application,Network,Medium,In Progress,CI-34393CCA,CRQ912702,Increased heap size,"crash, auth, latency",2025-03-16,Change
+INC10755,Authentication failed for multiple users,Database,Medium,Resolved,CI-F3DC27D5,CRQ955381,Cleared DNS cache,"crash, router, auth",2025-03-10,Change
+INC10756,Database connection issues,Database,Low,Resolved,CI-59883B84,CRQ921978,Restarted service,"latency, db, timeout",2025-03-20,Change
+INC10757,DNS lookup failed,Network,High,In Progress,CI-5D825301,CRQ956589,Whitelisted IP range,"timeout, crash, router",2025-03-03,Change
+INC10758,Firewall blocking outgoing traffic,Authentication,High,Resolved,CI-CBA703B4,CRQ911434,Updated routing table,"firewall, crash, latency",2025-02-26,Change
+INC10759,Unable to access service,Network,Low,In Progress,CI-1005D47E,CRQ940511,Cleared DNS cache,"db, firewall, latency",2025-03-05,Infra Issue
+INC10760,Database connection issues,Network,High,Resolved,CI-1E857052,CRQ988271,Restarted service,"dns, crash, firewall",2025-02-22,Change
+INC10761,Database connection issues,Network,Medium,Resolved,CI-FEAE6368,CRQ950593,Cleared DNS cache,"router, timeout, latency",2025-03-09,Unknown
+INC10762,Application not responding,Network,Low,Resolved,CI-F3DC27D5,CRQ981655,,"router, db, timeout",2025-03-09,Change
+INC10763,Packet loss observed,Authentication,Low,Open,CI-8BE00422,CRQ931321,Reconfigured firewall rules,"dns, latency, timeout",2025-03-01,Manual Error
+INC10764,Service timeout in EU region,Authentication,High,In Progress,CI-FEAE6368,CRQ920510,Updated routing table,"router, firewall, auth",2025-02-24,Change
+INC10765,High latency in application,Connectivity,Low,In Progress,CI-9D31BC42,CRQ967900,Whitelisted IP range,"latency, router, db",2025-03-06,Infra Issue
+INC10766,High latency in application,Authentication,Low,Open,CI-2439E08A,CRQ996672,,"router, timeout, auth",2025-03-14,Change
+INC10767,Firewall blocking outgoing traffic,Database,Medium,Open,CI-291C7AF7,CRQ928677,Cleared DNS cache,"timeout, auth, router",2025-03-19,Unknown
+INC10768,Application not responding,Performance,Low,In Progress,CI-92B49625,CRQ936738,Whitelisted IP range,"auth, db, firewall",2025-03-17,Change
+INC10769,Service timeout in EU region,Database,Low,In Progress,CI-5D825301,CRQ931308,Updated routing table,"router, firewall, db",2025-02-24,Unknown
+INC10770,System rebooted unexpectedly,Performance,Medium,In Progress,CI-8BD96E5A,CRQ967782,,"crash, router, dns",2025-03-10,Unknown
+INC10771,System rebooted unexpectedly,Network,High,In Progress,CI-8FBDDC04,CRQ990971,Restarted service,"db, crash, dns",2025-03-03,Change
+INC10772,Packet loss observed,Performance,Medium,Resolved,CI-1BF32CB7,CRQ978702,Reconfigured firewall rules,"crash, latency, timeout",2025-03-16,Manual Error
+INC10773,High latency in application,Network,Medium,Open,CI-A89C266F,CRQ954378,Updated routing table,"timeout, firewall, dns",2025-02-24,Unknown
+INC10774,Firewall blocking outgoing traffic,Database,High,Resolved,CI-85009BE0,CRQ940328,Increased heap size,"router, db, timeout",2025-02-28,Manual Error
+INC10775,System rebooted unexpectedly,Authentication,Low,Resolved,CI-F081C3E2,CRQ961694,Reconfigured firewall rules,"latency, timeout, crash",2025-03-12,Change
+INC10776,Service timeout in EU region,Performance,Medium,In Progress,CI-79936698,CRQ963276,Restarted service,"router, crash, auth",2025-03-18,Manual Error
+INC10777,Application not responding,Connectivity,High,Resolved,CI-6BA1D2F9,CRQ974974,Increased heap size,"db, latency, firewall",2025-02-27,Manual Error
+INC10778,Database connection issues,Network,Low,In Progress,CI-F1197441,CRQ937023,Whitelisted IP range,"timeout, auth, router",2025-03-21,Change
+INC10779,DNS lookup failed,Network,Low,In Progress,CI-6E4827E0,CRQ975363,Updated routing table,"db, dns, latency",2025-03-16,Change
+INC10780,System rebooted unexpectedly,Performance,High,In Progress,CI-85009BE0,CRQ992693,Cleared DNS cache,"latency, timeout, crash",2025-03-21,Unknown
+INC10781,Unable to access service,Network,Medium,Resolved,CI-1E16354D,CRQ962481,Updated routing table,"firewall, router, latency",2025-03-21,Network Glitch
+INC10782,Packet loss observed,Network,Medium,Open,CI-5B8CC68D,CRQ913663,Cleared DNS cache,"timeout, latency, auth",2025-03-19,Infra Issue
+INC10783,Packet loss observed,Performance,Low,Open,CI-6BA1D2F9,CRQ995852,Restarted service,"crash, timeout, db",2025-03-15,Change
+INC10784,Packet loss observed,Database,Medium,Open,CI-F1197441,CRQ981655,Increased heap size,"latency, dns, db",2025-02-20,Unknown
+INC10785,Database connection issues,Performance,Low,Resolved,CI-BE0E4321,CRQ934264,Cleared DNS cache,"timeout, crash, latency",2025-03-14,Unknown
+INC10786,High latency in application,Authentication,Low,Open,CI-46361946,CRQ966963,Updated routing table,"dns, router, db",2025-03-14,Network Glitch
+INC10787,DNS lookup failed,Connectivity,Medium,Open,CI-90A1989F,CRQ910970,Updated routing table,"auth, firewall, latency",2025-03-12,Unknown
+INC10788,Database connection issues,Connectivity,High,In Progress,CI-6BA1D2F9,CRQ996631,Cleared DNS cache,"latency, db, router",2025-03-11,Change
+INC10789,Unable to access service,Authentication,High,Open,CI-E7221F06,CRQ950119,,"auth, crash, db",2025-03-01,Change
+INC10790,Service timeout in EU region,Connectivity,High,In Progress,CI-F86E3471,CRQ974370,Restarted service,"firewall, db, dns",2025-03-08,Change
+INC10791,Packet loss observed,Database,Medium,Open,CI-90A1989F,CRQ957160,,"db, crash, latency",2025-03-09,Unknown
+INC10792,Unable to access service,Performance,Low,Open,CI-817D3670,CRQ954177,Cleared DNS cache,"timeout, auth, firewall",2025-03-05,Change
+INC10793,Service timeout in EU region,Connectivity,High,In Progress,CI-5D825301,CRQ925929,Whitelisted IP range,"latency, db, timeout",2025-03-19,Infra Issue
+INC10794,Firewall blocking outgoing traffic,Authentication,Low,In Progress,CI-FEB9E731,CRQ913534,Restarted service,"dns, router, db",2025-02-19,Manual Error
+INC10795,Service timeout in EU region,Connectivity,Low,Resolved,CI-064526BF,CRQ925316,Updated routing table,"crash, auth, dns",2025-03-12,Network Glitch
+INC10796,Unable to access service,Network,High,In Progress,CI-064526BF,CRQ918446,,"router, crash, db",2025-03-13,Manual Error
+INC10797,High latency in application,Connectivity,Medium,Resolved,CI-8BD96E5A,CRQ929882,,"db, auth, dns",2025-03-05,Network Glitch
+INC10798,System rebooted unexpectedly,Performance,Low,In Progress,CI-2FDE67B6,CRQ963677,Increased heap size,"db, timeout, latency",2025-02-25,Change
+INC10799,Unable to access service,Performance,Low,In Progress,CI-F86E3471,CRQ920154,Updated routing table,"db, auth, crash",2025-03-15,Manual Error
+INC10800,Service timeout in EU region,Network,Medium,Resolved,CI-BE0E4321,CRQ941898,Cleared DNS cache,"firewall, router, auth",2025-03-17,Manual Error
+INC10801,Service timeout in EU region,Performance,Medium,Resolved,CI-0921C4C6,CRQ980747,Cleared DNS cache,"timeout, router, crash",2025-02-27,Infra Issue
+INC10802,Authentication failed for multiple users,Connectivity,High,In Progress,CI-2439E08A,CRQ950119,Restarted service,"crash, db, router",2025-03-04,Infra Issue
+INC10803,Firewall blocking outgoing traffic,Database,Low,In Progress,CI-291C7AF7,CRQ910970,Updated routing table,"auth, dns, db",2025-03-07,Unknown
+INC10804,Firewall blocking outgoing traffic,Connectivity,Low,Open,CI-5CBCAC88,CRQ929882,Cleared DNS cache,"router, db, firewall",2025-02-22,Network Glitch
+INC10805,Packet loss observed,Authentication,Low,Open,CI-001456E7,CRQ946030,Updated routing table,"auth, firewall, db",2025-03-06,Change
+INC10806,Packet loss observed,Network,High,In Progress,CI-627A162A,CRQ914955,Whitelisted IP range,"latency, crash, dns",2025-03-11,Change
+INC10807,High latency in application,Network,Low,In Progress,CI-F4AB59BA,CRQ959191,Restarted service,"db, router, firewall",2025-02-26,Network Glitch
+INC10808,Packet loss observed,Network,Medium,Open,CI-7342C0ED,CRQ974974,Increased heap size,"auth, timeout, crash",2025-02-27,Unknown
+INC10809,Packet loss observed,Connectivity,Low,In Progress,CI-788425BE,CRQ944068,Reconfigured firewall rules,"db, latency, dns",2025-03-05,Change
+INC10810,Application not responding,Performance,Low,Open,CI-F33AA9C4,CRQ942274,Cleared DNS cache,"db, firewall, router",2025-02-19,Change
+INC10811,High latency in application,Network,Low,Resolved,CI-1BF32CB7,CRQ972107,Reconfigured firewall rules,"latency, crash, router",2025-03-14,Change
+INC10812,Unable to access service,Performance,Medium,Resolved,CI-D58CFB9A,CRQ947857,Cleared DNS cache,"timeout, router, dns",2025-03-15,Unknown
+INC10813,Packet loss observed,Connectivity,High,In Progress,CI-4C7385F1,CRQ969304,Cleared DNS cache,"crash, latency, dns",2025-02-19,Unknown
+INC10814,Unable to access service,Network,High,Open,CI-2FDE67B6,CRQ990653,Cleared DNS cache,"firewall, db, dns",2025-03-03,Infra Issue
+INC10815,DNS lookup failed,Connectivity,Medium,In Progress,CI-0921C4C6,CRQ967782,Whitelisted IP range,"firewall, dns, timeout",2025-02-28,Manual Error
+INC10816,High latency in application,Authentication,Low,In Progress,CI-13823F6F,CRQ915582,Reconfigured firewall rules,"crash, latency, db",2025-03-07,Manual Error
+INC10817,System rebooted unexpectedly,Database,Low,Resolved,CI-1CE63E7D,CRQ995852,Updated routing table,"auth, crash, timeout",2025-03-19,Infra Issue
+INC10818,Application not responding,Performance,High,Resolved,CI-566F7AA7,CRQ913534,Reconfigured firewall rules,"db, firewall, router",2025-02-28,Change
+INC10819,Unable to access service,Authentication,High,In Progress,CI-788425BE,CRQ987415,Restarted service,"crash, dns, db",2025-02-27,Change
+INC10820,Firewall blocking outgoing traffic,Network,Medium,Resolved,CI-62648CF1,CRQ915081,,"router, dns, db",2025-03-19,Unknown
+INC10821,Service timeout in EU region,Performance,Medium,Resolved,CI-92B49625,CRQ980680,,"latency, timeout, crash",2025-03-09,Change
+INC10822,High latency in application,Network,Low,Resolved,CI-CCFFF606,CRQ935986,Updated routing table,"auth, latency, db",2025-03-14,Manual Error
+INC10823,System rebooted unexpectedly,Network,Low,Open,CI-5E3534B8,CRQ924832,Restarted service,"latency, auth, dns",2025-02-28,Change
+INC10824,System rebooted unexpectedly,Performance,Medium,In Progress,CI-6FD9D455,CRQ972596,Updated routing table,"auth, db, latency",2025-03-08,Unknown
+INC10825,Application not responding,Performance,Low,Resolved,CI-DD846996,CRQ964199,Cleared DNS cache,"db, router, dns",2025-03-03,Network Glitch
+INC10826,DNS lookup failed,Authentication,Medium,In Progress,CI-AFFE3D64,CRQ940043,,"firewall, router, auth",2025-03-18,Change
+INC10827,Firewall blocking outgoing traffic,Connectivity,High,In Progress,CI-CD8722F4,CRQ977343,Restarted service,"firewall, timeout, dns",2025-03-21,Change
+INC10828,Service timeout in EU region,Performance,Low,In Progress,CI-1CE63E7D,CRQ979331,Whitelisted IP range,"router, latency, db",2025-03-02,Manual Error
+INC10829,Unable to access service,Database,Low,Open,CI-62648CF1,CRQ999999,Whitelisted IP range,"db, timeout, latency",2025-02-22,Unknown
+INC10830,High latency in application,Database,High,In Progress,CI-A89C266F,CRQ936738,Reconfigured firewall rules,"crash, timeout, dns",2025-02-19,Change
+INC10831,Service timeout in EU region,Authentication,High,Resolved,CI-EA57CD70,CRQ935758,Cleared DNS cache,"latency, db, auth",2025-03-14,Manual Error
+INC10832,Firewall blocking outgoing traffic,Connectivity,Medium,Resolved,CI-06F70C98,CRQ951441,,"auth, latency, crash",2025-03-01,Unknown
+INC10833,System rebooted unexpectedly,Network,Low,In Progress,CI-2439E08A,CRQ974677,,"firewall, router, timeout",2025-03-16,Change
+INC10834,System rebooted unexpectedly,Performance,Medium,Open,CI-1C80998E,CRQ914632,,"latency, crash, db",2025-02-20,Unknown
+INC10835,Service timeout in EU region,Network,Medium,Open,CI-260F39A7,CRQ959557,Whitelisted IP range,"crash, latency, db",2025-02-27,Change
+INC10836,Database connection issues,Database,Medium,In Progress,CI-566F7AA7,CRQ903962,,"firewall, auth, latency",2025-03-08,Network Glitch
+INC10837,Application not responding,Performance,Medium,Resolved,CI-9A69A441,CRQ968878,Increased heap size,"latency, dns, firewall",2025-03-13,Network Glitch
+INC10838,Database connection issues,Network,Medium,Open,CI-6E4827E0,CRQ961097,Whitelisted IP range,"latency, dns, router",2025-03-02,Unknown
+INC10839,Authentication failed for multiple users,Connectivity,Low,Open,CI-1CE63E7D,CRQ987139,Increased heap size,"latency, db, timeout",2025-03-09,Manual Error
+INC10840,Database connection issues,Authentication,High,Resolved,CI-0A130978,CRQ968106,Cleared DNS cache,"db, firewall, auth",2025-03-02,Change
+INC10841,DNS lookup failed,Performance,Low,In Progress,CI-77B123A1,CRQ927508,Increased heap size,"dns, auth, db",2025-03-09,Change
+INC10842,Application not responding,Authentication,Medium,In Progress,CI-77B123A1,CRQ906626,,"db, timeout, latency",2025-02-20,Change
+INC10843,Packet loss observed,Network,Low,Open,CI-41F7A6BB,CRQ905717,Cleared DNS cache,"db, auth, timeout",2025-03-20,Change
+INC10844,Application not responding,Connectivity,Medium,In Progress,CI-A57A86E1,CRQ929120,Reconfigured firewall rules,"crash, db, router",2025-03-20,Manual Error
+INC10845,Database connection issues,Database,Medium,Open,CI-E2220172,CRQ933044,Reconfigured firewall rules,"timeout, auth, db",2025-03-17,Unknown
+INC10846,DNS lookup failed,Authentication,Medium,Resolved,CI-FEB9E731,CRQ920549,Restarted service,"router, db, latency",2025-02-27,Change
+INC10847,DNS lookup failed,Database,Medium,Open,CI-6BA1D2F9,CRQ917471,Reconfigured firewall rules,"crash, dns, firewall",2025-02-25,Change
+INC10848,Application not responding,Authentication,High,Open,CI-FEB9E731,CRQ999929,Cleared DNS cache,"auth, db, crash",2025-02-25,Manual Error
+INC10849,DNS lookup failed,Performance,High,Open,CI-7342C0ED,CRQ924365,Reconfigured firewall rules,"latency, firewall, router",2025-03-11,Manual Error
+INC10850,Firewall blocking outgoing traffic,Performance,Medium,In Progress,CI-F28930B5,CRQ964199,Cleared DNS cache,"auth, router, timeout",2025-03-11,Unknown
+INC10851,Unable to access service,Network,Medium,In Progress,CI-619B8270,CRQ910970,Reconfigured firewall rules,"auth, crash, firewall",2025-03-06,Unknown
+INC10852,Database connection issues,Network,Medium,In Progress,CI-6CA0F946,CRQ929849,Restarted service,"crash, timeout, firewall",2025-03-17,Unknown
+INC10853,Application not responding,Performance,High,In Progress,CI-55755844,CRQ927508,Updated routing table,"db, crash, latency",2025-03-01,Manual Error
+INC10854,Application not responding,Database,Low,Open,CI-41F7A6BB,CRQ938671,Cleared DNS cache,"timeout, crash, firewall",2025-03-09,Manual Error
+INC10855,Unable to access service,Authentication,Medium,Open,CI-46361946,CRQ955381,Updated routing table,"auth, firewall, crash",2025-02-27,Change
+INC10856,High latency in application,Authentication,High,Resolved,CI-F081C3E2,CRQ996060,Restarted service,"latency, router, firewall",2025-02-20,Change
+INC10857,Service timeout in EU region,Database,Medium,Open,CI-FEB9E731,CRQ940511,,"timeout, dns, firewall",2025-03-15,Unknown
+INC10858,Application not responding,Database,High,Resolved,CI-DD846996,CRQ945482,Cleared DNS cache,"dns, firewall, auth",2025-03-08,Network Glitch
+INC10859,High latency in application,Network,Medium,Open,CI-9D31BC42,CRQ917481,Updated routing table,"crash, router, latency",2025-03-13,Change
+INC10860,Unable to access service,Performance,High,Resolved,CI-1A411B1F,CRQ914294,Whitelisted IP range,"db, timeout, auth",2025-03-13,Unknown
+INC10861,Firewall blocking outgoing traffic,Performance,High,Resolved,CI-566F7AA7,CRQ940271,,"auth, dns, timeout",2025-03-14,Change
+INC10862,Application not responding,Connectivity,Low,In Progress,CI-E052D553,CRQ918879,Updated routing table,"auth, db, timeout",2025-03-16,Unknown
+INC10863,DNS lookup failed,Authentication,High,In Progress,CI-8BD96E5A,CRQ980680,Cleared DNS cache,"latency, router, dns",2025-02-26,Unknown
+INC10864,Authentication failed for multiple users,Database,Low,Resolved,CI-566F7AA7,CRQ952196,Cleared DNS cache,"auth, dns, crash",2025-03-15,Change
+INC10865,Application not responding,Performance,High,In Progress,CI-06F70C98,CRQ911238,Updated routing table,"router, db, crash",2025-03-20,Unknown
+INC10866,Authentication failed for multiple users,Connectivity,Low,In Progress,CI-1CE63E7D,CRQ914955,Restarted service,"dns, firewall, db",2025-03-20,Change
+INC10867,High latency in application,Database,Low,Resolved,CI-064526BF,CRQ939612,Updated routing table,"auth, db, latency",2025-02-24,Unknown
+INC10868,Authentication failed for multiple users,Network,High,In Progress,CI-F1197441,CRQ994293,Cleared DNS cache,"latency, dns, db",2025-03-01,Change
+INC10869,Packet loss observed,Database,Low,In Progress,CI-0921C4C6,CRQ970012,Restarted service,"dns, latency, router",2025-03-19,Change
+INC10870,DNS lookup failed,Database,Medium,Resolved,CI-200CCE31,CRQ959933,Reconfigured firewall rules,"router, timeout, auth",2025-02-27,Change
+INC10871,Packet loss observed,Authentication,Low,Resolved,CI-CA13A68E,CRQ955468,Increased heap size,"firewall, dns, router",2025-02-25,Change
+INC10872,Service timeout in EU region,Performance,High,Resolved,CI-9A69A441,CRQ942274,Restarted service,"dns, firewall, auth",2025-02-25,Unknown
+INC10873,High latency in application,Connectivity,Medium,Resolved,CI-1A411B1F,CRQ929539,Cleared DNS cache,"latency, timeout, auth",2025-03-15,Change
+INC10874,Packet loss observed,Database,High,Resolved,CI-EA57CD70,CRQ979331,Reconfigured firewall rules,"crash, db, firewall",2025-02-23,Unknown
+INC10875,High latency in application,Connectivity,High,Resolved,CI-F86E3471,CRQ983835,Increased heap size,"router, auth, latency",2025-03-21,Infra Issue
+INC10876,Unable to access service,Connectivity,Medium,Open,CI-8751D263,CRQ969304,,"router, firewall, db",2025-03-11,Change
+INC10877,Unable to access service,Authentication,Medium,Open,CI-46361946,CRQ969652,Increased heap size,"crash, latency, dns",2025-03-01,Change
+INC10878,High latency in application,Connectivity,Low,Resolved,CI-E864E104,CRQ931308,,"dns, firewall, auth",2025-03-14,Manual Error
+INC10879,DNS lookup failed,Performance,Low,In Progress,CI-F081C3E2,CRQ968946,Whitelisted IP range,"dns, db, latency",2025-03-19,Change
+INC10880,DNS lookup failed,Network,Low,In Progress,CI-BA06172F,CRQ969304,Reconfigured firewall rules,"latency, crash, firewall",2025-03-01,Network Glitch
+INC10881,High latency in application,Connectivity,Low,In Progress,CI-5CBCAC88,CRQ987860,Whitelisted IP range,"timeout, crash, dns",2025-03-10,Unknown
+INC10882,Application not responding,Database,High,In Progress,CI-D5746A4A,CRQ914294,Restarted service,"timeout, latency, firewall",2025-03-03,Change
+INC10883,Unable to access service,Authentication,High,In Progress,CI-064526BF,CRQ984870,Cleared DNS cache,"router, db, firewall",2025-03-20,Change
+INC10884,High latency in application,Performance,High,In Progress,CI-A57A86E1,CRQ946660,Reconfigured firewall rules,"firewall, crash, db",2025-03-07,Network Glitch
+INC10885,Service timeout in EU region,Network,Medium,Resolved,CI-77B123A1,CRQ959666,Reconfigured firewall rules,"dns, timeout, router",2025-02-23,Unknown
+INC10886,Service timeout in EU region,Connectivity,High,Open,CI-CCFFF606,CRQ946660,Cleared DNS cache,"auth, firewall, latency",2025-03-20,Infra Issue
+INC10887,High latency in application,Network,High,In Progress,CI-788425BE,CRQ924814,Whitelisted IP range,"latency, db, firewall",2025-03-09,Change
+INC10888,Service timeout in EU region,Database,Medium,Resolved,CI-F3DC27D5,CRQ906962,Restarted service,"db, router, latency",2025-02-26,Change
+INC10889,Authentication failed for multiple users,Authentication,High,Resolved,CI-0A130978,CRQ935758,Cleared DNS cache,"firewall, db, crash",2025-03-03,Unknown
+INC10890,Firewall blocking outgoing traffic,Database,High,In Progress,CI-566F7AA7,CRQ969510,Restarted service,"dns, latency, auth",2025-02-22,Infra Issue
+INC10891,Authentication failed for multiple users,Network,High,In Progress,CI-001456E7,CRQ959191,Restarted service,"router, db, firewall",2025-03-17,Unknown
+INC10892,System rebooted unexpectedly,Database,Medium,Open,CI-55755844,CRQ972932,Restarted service,"latency, firewall, router",2025-03-16,Network Glitch
+INC10893,Firewall blocking outgoing traffic,Authentication,Medium,Open,CI-BD72E658,CRQ978369,Updated routing table,"db, dns, timeout",2025-02-27,Change
+INC10894,Authentication failed for multiple users,Performance,High,In Progress,CI-AFFE3D64,CRQ954177,,"auth, latency, crash",2025-03-02,Network Glitch
+INC10895,High latency in application,Connectivity,Low,Resolved,CI-1BF32CB7,CRQ974370,Restarted service,"timeout, latency, crash",2025-02-25,Manual Error
+INC10896,DNS lookup failed,Connectivity,High,In Progress,CI-06F70C98,CRQ926447,Whitelisted IP range,"firewall, db, dns",2025-02-23,Manual Error
+INC10897,System rebooted unexpectedly,Connectivity,Medium,In Progress,CI-F4AB59BA,CRQ995390,,"dns, timeout, firewall",2025-03-07,Manual Error
+INC10898,Unable to access service,Performance,Low,Resolved,CI-CA13A68E,CRQ941861,Reconfigured firewall rules,"crash, dns, timeout",2025-03-07,Unknown
+INC10899,Authentication failed for multiple users,Authentication,High,Resolved,CI-41F7A6BB,CRQ991923,Reconfigured firewall rules,"dns, router, auth",2025-03-05,Infra Issue
+INC10900,Unable to access service,Network,Low,Resolved,CI-06F70C98,CRQ917481,Cleared DNS cache,"firewall, dns, timeout",2025-03-01,Change
+INC10901,Application not responding,Connectivity,Medium,Open,CI-291C7AF7,CRQ937059,Updated routing table,"timeout, firewall, auth",2025-03-07,Unknown
+INC10902,Database connection issues,Network,Medium,Resolved,CI-5D825301,CRQ925114,Updated routing table,"firewall, timeout, router",2025-03-01,Network Glitch
+INC10903,Authentication failed for multiple users,Authentication,Medium,Open,CI-B8CF575E,CRQ949313,Increased heap size,"firewall, latency, router",2025-03-02,Infra Issue
+INC10904,Authentication failed for multiple users,Performance,Low,Resolved,CI-200CCE31,CRQ940271,Cleared DNS cache,"auth, crash, timeout",2025-02-20,Change
+INC10905,Database connection issues,Database,High,Open,CI-62648CF1,CRQ931321,Cleared DNS cache,"auth, crash, db",2025-03-19,Unknown
+INC10906,Firewall blocking outgoing traffic,Database,Low,Open,CI-41F7A6BB,CRQ941886,Increased heap size,"firewall, latency, dns",2025-02-26,Change
+INC10907,Firewall blocking outgoing traffic,Network,Low,Open,CI-788425BE,CRQ911434,Whitelisted IP range,"timeout, latency, db",2025-02-20,Unknown
+INC10908,Application not responding,Performance,Low,Resolved,CI-566F7AA7,CRQ953171,Restarted service,"latency, auth, db",2025-03-14,Unknown
+INC10909,Unable to access service,Database,Low,In Progress,CI-1E16354D,CRQ953171,Updated routing table,"latency, auth, crash",2025-02-22,Change
+INC10910,Firewall blocking outgoing traffic,Performance,Medium,Resolved,CI-1A411B1F,CRQ945744,Whitelisted IP range,"router, timeout, crash",2025-03-04,Infra Issue
+INC10911,Unable to access service,Performance,Medium,Resolved,CI-0921C4C6,CRQ929849,,"db, timeout, auth",2025-03-17,Change
+INC10912,Firewall blocking outgoing traffic,Authentication,Low,Resolved,CI-1E857052,CRQ913086,Updated routing table,"db, firewall, dns",2025-03-14,Change
+INC10913,Authentication failed for multiple users,Database,Low,In Progress,CI-6CA0F946,CRQ954177,Updated routing table,"router, crash, db",2025-03-07,Change
+INC10914,Database connection issues,Network,High,Resolved,CI-C3AEAC79,CRQ991923,Cleared DNS cache,"auth, firewall, timeout",2025-03-11,Unknown
+INC10915,Unable to access service,Network,Low,In Progress,CI-D5746A4A,CRQ975363,Whitelisted IP range,"router, dns, crash",2025-03-10,Change
+INC10916,Application not responding,Authentication,High,Open,CI-064526BF,CRQ975363,,"dns, auth, router",2025-03-11,Network Glitch
+INC10917,System rebooted unexpectedly,Network,High,Resolved,CI-1E857052,CRQ966963,Restarted service,"router, db, latency",2025-02-19,Change
+INC10918,Database connection issues,Authentication,High,In Progress,CI-291C7AF7,CRQ969510,Cleared DNS cache,"dns, latency, db",2025-03-01,Unknown
+INC10919,Application not responding,Performance,Medium,Open,CI-D58CFB9A,CRQ938465,Whitelisted IP range,"firewall, crash, timeout",2025-03-08,Change
+INC10920,Application not responding,Database,Medium,In Progress,CI-F86E3471,CRQ978369,Reconfigured firewall rules,"firewall, timeout, db",2025-03-02,Unknown
+INC10921,Service timeout in EU region,Connectivity,High,In Progress,CI-46361946,CRQ969304,Restarted service,"auth, timeout, crash",2025-02-27,Change
+INC10922,System rebooted unexpectedly,Database,Medium,Resolved,CI-F3DC27D5,CRQ900820,Increased heap size,"latency, db, crash",2025-03-01,Change
+INC10923,Database connection issues,Authentication,High,Open,CI-6E4827E0,CRQ974370,Updated routing table,"latency, crash, auth",2025-02-28,Change
+INC10924,DNS lookup failed,Performance,High,Resolved,CI-5B8CC68D,CRQ935758,Restarted service,"auth, firewall, db",2025-02-24,Infra Issue
+INC10925,Database connection issues,Connectivity,Medium,Resolved,CI-77B123A1,CRQ998230,Increased heap size,"router, db, crash",2025-03-02,Manual Error
+INC10926,Packet loss observed,Database,Medium,Open,CI-B8CF575E,CRQ999713,Reconfigured firewall rules,"dns, timeout, db",2025-03-18,Infra Issue
+INC10927,DNS lookup failed,Authentication,Low,In Progress,CI-788425BE,CRQ917471,Updated routing table,"dns, crash, auth",2025-03-03,Change
+INC10928,Unable to access service,Connectivity,Low,Open,CI-41F7A6BB,CRQ925087,Whitelisted IP range,"router, firewall, latency",2025-03-15,Change
+INC10929,DNS lookup failed,Database,Medium,Resolved,CI-627A162A,CRQ900281,Increased heap size,"db, latency, dns",2025-03-14,Change
+INC10930,DNS lookup failed,Network,Low,In Progress,CI-8751D263,CRQ914693,Increased heap size,"router, auth, latency",2025-03-15,Change
+INC10931,Database connection issues,Database,Medium,In Progress,CI-E2220172,CRQ987860,Updated routing table,"router, dns, latency",2025-03-06,Change
+INC10932,DNS lookup failed,Connectivity,Medium,In Progress,CI-324B6A9C,CRQ924814,Cleared DNS cache,"crash, router, dns",2025-03-17,Change
+INC10933,Packet loss observed,Database,High,Open,CI-6FD9D455,CRQ943317,Cleared DNS cache,"auth, crash, router",2025-02-23,Change
+INC10934,Service timeout in EU region,Network,Medium,Resolved,CI-13823F6F,CRQ957081,Reconfigured firewall rules,"timeout, auth, db",2025-02-20,Manual Error
+INC10935,Service timeout in EU region,Connectivity,Low,Open,CI-B6F7696E,CRQ929741,Updated routing table,"auth, timeout, latency",2025-02-23,Infra Issue
+INC10936,DNS lookup failed,Database,Low,Resolved,CI-77B123A1,CRQ924832,Reconfigured firewall rules,"db, latency, dns",2025-02-20,Change
+INC10937,System rebooted unexpectedly,Performance,Medium,In Progress,CI-E052D553,CRQ990258,Reconfigured firewall rules,"crash, latency, router",2025-03-02,Manual Error
+INC10938,High latency in application,Authentication,Low,Resolved,CI-05BB57B3,CRQ992693,Updated routing table,"latency, crash, auth",2025-03-13,Infra Issue
+INC10939,Firewall blocking outgoing traffic,Network,Low,Open,CI-59883B84,CRQ976879,,"crash, latency, firewall",2025-03-08,Change
+INC10940,Database connection issues,Connectivity,Low,Open,CI-FEAE6368,CRQ901060,Cleared DNS cache,"auth, crash, timeout",2025-03-11,Change
+INC10941,Application not responding,Connectivity,High,Resolved,CI-1A411B1F,CRQ996060,Reconfigured firewall rules,"timeout, dns, crash",2025-03-19,Change
+INC10942,System rebooted unexpectedly,Network,Medium,In Progress,CI-F86E3471,CRQ979331,Reconfigured firewall rules,"router, firewall, timeout",2025-03-04,Change
+INC10943,Authentication failed for multiple users,Performance,High,In Progress,CI-260F39A7,CRQ919589,Cleared DNS cache,"latency, crash, firewall",2025-03-08,Infra Issue
+INC10944,Service timeout in EU region,Database,Low,Resolved,CI-F081C3E2,CRQ996672,Reconfigured firewall rules,"auth, dns, timeout",2025-03-05,Change
+INC10945,High latency in application,Authentication,Medium,In Progress,CI-8BD96E5A,CRQ975197,Reconfigured firewall rules,"firewall, router, crash",2025-03-08,Change
+INC10946,Packet loss observed,Network,Low,Open,CI-BA06172F,CRQ969510,Cleared DNS cache,"db, firewall, dns",2025-03-19,Unknown
+INC10947,High latency in application,Database,Medium,Open,CI-817D3670,CRQ924814,Restarted service,"timeout, db, crash",2025-03-03,Manual Error
+INC10948,System rebooted unexpectedly,Database,High,Open,CI-4C7385F1,CRQ940108,Whitelisted IP range,"db, dns, router",2025-02-28,Network Glitch
+INC10949,Authentication failed for multiple users,Performance,Low,Open,CI-324B6A9C,CRQ974921,Reconfigured firewall rules,"crash, latency, timeout",2025-03-19,Change
+INC10950,Service timeout in EU region,Authentication,High,Open,CI-90A1989F,CRQ906962,Whitelisted IP range,"crash, db, firewall",2025-03-11,Change
+INC10951,Service timeout in EU region,Connectivity,High,In Progress,CI-D58CFB9A,CRQ966627,Cleared DNS cache,"timeout, crash, router",2025-03-06,Unknown
+INC10952,Database connection issues,Connectivity,Low,In Progress,CI-A0FA0F7E,CRQ959789,Whitelisted IP range,"timeout, crash, firewall",2025-03-02,Change
+INC10953,Firewall blocking outgoing traffic,Authentication,Low,Open,CI-064526BF,CRQ987112,Increased heap size,"auth, dns, timeout",2025-02-27,Change
+INC10954,Database connection issues,Performance,Medium,In Progress,CI-291C7AF7,CRQ946261,,"latency, router, db",2025-03-13,Manual Error
+INC10955,System rebooted unexpectedly,Database,Low,Resolved,CI-1E16354D,CRQ959933,Cleared DNS cache,"firewall, auth, crash",2025-03-07,Unknown
+INC10956,Database connection issues,Authentication,Low,Resolved,CI-FEAE6368,CRQ946061,Increased heap size,"firewall, latency, db",2025-02-19,Change
+INC10957,Authentication failed for multiple users,Authentication,Low,Open,CI-8751D263,CRQ942900,Increased heap size,"crash, router, db",2025-03-14,Unknown
+INC10958,High latency in application,Network,Low,In Progress,CI-403106D9,CRQ946061,,"latency, auth, dns",2025-02-24,Change
+INC10959,Unable to access service,Connectivity,Low,In Progress,CI-59883B84,CRQ965316,,"latency, router, db",2025-02-21,Network Glitch
+INC10960,Database connection issues,Authentication,Low,Resolved,CI-5CBCAC88,CRQ920549,Whitelisted IP range,"auth, latency, firewall",2025-02-21,Change
+INC10961,DNS lookup failed,Connectivity,Medium,Open,CI-C3AEAC79,CRQ940108,Reconfigured firewall rules,"auth, db, dns",2025-03-10,Network Glitch
+INC10962,Unable to access service,Authentication,High,In Progress,CI-46361946,CRQ938351,Reconfigured firewall rules,"firewall, router, db",2025-03-01,Change
+INC10963,Authentication failed for multiple users,Network,Medium,Open,CI-5B8CC68D,CRQ927640,Restarted service,"dns, crash, db",2025-02-26,Manual Error
+INC10964,Service timeout in EU region,Performance,High,Open,CI-F7FDC10D,CRQ935758,Updated routing table,"router, firewall, crash",2025-02-21,Change
+INC10965,Authentication failed for multiple users,Authentication,Low,Resolved,CI-F86E3471,CRQ949145,Restarted service,"dns, firewall, auth",2025-03-05,Network Glitch
+INC10966,Application not responding,Database,Low,In Progress,CI-85009BE0,CRQ996765,Updated routing table,"router, dns, crash",2025-02-21,Unknown
+INC10967,Unable to access service,Database,Low,Resolved,CI-1005D47E,CRQ980357,Updated routing table,"db, timeout, latency",2025-03-11,Unknown
+INC10968,Firewall blocking outgoing traffic,Network,Medium,Open,CI-5D825301,CRQ957081,Cleared DNS cache,"crash, db, router",2025-03-05,Manual Error
+INC10969,Unable to access service,Network,Low,Resolved,CI-4C7385F1,CRQ934782,Restarted service,"latency, auth, crash",2025-02-27,Network Glitch
+INC10970,High latency in application,Network,High,In Progress,CI-619B8270,CRQ965316,Updated routing table,"timeout, dns, firewall",2025-03-16,Change
+INC10971,Authentication failed for multiple users,Database,High,Resolved,CI-1A411B1F,CRQ927465,Cleared DNS cache,"timeout, firewall, latency",2025-02-24,Unknown
+INC10972,Authentication failed for multiple users,Performance,Medium,Resolved,CI-6FD9D455,CRQ944068,Reconfigured firewall rules,"latency, crash, router",2025-03-14,Change
+INC10973,Database connection issues,Connectivity,Medium,Open,CI-291C7AF7,CRQ969652,Whitelisted IP range,"latency, crash, db",2025-03-15,Infra Issue
+INC10974,Packet loss observed,Performance,Medium,Resolved,CI-5B8CC68D,CRQ951762,Whitelisted IP range,"dns, firewall, timeout",2025-02-23,Network Glitch
+INC10975,System rebooted unexpectedly,Performance,High,Open,CI-565AF07B,CRQ984870,,"router, dns, firewall",2025-02-26,Unknown
+INC10976,Authentication failed for multiple users,Connectivity,Medium,Resolved,CI-CD8722F4,CRQ995390,,"crash, router, latency",2025-03-05,Change
+INC10977,High latency in application,Performance,High,Resolved,CI-6E4827E0,CRQ941898,Updated routing table,"auth, crash, router",2025-03-21,Infra Issue
+INC10978,High latency in application,Network,Low,Resolved,CI-78D7E4EB,CRQ970129,Updated routing table,"dns, crash, firewall",2025-03-07,Change
+INC10979,Service timeout in EU region,Performance,Medium,Open,CI-DE8D4597,CRQ959789,Reconfigured firewall rules,"timeout, db, firewall",2025-03-09,Unknown
+INC10980,System rebooted unexpectedly,Connectivity,High,Open,CI-85009BE0,CRQ969420,Reconfigured firewall rules,"latency, firewall, auth",2025-02-28,Change
+INC10981,Unable to access service,Database,High,Resolved,CI-8BD96E5A,CRQ929618,,"db, auth, crash",2025-03-06,Unknown
+INC10982,Application not responding,Performance,Low,In Progress,CI-E7221F06,CRQ950007,,"firewall, dns, timeout",2025-03-15,Network Glitch
+INC10983,Firewall blocking outgoing traffic,Performance,Low,Resolved,CI-1E16354D,CRQ911141,Updated routing table,"auth, db, timeout",2025-02-25,Network Glitch
+INC10984,DNS lookup failed,Performance,Low,In Progress,CI-E7221F06,CRQ913191,Cleared DNS cache,"router, timeout, crash",2025-03-09,Change
+INC10985,Database connection issues,Performance,Low,Open,CI-D58CFB9A,CRQ959933,Cleared DNS cache,"firewall, latency, db",2025-03-02,Change
+INC10986,Unable to access service,Performance,Low,In Progress,CI-291C7AF7,CRQ974921,,"auth, timeout, router",2025-03-20,Change
+INC10987,DNS lookup failed,Authentication,Low,Resolved,CI-53B556DA,CRQ999999,Updated routing table,"crash, db, firewall",2025-02-27,Change
+INC10988,High latency in application,Network,Medium,In Progress,CI-A0FA0F7E,CRQ959956,Whitelisted IP range,"auth, dns, db",2025-03-02,Network Glitch
+INC10989,Unable to access service,Authentication,Low,Open,CI-064526BF,CRQ936380,Reconfigured firewall rules,"firewall, auth, timeout",2025-03-13,Unknown
+INC10990,Unable to access service,Network,Low,Resolved,CI-05BB57B3,CRQ978716,Reconfigured firewall rules,"crash, db, timeout",2025-03-01,Infra Issue
+INC10991,Database connection issues,Network,High,Resolved,CI-1BF32CB7,CRQ996060,Updated routing table,"auth, latency, dns",2025-03-07,Unknown
+INC10992,Firewall blocking outgoing traffic,Authentication,Low,Resolved,CI-C3AEAC79,CRQ989911,Restarted service,"crash, router, dns",2025-02-28,Change
+INC10993,Service timeout in EU region,Connectivity,Medium,In Progress,CI-1BF32CB7,CRQ906374,Restarted service,"dns, crash, latency",2025-03-20,Change
+INC10994,Service timeout in EU region,Connectivity,Low,In Progress,CI-6CA0F946,CRQ946660,Cleared DNS cache,"crash, dns, router",2025-03-15,Change
+INC10995,High latency in application,Performance,Low,Resolved,CI-F7FDC10D,CRQ911141,Reconfigured firewall rules,"db, router, firewall",2025-02-25,Manual Error
+INC10996,DNS lookup failed,Network,Medium,Resolved,CI-565AF07B,CRQ950411,Cleared DNS cache,"timeout, auth, router",2025-02-19,Network Glitch
+INC10997,Unable to access service,Connectivity,High,Open,CI-34393CCA,CRQ927640,Cleared DNS cache,"timeout, db, auth",2025-03-06,Change
+INC10998,Authentication failed for multiple users,Network,Medium,Resolved,CI-260F39A7,CRQ945482,Restarted service,"firewall, db, router",2025-03-19,Unknown
+INC10999,System rebooted unexpectedly,Authentication,Low,Open,CI-8BD96E5A,CRQ969652,Updated routing table,"auth, latency, crash",2025-03-16,Network Glitch
